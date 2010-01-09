@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+sitemap: https://administrasi.net/quran/sitemap.xml
