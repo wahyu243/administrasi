@@ -245,3 +245,8 @@ a.butedit {
 .previous.last {
     float: right;
 }
+.pager .disabled>a {
+    background-color: #00bfb7;
+    color: #fff;
+    border: 1px solid #00bfb7;
+}
