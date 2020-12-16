@@ -236,3 +236,6 @@ a.butedit {
     padding: 0 14px;
 }
 .display-none{display:none}
+.pager .next>a, .pager .previous>a {
+    float: none;
+}
