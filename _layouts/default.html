@@ -1,0 +1,32 @@
+---
+layout: compress
+---
+
+
+{% include doctype-head.html %}
+<body data-spy="scroll" data-offset="80" data-target=".scrollspy" id="top">
+    
+    <!--[if lt IE 10]>
+        <p class="oldie">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> to better experience this site.</p>
+    <![endif]-->
+
+    {% include header.html %}
+        {{ content }}
+    {% if page.layout == 'post' %} 
+    {% include alertbar.html %}
+    {% endif %}       
+    <div class="container">
+    {% include ads-footer.html %}
+    </div> 
+    {% include footer.html %}
+    <div id='kotak-dialog' class="no-print"><h5 class='title'>Tunggu hingga dokumen muncul<a class='closed' href='#'><i aria-hidden='true' class='glyphicon glyphicon-remove'></i></a></h5><div class='isi-dialog'><div id='iframeContainer'></div></div></div><div id='dialog-overlay'></div>
+    {% include svg-defs.svg %}
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>  
+    <script src="{{ site.baseurl }}/js/all.min.js"></script>
+    {% if page.layout == 'post' or page.layout == 'page' or page.layout == 'news_item' %} 
+    {% include disqus.html %}
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/id_ID/sdk.js#xfbml=1&version=v7.0&appId=502591903662193&autoLogAppEvents=1"></script>
+    {% endif %}
+</body>
+</html>

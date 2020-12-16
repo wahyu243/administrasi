@@ -1,0 +1,290 @@
+# Site settings
+name: Administrasi.Net
+title: Administrasi.Net | Portal Informasi Informatif
+description: "Administrasi.net menyajikan berbagai informasi informatif tentang pendidikan, dokumen, rpp, buku, tutorial, berita, dll."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://administrasi.net" # the name of your domain
+logo_url: svg/logo.svg
+image: https://administrasi.net/img/twitter-card.png
+
+# Hero
+hero: 
+    hero_img: hero.jpg
+    hero_title: Administrasi.Net
+    hero_description: Contoh berbagai Dokumen Administrasi.
+
+authors:
+    wahyu:
+      name:           you
+      slug:           you
+      site:           https://administrasi.net
+      avatar:         /img/you.png
+      avatarlow:      /img/low/you.jpg
+      bio:            "Hi, selamat datang di Administrasi.Net semoga website ini dapat bermanfaat bagi semua. Jangan lupa untuk bergabung, anda juga bisa menjadi kontributor di Administrasi.Net"
+      email:          wahyu243@gmail.com 
+      twitter:        wahyu37853583
+      facebook:       you.w4hyou
+    
+collections:
+  pages:
+    permalink: "/:path"
+    output: true
+    pagination:
+       enabled: true
+  posts:
+    permalink: "/:categories/:title"
+    output: true
+    pagination:
+       enabled: true
+
+defaults:
+- scope:
+    path: _pages
+    type: pages
+  values:
+    layout: page
+    image: twitter-card.png
+    author: wahyu
+    avatar: /img/you.jpg
+    toc: true
+- scope:
+    path: _pages/kontributor
+    type: pages
+  values:
+    layout: kontributor
+    image: twitter-card.png
+    author: wahyu
+    avatar: /img/you.jpg
+- scope:
+    path: _posts
+    type: posts
+  values:
+    layout: post
+    image: twitter-card.png
+    author: wahyu
+    avatar: /img/you.jpg
+    toc: true
+- scope:
+    path: _posts/buku
+    type: posts
+  values:
+    layout: post
+    category: buku
+    csymb: bse
+    permalink: "/bse/:title"
+    image: twitter-card.png
+    author: wahyu
+    avatar: /img/you.jpg
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "Buku Sekolah Elektronik"
+        url: /bse
+- scope:
+    path: _posts/artikel
+    type: posts
+  values:
+    layout: post
+    category: artikel
+    csymb: artikel
+    image: twitter-card.png
+    author: wahyu
+    avatar: /img/you.jpg
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "Artikel"
+        url: /artikel
+- scope:
+    path: _posts/berita
+    type: posts
+  values:
+    layout: post
+    category: berita
+    csymb: berita
+    image: twitter-card.png
+    author: wahyu
+    avatar: /img/you.jpg
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "Berita"
+        url: /berita
+- scope:
+    path: _posts/administrasi
+    type: posts
+  values:
+    layout: post
+    permalink: "/adm/:title"
+    category: administrasi
+    csymb: adm
+    image: twitter-card.png
+    author: wahyu
+    avatar: /img/you.jpg
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "Administrasi"
+        url: /adm
+- scope:
+    path: _posts/tutorial
+    type: posts
+  values:
+    layout: post
+    category: tutorial
+    csymb: tutorial
+    image: twitter-card.png
+    author: wahyu
+    avatar: /img/you.jpg
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "Tutorial"
+        url: /tutorial
+- scope:
+    path: _posts/teori
+    type: posts
+  values:
+    layout: post
+    category: teori
+    csymb: teori
+    image: twitter-card.png
+    author: wahyu
+    avatar: /img/you.jpg
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "Teori"
+        url: /teori/
+- scope:
+    path: _posts/dongeng
+    type: posts
+  values:
+    layout: post
+    category: dongeng
+    csymb: dongeng
+    image: twitter-card.png
+    author: wahyu
+    avatar: /img/you.jpg
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "Dongeng"
+        url: /dongeng/
+- scope:
+    path: _posts/infografis
+    type: posts
+  values:
+    layout: post
+    category: infografis
+    csymb: infografis
+    image: twitter-card.png
+    author: wahyu
+    avatar: /img/you.jpg
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "Infografis"
+        url: /infografis/
+
+# Contact form
+api_token: 2a824f5cb9d63ff7e9d555cf5d7551fe
+
+# Contact info
+contact:
+    phone: 0812 3446 7773
+    email: wahyu243@gmail.com
+    address: Jl. Sindangsari, <br> Cikoneng - Ciamis
+    facebookname: Administrasi.Net
+    facebookurl: https://facebook.com/administrasi.net
+    twittername: administrasi
+    twitterurl: https://twitter.com/administrasi
+
+# Testimonials
+testimonials:
+    testimonials_img: parallax.jpg
+
+# Social settings
+facebook: https://www.facebook.com/administrasi.net
+twitter: http://twitter.com
+instagram: http://instagram.com
+youtube: http://youtube.com
+skype: 
+feed: yes
+
+# Footer
+copyright: © 2020 Administrasi.Net - All rights reserved
+
+# Build settings
+markdown: kramdown
+
+exclude: [
+    package.json,
+    Gruntfile.js,
+    node_modules,
+    .sass-cache,
+    Gemfile,
+    Gemfile.lock,
+    .gitignore
+]
+
+sass:
+  style: compressed
+  
+include: [_redirects,.htaccess,_pages,_headers,.gitmodules]
+
+plugins:
+  - amp-jekyll
+  - jekyll-toc
+  - jekyll-redirect-from
+
+gems:
+  - jekyll-paginate-v2
+  
+toc:
+  min_level: 1
+  max_level: 10
+  ordered_list: false
+  no_toc_section_class: no_toc_section
+  list_class: section-nav
+  sublist_class: ''
+  item_class: toc-entry
+  item_prefix: toc-
+  
+ampdir: amp
+
+pagination:
+  enabled: true
+  per_page: 14
+  permalink: '/page/:num/'
+  title: 'Halaman :num dari :max - :title '
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  trail: 
+    before: 2 # The number of links before the current page
+    after: 2  # The number of links after the current page
+  indexpage: 'index'
+
+
+# Theme Settings
+gtag-manager: UA-115101359-19
+google_verification: KVq75QFLhLp8UoW-Mf-ifdxcDsciWvOnDrQEn25KS5M
+bing_verification: 45256F6C01A5B0893737B4B675E797AE
+
+compress_html:
+  clippings: all
+  comments: [""]
+  endings: [all]
+  profile: false
+  blanklines: false
+  ignore:
+    envs: []

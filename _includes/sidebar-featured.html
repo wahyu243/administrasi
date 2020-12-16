@@ -1,0 +1,65 @@
+<div class="sticky-top sticky-top-offset">
+    <h4 class="font-weight-bold spanborder"><span>Artikel</span></h4>  
+    <ol class="list-featured">				
+        {% for post in site.categories.artikel limit:5%}                
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="{{site.baseurl}}{{ post.url }}" class="text-dark">{{ post.title }}</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    {% for category in post.categories %}
+                    <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/{{ category | replace: 'buku', 'bse' | replace: 'administrasi', 'adm'}}">{{ category }}</a><span class="sep">, </span>
+                    {% endfor %}
+                    </span>
+                </span>
+            </span>
+            </li>                
+        {% endfor %}   
+    </ol>
+</div> 
+
+<div class="sticky-top sticky-top-offset">
+    <h4 class="font-weight-bold spanborder"><span>Administrasi</span></h4>  
+    <ol class="list-featured">				
+        {% for post in site.tags.administrasi limit:5%}                
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="{{site.baseurl}}{{ post.url }}" class="text-dark">{{ post.title }}</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    {% for category in post.categories %}
+                    <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/{{ category }}">{{ category }}</a><span class="sep">, </span>
+                    {% endfor %}
+                    </span>
+                </span>
+            </span>
+            </li>                
+        {% endfor %}   
+    </ol>
+</div> 
+
+<div class="sticky-top sticky-top-offset">
+    <h4 class="font-weight-bold spanborder"><span>Buku</span></h4>  
+    <ol class="list-featured">				
+        {% for post in site.categories.buku limit:5%}                
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="{{site.baseurl}}{{ post.url }}" class="text-dark">{{ post.title }}</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    {% for category in post.categories %}
+                    <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/{{ category }}">{{ category }}</a><span class="sep">, </span>
+                    {% endfor %}
+                    </span>
+                </span>
+            </span>
+            </li>                
+        {% endfor %}   
+    </ol>
+</div> 
