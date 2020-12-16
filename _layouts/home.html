@@ -205,7 +205,7 @@ description: "Administrasi.net menyajikan berbagai informasi informatif tentang 
    {% if paginator.total_pages > 1 %}
   <ul class="pager">
       {% if paginator.first_page %}
-      <li class="previous">
+      <li class="previous left">
           <a href="{{ paginator.first_page_path | prepend: site.baseurl | replace: '//', '/' }}">First</a>
       </li>
       {% endif %}
@@ -231,7 +231,7 @@ description: "Administrasi.net menyajikan berbagai informasi informatif tentang 
       {% endif %}
 
        {% if paginator.last_page %}
-      <li class="previous">
+      <li class="previous last">
           <a href="{{ paginator.last_page_path | prepend: site.baseurl | replace: '//', '/' }}">Last</a>
       </li>
       {% endif %}
