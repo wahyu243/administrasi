@@ -239,3 +239,9 @@ a.butedit {
 .pager .next>a, .pager .previous>a {
     float: none;
 }
+.previous.left {
+    float: left;
+}
+.previous.last {
+    float: right;
+}
