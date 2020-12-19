@@ -45,7 +45,7 @@ Buku yang dibagikan kali ini adalah **buku guru** bagi satuan pendidikan SMP (SL
 
 Buku Kelas 9 Kurikulum 2013 ini dibagikan sebagai buku sekolah digital dengan format .pdf, sehingga dapat diunduh dan digunakan dengan mudah.
 
-## Buku Guru Kelas IX IPS
+## Buku Guru Kelas 9 IPS
 
 |Uraian|Keterangan|
 | --- | --- |
@@ -67,7 +67,7 @@ Penulis|Iwan Setiawan, Retno Kuning, Suciati, dan A. Mushlih|
   
 ## Pertimbangan
 
-### Fungsi Buku Guru
+### Fungsi Buku Guru Kelas 9 IPS
 1. Sebagai Petunjuk Penggunaan Buku Siswa
 Informasi yang akan didapatkan dari Buku Guru adalah sebagai berikut.
 a. Karakteristik Kurikulum 2013, Kompetensi Inti, Kompetensi Dasar, dan Indikator Pencapaian Kompetensi Dasar Pembelajaran mata pelajaran terkait.
@@ -79,8 +79,8 @@ b. Menjelaskan langkah-langkah pembelajaran yang dilakukan dalam menyelenggaraka
 c. Menjelaskan tentang teknik dan instrumen penilaian yang dapat digunakan dalam setiap pilihan pembelajaran yang mungkin memiliki karakteristik tertentu.
 3. Penjelasan tentang metode dan teknik yang digunakan dalam proses pembelajaran.
 
-### Karakteristik Buku Guru
-Buku Guru kurikulum 2013 dirancang dengan karakteristik sebagai berikut.
+### Karakteristik Buku Guru Kelas 9 IPS
+**Buku Guru Kelas 9 IPS** kurikulum 2013 dirancang dengan karakteristik sebagai berikut.
 
 1. Mengembangkan keseimbangan antara sikap spiritual dan sosial, pengetahuan, dan keterampilan, serta menerapkannya dalam berbagai situasi di sekolah dan masyarakat.
 2. Menempatkan sekolah sebagai bagian dari masyarakat yang memberikan pengalaman belajar agar siswa mampu menerapkan apa yang dipelajari di sekolah ke masyarakat dan memanfaatkan masyarakat dan lingkungan sebagai sumber belajar.
@@ -94,7 +94,7 @@ Buku ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _sisw
 Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda untuk mempergunakannya sebagaimana mestinya bukan untuk diperjualbelikan atau dikomersilkan.
   
 ## Download Buku IPS SMP Kelas 9
-**Buku SMP Kurtilas Revisi 2018** ini dapat anda unduh melalui tombol dibawah:
+**Buku SMP Mapel IPS Kelas 9 Kurtilas Revisi 2018** ini dapat anda unduh melalui tombol dibawah:
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1zzFlAfrjiihu0OL1024PLsehntFiixi2" rel="nofollow" target="_blank" title="Download">Download</a>
 <a class="button demo open-dialog" href="https://drive.google.com/file/d/1zzFlAfrjiihu0OL1024PLsehntFiixi2/preview" Title="Baca Online" rel="nofollow">Baca Online</a></p>
 
