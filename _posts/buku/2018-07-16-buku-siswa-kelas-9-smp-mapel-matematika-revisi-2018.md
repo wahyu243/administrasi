@@ -44,7 +44,7 @@ published: true
 
 **Buku Siswa Kelas IX Matematika** ini sangat penting bagi guru ataupun siswa. **buku paket** bagi guru dapat bermanfaat sebagai panduan dalam membuat program pembelajaran seperti **RPP**. Sedangkan bagi siswa dapat bermanfaat sebagai sumber belajar bagi siswa dalam mengikuti pelaksanaan pembelajaran.
 
-## Ikhtisar Buku Siswa Kelas IX Matematika
+## Ikhtisar Buku Siswa Kelas 9 Matematika
 
 |Uraian|Keterangan|
 | --- | --- |
@@ -60,7 +60,7 @@ Penulis|Subchan, Winarni, Muhammad Syifa'ul Mufid, Kistosil Fahim, dan Wawan Haf
 |Tahun|<strong>Edisi Revisi 2018</strong>|
 |ISBN|<strong>978-602-282-984-3</strong>|
 
-### Materi Kelas IX Mapel Matematika
+### Materi Kelas 9 Mapel Matematika
 
 1. Perpangkatan dan Bentuk Akar
 2. Persamaan dan Fungsi Kuadrat
