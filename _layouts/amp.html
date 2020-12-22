@@ -230,11 +230,12 @@ button.ap-o-header-main-link.ap-m-nav-link {
 		
 <article class="entry ap--content">
   <header class="entry-header">
-    <div class="entry-meta">
-	<span class="posted-on">{% assign author = site.authors[page.author] %}
-	<a href="{{site.url | replace: "amp",""}}/kontributor/{{ author.slug | slugify }}">{{author.name | replace: 'artipedia','wahyu'}}</a> | <time class="entry-date published updated" datetime="{{ page.date | date_to_string }}">{{ page.date | date_to_string }}</time>		</span>
-	</div><!-- .entry-meta -->
+    <!-- .entry-meta -->
 	<h1 class="entry-title"><a href="{{ site.url | replace: "amp","" }}{{ page.url }}" title="{{ page.title | strip_html }}">{{ page.title | strip_html }}</a></h1>
+	  <div class="entry-meta">
+	<span class="posted-on">{% assign author = site.authors[page.author] %}
+	<a href="{{site.url | replace: "amp",""}}/kontributor/{{ author.slug | slugify }}">{{author.name | replace: 'artipedia','wahyu' | capitalize}}</a> | <time class="entry-date published updated" datetime="{{ page.date | date_to_string }}">{{ page.date | date_to_string }}</time>		</span>
+	</div>
 	<div class="entry-taxonomies">
 	<span class="category-links term-links">
 	<a class="ap-m-filter-bubble" href="/{{ page.category }}" rel="category tag">{{ page.category | capitalize }}</a>		</span>
