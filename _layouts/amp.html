@@ -226,7 +226,7 @@ button.ap-o-header-main-link.ap-m-nav-link {
 <article class="entry ap--content">
   <header class="entry-header">
     <div class="entry-meta">
-	<span class="posted-on">
+	<span class="posted-on">{% assign author = site.authors[page.author] %}
 	<a href="{{site.url | replace: "amp",""}}/kontributor/{{ author.slug | slugify }}">{{author.name | replace: 'artipedia','wahyu'}}</a> | <time class="entry-date published updated" datetime="{{ page.date | date_to_string }}">{{ page.date | date_to_string }}</time>		</span>
 	</div><!-- .entry-meta -->
 	<h1 class="entry-title"><a href="{{ site.url | replace: "amp","" }}{{ page.url }}" title="{{ page.title | strip_html }}">{{ page.title | strip_html }}</a></h1>
