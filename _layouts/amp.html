@@ -227,9 +227,9 @@ button.ap-o-header-main-link.ap-m-nav-link {
   <header class="entry-header">
     <div class="entry-meta">
 	<span class="posted-on">
-	<a href="{{ site.url }}{{ page.url }}" rel="bookmark"><time class="entry-date published updated" datetime="{{ page.date | date_to_string }}">{{ page.date | date_to_string }}</time></a>		</span>
+	<a href="{{site.url | replace: "amp",""}}/kontributor/{{ author.slug | slugify }}">{{author.name | replace: 'artipedia','wahyu'}}</a> | <time class="entry-date published updated" datetime="{{ page.date | date_to_string }}">{{ page.date | date_to_string }}</time>		</span>
 	</div><!-- .entry-meta -->
-	<h1 class="entry-title">{{ page.title | strip_html }}</h1>
+	<h1 class="entry-title"><a href="{{ site.url | replace: "amp","" }}{{ page.url }}" title="{{ page.title | strip_html }}">{{ page.title | strip_html }}</a></h1>
 	<div class="entry-taxonomies">
 	<span class="category-links term-links">
 	<a class="ap-m-filter-bubble" href="/{{ page.category }}" rel="category tag">{{ page.category | capitalize }}</a>		</span>
@@ -238,7 +238,7 @@ button.ap-o-header-main-link.ap-m-nav-link {
   
 <div class="entry-content">
 <div class="fixed-container">
-<amp-img class="img-feat contain" src="/img/{{ page.image | replace: '/img/','' | img_url: 'x450', crop: 'bottom' }}" alt="{{ page.title | strip_html }}" width="500" height="400" layout="responsive">
+<amp-img alt="{{ page.title | strip_html }}" class="img-feat contain" src="/img/{{ page.image | replace: '/img/','' | img_url: 'x450', crop: 'bottom' }}" alt="{{ page.title | strip_html }}" layout="responsive">
 <noscript>
 <img  class="img-feat contain"  src="/img/{{ page.image | replace: '/img/','' | img_url: 'x450', crop: 'bottom' }}" width="475" height="268" alt="AMP">
 </noscript>
@@ -307,14 +307,40 @@ button.ap-o-header-main-link.ap-m-nav-link {
         </div>
         <div class="share-btn">
         <a href="https://facebook.com/sharer.php?u={{ site.url | replace: "amp",""}}{{ page.url | replace: "amp",""}}" rel="nofollow" target="_blank" title="Share on Facebook"  class="facebook-share-btn large-share-button"> 
-		<span class="social-text">Facebook</span></a>
-        <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url | replace: "amp",""}}&via=bootyocean18" rel="nofollow" target="_blank" title="Share on Twitter"  class="twitter-share-btn large-share-button"> <span class="social-text">Twitter</span></a>
+		<amp-img alt="Facebook"
+  src="/https://administrasi.net/svg/facebook.svg"
+  width="16"
+  height="16"
+  layout="fixed">
+</amp-img>
+		</a>
+        <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url | replace: "amp",""}}&via=bootyocean18" rel="nofollow" target="_blank" title="Share on Twitter"  class="twitter-share-btn large-share-button"> <amp-img alt="twitter"
+  src="/https://administrasi.net/svg/twitter.svg"
+  width="16"
+  height="16"
+  layout="fixed">
+</amp-img><span class="social-text">Twitter</span></a>
         <a href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url | replace: "amp",""| replace: "amp",""}}&title={{ page.title }}&summary={{ page.summary }}&source={{ site.url }}" rel="nofollow" target="_blank" title="Share On LinkedIn" class="linkedin-share-btn">
-		<span class="social-text">L</span></a>
+		<amp-img alt="Linkedin"
+  src="/https://administrasi.net/svg/linkedin.svg"
+  width="16"
+  height="16"
+  layout="fixed">
+</amp-img>
          <a href="https://wa.me/?text={{ site.url }}{{ page.url | replace: "amp",""}}" rel="nofollow" target="_blank" title="Share On Whatsapp"  class="whatsapp-share-btn">
-		 <span class="social-text">W</span></a>          
+		 <amp-img alt="Whatsapp"
+  src="/https://administrasi.net/svg/whatsapp.svg"
+  width="16"
+  height="16"
+  layout="fixed">
+</amp-img>></a>          
         <a href="mailto:?subject={{ page.title }}&amp;body={{ site.url }}{{ page.url | replace: "amp",""}}" rel="external" target="_blank" class="email-share-btn">
-		<span class="social-text">@</span></a>
+		<amp-img alt="Mail"
+  src="/https://administrasi.net/svg/envelope.svg"
+  width="16"
+  height="16"
+  layout="fixed">
+</amp-img></a>
     </div>
         </div>
 </div>
@@ -323,7 +349,7 @@ button.ap-o-header-main-link.ap-m-nav-link {
 	</main>
 	  <footer class="entry-content">
      <a class="ap-o-header-home" href="{{site.url}}">
-      <amp-img width="220"
+      <amp-img alt="Administrasi.Net" width="220"
   height="30" class="ap-o-header-home-logo" src="https://administrasi.net/svg/logo.svg"></amp-img>
       <span class="ap-o-header-home-title">{{site.title}}</span>
     </a>
