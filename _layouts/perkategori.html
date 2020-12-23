@@ -14,7 +14,7 @@ layout: default
         
 		
 		<div class="mt-3">
-<h3 class="font-weight-bold spanborder"><span>Post</span></h3>
+<h3 class="font-weight-bold spanborder"><span>{{ page.title }}</span></h3>
 {% for post in paginator.posts %}
 {% include main-card.html %}
 {% endfor %}
