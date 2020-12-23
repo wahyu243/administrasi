@@ -5,6 +5,7 @@ description: Download Buku siswa kelas 3 Tema 4 Kewajiban dan Hakku Revisi 2018
   terdiri dari 4 subTema 1. Kewajiban dan Hakku di Rumah, 2. Kewajiban dan Hakku
   di Sekolah, 3. Kewajiban dan Hakku dalam Bertetangga, 4. Kewajiban dan Hakku
   sebagai Warga Negara.
+image: /img/buku-siswa-tema-4-kelas-3-hak-dan-kewajibanku.png
 tags:
   - buku
   - pendidikan
