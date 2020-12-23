@@ -1,8 +1,13 @@
 ---
-title: "Apa itu Magang?"
-date: "2020-12-12 20:48:09"
-description: Pengrtian/Definisi Magang. Magang dapat diartikan sebagai proses belajar mengerjakan suatu pekerjaan yang dilakukan langsung di tempat kerja tertentu baik itu didampingi oleh instruktur ataupun tidak.
-tags: [referensi,pendidikan]
+title: Apa itu Magang?
+description: Pengrtian/Definisi Magang. Magang dapat diartikan sebagai proses
+  belajar mengerjakan suatu pekerjaan yang dilakukan langsung di tempat kerja
+  tertentu baik itu didampingi oleh instruktur ataupun tidak.
+image: /img/apa-itu-magang.jpg
+date: 2020-12-12 20:48:09
+tags:
+  - referensi
+  - pendidikan
 ---
 
 
