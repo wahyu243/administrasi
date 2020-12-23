@@ -1,8 +1,14 @@
 ---
-title: "Pengembangan Bina Diri dan Gerak Bagi Tunadaksa"
-date: "2020-12-12 14:49:09"
-description: Bina Diri dan Bina Gerak adalah serangkaian kegiatan pembinaan dan latihan yang dilakukan oleh guru secara terencana dan terprogram terhadap individu kemampuan mengurus diri, atau menolong diri sendiri (self help, self care).
-tags: [referensi,abk]
+title: Pengembangan Bina Diri dan Gerak Bagi Tunadaksa
+description: Bina Diri dan Bina Gerak adalah serangkaian kegiatan pembinaan dan
+  latihan yang dilakukan oleh guru secara terencana dan terprogram terhadap
+  individu kemampuan mengurus diri, atau menolong diri sendiri (self help, self
+  care).
+image: /img/apa-itu-bina-diri-dan-bina-gerak.jpg
+date: 2020-12-23T02:36:56.852Z
+tags:
+  - referensi
+  - abk
 published: true
 ---
 
