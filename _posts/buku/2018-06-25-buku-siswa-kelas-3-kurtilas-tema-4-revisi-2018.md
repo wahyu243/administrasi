@@ -1,9 +1,22 @@
 ---
-title: "Buku Siswa Kelas 3 Tema 4 Kewajiban dan Hakku Revisi 2018"
-date: "2018-06-25 04:49:09"
-description: Download Buku siswa kelas 3 Tema 4 Kewajiban dan Hakku Revisi 2018 terdiri dari 4 subTema 1. Kewajiban dan Hakku di Rumah, 2. Kewajiban dan Hakku di Sekolah, 3. Kewajiban dan Hakku dalam Bertetangga, 4. Kewajiban dan Hakku sebagai Warga Negara.
-tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-3,revisi-2018,tematik,download]
+title: Buku Siswa Kelas 3 Tema 4 Kewajiban dan Hakku Revisi 2018
+date: 2018-06-25 04:49:09
+description: Download Buku siswa kelas 3 Tema 4 Kewajiban dan Hakku Revisi 2018
+  terdiri dari 4 subTema 1. Kewajiban dan Hakku di Rumah, 2. Kewajiban dan Hakku
+  di Sekolah, 3. Kewajiban dan Hakku dalam Bertetangga, 4. Kewajiban dan Hakku
+  sebagai Warga Negara.
+tags:
+  - buku
+  - pendidikan
+  - sd
+  - siswa
+  - buku-siswa
+  - kelas-3
+  - revisi-2018
+  - tematik
+  - download
 published: true
+last_modified_date: 2020-12-23T02:03:35.851Z
 ---
 
 <script type="application/ld+json">
@@ -76,7 +89,15 @@ Penulis|Iba Muhibba dan Lubna Assagaf.|
 
 <b>Kegiatan pembelajaran</b> di <b>buku</b> ini didesain untuk mengembangkan kompetensi (sikap, pengetahuan, dan keterampilan) peserta didik melalui aktivitas yang bervariasi sebagai berikut.
 <ol><li>Membuka pelajaran yang menarik perhatian peserta didik seperti membacakan cerita, bertanya jawab, bernyanyi, permainan, demonstrasi, memberikan masalah, dan sebagainya.</li><li>Menginformasikan tujuan pembelajaran sehingga peserta didik dapat mengorganisasi informasi yang disampaikan (apa yang dilihat, didengar, dirasakan, dan dikerjakan).</li><li>Memantik pengetahuan peserta didik yang diperoleh sebelumnya agar peserta didik bisa mengaitkan pengetahuan terdahulu dan yang akan dipelajari.</li><li>Pemberian tugas yang bertahap guna membantu peserta didik memahami konsep.</li><li>Penugasan yang membutuhkan keterampilan tingkat tinggi.</li><li>Pemberian kesempatan untuk melatih keterampilan atau konsep yang telah dipelajari.</li><li>Pemberian umpan balik yang akan menguatkan pemahaman peserta didik.</li></ol>
-  
+
+### Contoh Materi 
+Hak Siswa di Sekolah :
+1. Berhak mendapat perlakuan adil (nilai) dari guru dan perlindungan.
+2. Berhak mendapat bimbingan dari guru dan pendidikan.
+3. Berhak meminjam buku di perpustakaan.
+4. Berhak mempunyai banyak teman.
+5. Berhak menggunakan fasilitas yg ada disekolah
+
 ## Pertimbangan
 Buku siswa Kurtilas Tema Kewajiban dan Hakku kelas 4 ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _siswa_ dan _orang tua_ yang tidak memiliki buku tersebut dan memerlukannya untuk proses pembelajaran atau bimbingan baik di sekolah maupun di rumah.
 
