@@ -16,17 +16,33 @@
               <div class="collapse navbar-collapse scrollspy" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li><a class="scroll" href="{{ site.url }}" title="Beranda">Beranda</a></li>
-                <li><a class="scroll" href="{{ site.url }}/adm" title="Administrasi">Administrasi</a></li>
+                <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pendidikan <b class="caret"></b></a>
+        <ul class="dropdown-menu">
+          <li><a href="{{ site.url }}/adm">Administrasi</a></li>
+          <li><a href="{{ site.url }}/bse">Buku Elektronik</a></li>
+          <li class="divider"></li>
+	  <li><a href="{{ site.url }}/teori">Teori</a></li>
+           </ul>
+      </li>
                 <li><a class="scroll" href="{{ site.url }}/artikel" title="Artikel">Artikel</a></li>
-                <li><a class="scroll" href="{{ site.url }}/berita" title="Berita">Berita</a></li>
-                <li><a class="scroll" href="{{ site.url }}/bse" title="Buku Sekolah Digital (BSD)">Buku</a></li>
-                <li><a class="scroll" href="{{ site.url }}/teori" title="Teori">Teori</a></li>
-                <li><a class="scroll" href="{{ site.url }}/tutorial" title="Tutorial">Tutorial</a></li>
-                <li><a class="scroll" href="{{ site.url }}/kontributor/daftar-kontributor" title="Kontributor">Kontributor</a></li>
+                <li><a class="scroll" href="{{ site.url }}/berita" title="Berita">Berita</a></li>     
+		                    <li><a class="scroll" href="{{ site.url }}/dongeng" title="Dongeng">Dongeng</a></li> 
+                <li><a class="scroll" href="{{ site.url }}/tutorial" title="Tutorial">Tutorial</a></li>               	
+		    <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Panduan <b class="caret"></b></a>
+        <ul class="dropdown-menu">
+          <li><a href="{{ site.url }}/kontributor/daftar-kontributor">Kontributor</a></li>
+          <li><a href="{{ site.url }}/doc/kebijakan-privasi-cookiee">Pusat Kebijakan</a></li>
+	  <li><a href="{{ site.url }}/doc/kode-etik">Kode Etik</a></li>
+          <li class="divider"></li>
+	  <li><a href="{{ site.url }}/doc/tentang-administrasi">Tentang</a></li>
+           </ul>
+      </li>
+		    
                 <li><a href="/cari" class="scroll search-modal" action="{{ site.baseurl }}/search"><i class="glyphicon glyphicon-search"></i></a></li>
-              
-			  </ul>
+            </ul>
         </div>
-            </div>
+	</div>
 </nav>
 <!-- End Header -->
