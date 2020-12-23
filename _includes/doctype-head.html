@@ -11,14 +11,14 @@
 {% if page.path contains '_posts' or page.layout == 'post' or page.layout == 'news_item'%}
   <link rel="amphtml" href="{{ page.id | prepend: '/amp' | prepend: site.baseurl | prepend: site.url }}">
 {% endif %}
-    <title>{%if page.title %}{{ page.title }} | {{ site.name }} {% else %}{{ site.title }}{% endif %}</title>
-	<meta name="title" content="{%if page.title %}{{ page.title }} | {{ site.name }} {% else %}{{ site.title }}{% endif %}">
+    <title>{%if page.title %}{{ page.title }} {% else %}{{ site.title }}{% endif %}</title>
+	<meta name="title" content="{%if page.title %}{{ page.title }} {% else %}{{ site.title }}{% endif %}">
  {% if page.layout == 'post' or page.layout == 'page' %}<meta name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ page.excerpt }}{% endif %}">
 	{% endif %}
  
     <meta property="fb:app_id" content="2023057631120381">
     <meta property="og:locale" content="id">
-    <meta property="og:title" content="{%if page.title %}{{ page.title }} | {{ site.name }}{% else %}{{ site.name }}{% endif %}">
+    <meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:site_name" content="{{ site.name }}">
     {% if page.layout == 'post' or page.layout == 'page' %}
