@@ -1,10 +1,10 @@
 ---
 layout: perkategori
-title: SD
-permalink: /sd
+title: Buku SD
+permalink: /bse/sd
 pagination: 
   enabled: true
-  collection: all
+  collection: posts
   tag: sd
   permalink: /:num/
   
