@@ -1,8 +1,14 @@
 ---
-title: "Pengertian Pendidikan Inklusi"
-description: Pendidikan inklusi merupakan bentuk penyelenggaraan pendidikan yang menyatukan anak-anak berkebutuhan khusus dengan anak-anak normal pada umumnya untuk belajar.
-date: "2020-12-12 20:48:09 -0500"
-tags: [referensi,pendidikan,pendidikan-khusus]
+title: Pengertian Pendidikan Inklusi
+description: Pendidikan inklusi merupakan bentuk penyelenggaraan pendidikan yang
+  menyatukan anak-anak berkebutuhan khusus dengan anak-anak normal pada umumnya
+  untuk belajar.
+image: /img/pengertian-inklus.jpg
+date: 2020-12-12 20:48:09 -0500
+tags:
+  - referensi
+  - pendidikan
+  - pendidikan-khusus
 ---
 
 
