@@ -1,6 +1,7 @@
 ---
 title: Kumpulan Buku Sekolah Elektronik (BSE)
 description: Halaman ini berisi kumpulanBuku Sekolah Elektronik (BSE) SD, SMP, SMA, dll terdiri dari buku guru, buku siswa, komik pendidikan yang sangat berguna bagi para pembaca.
+layout:page
 permalink: /bse
 pagination: 
   enabled: true
@@ -10,7 +11,7 @@ pagination:
 
 <div class="row mt-3">
 <div class="col-md-8 main-loop">
-<h4 class="font-weight-bold spanborder"><span>All Post</span></h4>
+<h4 class="font-weight-bold spanborder"><span>Kategori Buku</span></h4>
 {% for post in paginator.posts %}
 {% include main-card.html %}
 {% endfor %} 
