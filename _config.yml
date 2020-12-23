@@ -1,6 +1,6 @@
 # Site settings
 name: Administrasi.Net
-title: Administrasi.Net | Portal Informasi Pendidikan
+title: Portal Informasi Pendidikan
 description: "Administrasi.net menyajikan berbagai informasi informatif tentang pendidikan, dokumen, rpp, buku, tutorial, berita, dll."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://administrasi.net" # the name of your domain
