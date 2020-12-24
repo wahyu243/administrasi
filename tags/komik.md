@@ -4,7 +4,7 @@ title: Komik Pendidikan
 permalink: /bse/komik
 pagination: 
   enabled: true
-  collection: buku
+  collection: posts
   tag: komik
   permalink: /:num/
   

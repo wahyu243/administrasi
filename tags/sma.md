@@ -4,7 +4,7 @@ title: Buku sma
 permalink: /bse/sma
 pagination: 
   enabled: true
-  collection: buku
+  collection: posts
   tag: sma
   permalink: /:num/
   

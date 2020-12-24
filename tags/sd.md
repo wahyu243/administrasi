@@ -4,7 +4,7 @@ title: Buku SD
 permalink: /bse/sd
 pagination: 
   enabled: true
-  collection: posts/buku
+  collection: posts
   tag: sd
   permalink: /:num/
   

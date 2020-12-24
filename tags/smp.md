@@ -4,7 +4,7 @@ title: Buku SMP
 permalink: /bse/smp
 pagination: 
   enabled: true
-  collection: buku
+  collection: posts
   tag: smp
   permalink: /:num/
   

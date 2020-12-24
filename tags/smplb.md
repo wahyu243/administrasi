@@ -4,7 +4,7 @@ title: Buku SMPLB
 permalink: /bse/smplb
 pagination: 
   enabled: true
-  collection: buku
+  collection: posts
   tag: smplb
   permalink: /:num/
   
