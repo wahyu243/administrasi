@@ -1,11 +1,11 @@
 ---
 layout: perkategori
-title: Buku SD
-permalink: /bse/sd
+title: Buku sma
+permalink: /bse/sma
 pagination: 
   enabled: true
   collection: buku
-  tag: sd
+  tag: sma
   permalink: /:num/
   
 ---

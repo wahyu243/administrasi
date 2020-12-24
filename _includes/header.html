@@ -1,48 +1,65 @@
-<!-- Start Header -->
-<nav class="navbar navbar-default navbar-fixed-top no-print">
-    <div class="container-fluid">
-        <!-- Brand and toggle get grouped for better mobile display -->
+<nav class="navbar navbar-default navbar-static-top">
+      <div class="container">
         <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand scroll" href="/">{% if page.layout == 'home' %}<h1 class="sr-only">{{site.title}}</h1>{% endif %}<img src="{{ site.url }}/{{ site.logo_url }}" alt="{{ site.title }}"></a>
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand scroll" href="/">{% if page.layout == 'home' %}<h1 class="sr-only">{{site.title}}</h1>{% endif %}<img src="{{ site.url }}/{{ site.logo_url }}" alt="{{ site.title }}"></a>
         </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-              <div class="collapse navbar-collapse scrollspy" id="bs-example-navbar-collapse-1">
-            	<ul class="nav navbar-nav navbar-right">
-                <li><a class="scroll" href="{{ site.url }}" title="Beranda">Beranda</a></li>
-		<li><a href="{{ site.url }}/bse" title="Buku">Buku </a></li>
-		<li><a class="scroll" href="{{ site.url }}/berita" title="Berita">Berita</a></li> 
-                <li><a href="{{ site.url }}/adm" title="Administrasi">Administrasi</a></li>
-		<li class="dropdown">
-		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Lainnya <b class="caret"></b></a>
-        	<ul class="dropdown-menu">	
-          	<li><a class="scroll" href="{{ site.url }}/artikel" title="Artikel">Artikel</a></li> 
-		<li><a class="scroll" href="{{ site.url }}/dongeng" title="Dongeng">Dongeng</a></li> 
-		<li><a href="{{ site.url }}/infografis" title="Infografis">Infografis</a></li>
-		<li><a href="{{ site.url }}/teori" title="teori">Teori</a></li>
-                <li><a class="scroll" href="{{ site.url }}/tutorial" title="Tutorial">Tutorial</a></li>   
-			</ul>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li class="active"><a href="{{ site.url }}" title="Beranda">Beranda</a></li>
+			<li class="divider"></li>
+            <li class="dropdown">
+			<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Buku <span class="caret"></span></a>
+			<ul class="dropdown-menu">
+        <li><a href="{{ site.url }}/bse/sd" title="SD">SD</a></li> 
+		<li class="divider"></li>
+		<li><a href="{{ site.url }}/bse/sdlb" title="SDLB">SDLB</a></li> 
+		<li class="divider"></li>
+		<li><a href="{{ site.url }}/bse/smp" title="SMP">SMP</a></li>
+		<li class="divider"></li>
+		<li><a href="{{ site.url }}/bse/smplb" title="SMPLB">SMPLB</a></li>
+		<li class="divider"></li>
+        <li><a href="{{ site.url }}/bse/sma" title="SMA">SMA</a></li>  
+		<li class="divider"></li>
+		<li><a href="{{ site.url }}/bse/smalb" title="SMALB">SMALB</a></li> 
+              </ul>
 			</li>
-		<li class="dropdown">
+            <li><a href="{{ site.url }}/berita" title="Berita">Berita</a></li>
+			<li class="divider"></li>
+			<li><a href="{{ site.url }}/adm" title="Administrasi">Administrasi</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Lainnya <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+        <li><a href="{{ site.url }}/artikel" title="Artikel">Artikel</a></li> 
+		<li class="divider"></li>
+		<li><a href="{{ site.url }}/dongeng" title="Dongeng">Dongeng</a></li> 
+		<li class="divider"></li>
+		<li><a href="{{ site.url }}/infografis" title="Infografis">Infografis</a></li>
+		<li class="divider"></li>
+		<li><a href="{{ site.url }}/teori" title="teori">Teori</a></li>
+		<li class="divider"></li>
+        <li><a href="{{ site.url }}/tutorial" title="Tutorial">Tutorial</a></li>  
+              </ul>
+            </li>
+			<li class="dropdown">
 		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Panduan <b class="caret"></b></a>
         	<ul class="dropdown-menu">
           	<li><a href="{{ site.url }}/kontributor/daftar-kontributor">Kontributor</a></li>
+			<li class="divider"></li>
           	<li><a href="{{ site.url }}/doc/kebijakan-privasi-cookiee">Pusat Kebijakan</a></li>
+			<li class="divider"></li>
 	  	<li><a href="{{ site.url }}/doc/kode-etik">Kode Etik</a></li>
           	<li class="divider"></li>
 	  	<li><a href="{{ site.url }}/doc/tentang-administrasi">Tentang</a></li>
            	</ul>
       		</li>
-		    
-                <li><a href="/cari" class="scroll search-modal" action="{{ site.baseurl }}/search"><i class="glyphicon glyphicon-search"></i></a></li>
-            </ul>
-        </div>
-	</div>
-</nav>
-<!-- End Header -->
+          </ul>
+          
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>

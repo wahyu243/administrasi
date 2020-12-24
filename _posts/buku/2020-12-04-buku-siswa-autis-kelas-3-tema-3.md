@@ -8,7 +8,7 @@ last_modified_date: 2020-12-04T03:47:20.398Z
 tags:
   - buku
   - pendidikan
-  - sd
+  - sdlb
   - siswa
   - buku-siswa
   - revisi-2015
