@@ -6063,3 +6063,10 @@ var anchorForId = function(e) {
             }))
         }
     })
+// Expires Header
+jQuery.cookie=function(e,n,o){if(arguments.length>1&&"[object Object]"!==String(n)){if(o=jQuery.extend({},o),(null===n||void 0===n)&&(o.expires=-1),"number"==typeof o.expires){var t=o.expires,r=o.expires=new Date;r.setDate(r.getDate()+t)}return n=String(n),document.cookie=[encodeURIComponent(e),"=",o.raw?n:encodeURIComponent(n),o.expires?"; expires="+o.expires.toUTCString():"",o.path?"; path="+o.path:"",o.domain?"; domain="+o.domain:"",o.secure?"; secure":""].join("")}o=n||{};var i,c=o.raw?function(e){return e}:decodeURIComponent;return(i=new RegExp("(?:^|; )"+encodeURIComponent(e)+"=([^;]*)").exec(document.cookie))?c(i[1]):null};
+// Lazy Load AdSense
+var lazyadsense=!1;window.addEventListener("scroll",function(){(0!=document.documentElement.scrollTop&&!1===lazyadsense||0!=document.body.scrollTop&&!1===lazyadsense)&&(!function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="https://cdn.jsdelivr.net/gh/Arlina-Design/quasar@master/arlinablock.js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(e,a)}(),lazyadsense=!0)},!0);
+// EU Law Cookies
+window.addEventListener("load",function(){window.cookieconsent.initialise({palette:{popup:{background:"#ff5f5f",text:"#ffffff"},button:{background:"#3a3838",text:"#ffffff"}},theme:"edgeless",position:"bottom-right",content:{dismiss:"Got it",href:"https://administrasi.net/doc/kebijakan-privasi-cookie",title:"Privacy Policy"}})});
+(function(){var e=document.createElement("script");e.async=true;e.type="text/javascript";e.src="https://cdn.jsdelivr.net/gh/Arlina-Design/phantom@master/eulawcookiesmin.js";(document.getElementsByTagName("HEAD")[0]||document.getElementsByTagName("BODY")[0]).appendChild(e)})();
