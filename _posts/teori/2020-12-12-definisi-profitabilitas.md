@@ -1,12 +1,17 @@
 ---
-title: "Apa itu Profitabilitas?"
-description: Apa itu Profitabilitas? Profitabilitas adalah kemampuan perusahaan untuk menghasilkan laba dengan menggunakan sumber-sumber yang dimiliki seperti aktiva, modal atau penjualan perusahaan.
-date: "2020-12-12 13:48:09"
-tags: [referensi,keuangan,definisi]
+title: Apa itu Profitabilitas?
+description: Apa itu Profitabilitas? Profitabilitas adalah kemampuan perusahaan
+  untuk menghasilkan laba dengan menggunakan sumber-sumber yang dimiliki seperti
+  aktiva, modal atau penjualan perusahaan.
+date: 2020-12-12 13:48:09
+tags:
+  - referensi
+  - keuangan
+  - definisi
 ---
 
 ## Istilah Profitabilitas
-[ArtiPedia](/ "ArtiPedia") - [Profitabilitas](https://id.wikipedia.org/wiki/Profitabilitas "Profitabilitas") dinyatakan antara lain dalam angka laba sebelum atau sesudah pajak, laba investasi, pendapatan per saham, dan laba penjualan. 
+[Administrasi.Net](/ "Administrasi") - [Profitabilitas](https://id.wikipedia.org/wiki/Profitabilitas "Profitabilitas") dinyatakan antara lain dalam angka laba sebelum atau sesudah pajak, laba investasi, pendapatan per saham, dan laba penjualan. 
 
 ## Definisi Profitabilitas Menurut Para Ahli
 1. Menurut I Made Sudana (2011:22) Profitabilitas adalah "kemampuan perusahaan untuk menghasilkan laba dengan menggunakan sumber-sumber yang dimiliki seperti aktiva, modal atau penjualan perusahaan". 
