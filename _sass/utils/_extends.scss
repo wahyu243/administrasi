@@ -269,7 +269,7 @@ a.butedit {
 
 @media (min-width:48em) {
     .breadcrumbs .breadcrumb {
-        border-left: 2px solid #000
+        border-left: 2px solid #626262
     }
     .breadcrumbs .breadcrumb:not(:first-child) {
         margin-left: 2.45em;
@@ -300,10 +300,10 @@ a.butedit {
 }
 .breadcrumbs .breadcrumb a:before {
     top: 40%;
-    width: 85%;
+    width: calc(20rem + 2px);
     height: 2px;
     overflow: hidden;
-    background-color: #333;
+    background-color: #626262;
 }
 
 .breadcrumbs .breadcrumb a:after {
