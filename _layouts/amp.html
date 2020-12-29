@@ -15,7 +15,7 @@ layout: amp
     <meta property="fb:app_id" content="2023057631120381">
     <meta property="og:locale" content="id">
     <meta property="og:title" content="{%if page.title %}{{ page.title }} | {{ site.name }}{% else %}{{ site.name }}{% endif %}">
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url | replace: 'amp',''}}">
     <meta property="og:site_name" content="{{ site.name }}">
     <meta property="og:description" content="{% if page.description %}{{ page.description}}{% else %}{{ page.excerpt }}{% endif %}">
     <meta property="og:type" content="article">
@@ -200,10 +200,10 @@ font-size:12px;
    "{{site.instagram}}"
         ]
   },
- "url": "{{ site.url }}{{ page.url }}",
+ "url": "{{ site.url }}{{ page.url | replace: 'amp',''}}",
    "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "{{ site.url }}{{ page.url }}"
+    "@id": "{{ site.url }}{{ page.url | replace: 'amp',''}}"
   },
  "datePublished": "{% if page.description %}{{ page.date | date_to_xmlschema }}{% else %}{{ page.last_modified_date | date_to_xmlschema }}{% endif %}",
  "dateCreated": "{% if page.description %}{{ page.date | date_to_xmlschema }}{% else %}{{ page.last_modified_date | date_to_xmlschema }}{% endif %}",
@@ -267,7 +267,7 @@ font-size:12px;
 	<span class="posted-on">{% assign author = site.authors[page.author] %}
 	<a href="{{site.url | replace: "amp",""}}/kontributor/{{ author.slug | slugify }}">{{author.name | replace: 'artipedia','wahyu' | capitalize}}</a> | <time class="entry-date published updated" datetime="{{ page.date | date_to_string }}">{{ page.date | date_to_string }}</time>		</span>
 	</div> 
-	<h1 class="entry-title"><a href="{{ site.url | replace: "amp","/" }}{{ page.url }}" title="{{ page.title | strip_html }}">{{ page.title | strip_html }}</a></h1>
+	<h1 class="entry-title"><a href="{{ site.url }}{{ page.url | replace: 'amp',''}}" title="{{ page.title | strip_html }}">{{ page.title | strip_html }}</a></h1>
 	  
 	<div class="entry-taxonomies">
 	<span class="category-links term-links">
