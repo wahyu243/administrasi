@@ -79,7 +79,7 @@ defaults:
     comments: true
     support: true
     breadcrumbs:
-      - label: "Buku Sekolah Elektronik"
+      - label: "BSE"
         url: /bse
 - scope:
     path: _posts/artikel
