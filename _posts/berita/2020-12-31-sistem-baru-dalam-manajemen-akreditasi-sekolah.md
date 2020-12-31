@@ -2,6 +2,7 @@
 layout: post
 title: Sistem Baru dalam Manajemen Akreditasi Sekolah
 description: Badan Akreditasi Nasional Siapkan Sistem Baru dalam Manajemen Akreditasi
+image: /img/akreditasi-sekolah.jpg
 last_modified_date: 2020-12-31T14:21:25.939Z
 author: wahyu
 sumber: https://www.kemdikbud.go.id/main/blog/2020/12/badan-akreditasi-nasional-siapkan-sistem-baru-dalam-manajemen-akreditasi
