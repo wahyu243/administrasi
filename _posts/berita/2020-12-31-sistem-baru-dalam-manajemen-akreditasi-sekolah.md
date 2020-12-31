@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Sistem Baru dalam Manajemen Akreditasi Sekolah
-description: Badan Akreditasi Nasional Siapkan Sistem Baru dalam Manajemen Akreditasi
+description: "Badan Akreditasi Nasional Siapkan Sistem Baru dalam Manajemen
+  Akreditasi Perubahan atau reformasi yang dilakukan oleh BAN S/M mencakup pada
+  level mendasar yaitu merancang sistem baru yang responsif terhadap
+  digitalisasi. "
 image: /img/akreditasi-sekolah.jpg
 last_modified_date: 2020-12-31T14:21:25.939Z
 author: wahyu
