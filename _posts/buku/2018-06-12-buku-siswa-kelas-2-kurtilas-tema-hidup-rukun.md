@@ -2,7 +2,7 @@
 layout: news_item
 title: Buku Siswa Kelas 2 Tema Hidup Rukun Kurikulum 2013 Revisi 2017
 description: Download Buku siswa kelas 2 tema 1 Hidup Rukun Kurikulum 2013
-  revisi 2017 penunjang pembelajaran siswa dikelas 2 SD.
+  revisi 2017, buku sd kelas 2 penunjang pembelajaran siswa dikelas 2 SD.
 image: /img/buku-siswa-kelas-2-tema-hidup-rukun-kurikulum-2013-revisi-2017.png
 last_modified_date: 2021-01-01T11:05:26.267Z
 tags:
