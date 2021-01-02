@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Soal Gaji PNS Minimal Rp 9 Juta, Apa Benar?
-description: Beda Sri Mulyani & Tjahjo Soal Gaji PNS Minimal Rp 9 Juta
+description: Beda kata Sri Mulyani & Tjahjo Soal Gaji PNS Minimal Rp 9 Juta
 image: /img/happy-tiny-man-woman-with-big-open-wallet_74855-5869.jpg
 last_modified_date: 2021-01-02T03:13:24.545Z
 author: wahyu
