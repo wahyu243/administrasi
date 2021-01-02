@@ -12,19 +12,13 @@ tags:
   - berita
   - gaji
 ---
-Jakarta, CNBC Indonesia - Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Tjahjo Kumolo sempat mengungkapkan bahwa Tunjangan aparatur sipil negara (ASN) aliaspegawai negeri sipil (PNS)tahun 2021 
+Jakarta, [Administrasi.Net](https://administrasi.net "Administrasi.Net") - Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Tjahjo Kumolo sempat mengungkapkan bahwa Tunjangan aparatur sipil negara (ASN) aliaspegawai negeri sipil (PNS)tahun 2021 
 Kenaikan ini disebabkan oleh peningkatan tunjangan yang telah direncanakan sejak tahun lalu. "Jadi pegawai paling rendah ASN minimal Rp 9 juta sampai Rp 10 juta," ujar Tjahjo dalam acara yang digelar melalui YouTube Kementerian Agama, seperti dikutip Sabtu (2/1/2021).
 
 Ia mengatakan, kenaikan tunjangan akan dinikmati sekitar 4,2 juta ASN, 1 juta pegawai pemerintah dengan perjanjian kerja (PPPK) yang terdiri dari kalangan guru, 260 tenaga kesehatan, dan 100 ribu tenaga penyuluh.
 
-
-
 "Mudah-mudahan lewat rekrutmen, sistem merit, tunjangan dan sebagainya bisa tertata, terdata berapa ASN yang kita butuhkan," jelasnya.
 
-P
-S
-B
-G
 Tjahjo berharap para abdi negara bisa mewakafkan sebagian kenaikan tunjangan itu untuk kebaikan. Pemerintah pun saat ini masih mencari cara agar ASN bisa berkontribusi lebih besar dalam berwakaf.
 
 "Nanti kita cari. Dari gaji pokok dan tunjangan serta lain-lain kita imbau dengan cara gimana. Sehingga ada wakaf bisa bergulir ke depan," kata Tjahjo.
