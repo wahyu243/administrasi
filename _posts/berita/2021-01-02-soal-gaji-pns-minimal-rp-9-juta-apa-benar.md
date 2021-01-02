@@ -4,6 +4,11 @@ title: Soal Gaji PNS Minimal Rp 9 Juta, Apa Benar?
 description: Beda Sri Mulyani & Tjahjo Soal Gaji PNS Minimal Rp 9 Juta
 image: /img/happy-tiny-man-woman-with-big-open-wallet_74855-5869.jpg
 last_modified_date: 2021-01-02T03:13:24.545Z
+tags:
+  - pendidikan
+  - cpns
+  - berita
+  - gaji
 ---
 Jakarta, CNBC Indonesia - Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Tjahjo Kumolo sempat mengungkapkan bahwa Tunjangan aparatur sipil negara (ASN) aliaspegawai negeri sipil (PNS)tahun 2021 
 Kenaikan ini disebabkan oleh peningkatan tunjangan yang telah direncanakan sejak tahun lalu. "Jadi pegawai paling rendah ASN minimal Rp 9 juta sampai Rp 10 juta," ujar Tjahjo dalam acara yang digelar melalui YouTube Kementerian Agama, seperti dikutip Sabtu (2/1/2021).
