@@ -1,38 +1,53 @@
 ---
 layout: null
 ---
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:image="http://purl.org/rss/1.0/modules/image/">
-  <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:30 %}
-      <item>
-         <title>{{ post.title | xml_escape }}</title>
-        <author>{{ post.author }}</author>
-        <image>
-         <url>{%if post.image %}{{ site.url }}/img/{{ post.image | replace: '/img/','' }}{% else %}{{ site.url }}{{ site.logo }}{% endif %}</url>
-<title>{{ post.title | xml_escape }}</title>
-<link>{{site.url}}</link>
-        </image>
-        <description>{% if post.description %}{{ post.description}}{% else %}{{ post.excerpt  | strip_html }}{% endif %}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        <category domain="{{site.url}}/{{ post.category }}">{{ post.category | capitalize}}</category>
-        <content:encoded>
-<![CDATA[ <img="{%if post.image %}{{ site.url }}/img/{{ post.image | replace: '/img/','' }}{% else %}{{ site.url }}{{ site.logo }}{% endif %}" alt="{{ post.title | xml_escape }}" title="{{ post.title | xml_escape }}"></img>{{ post.content }} ]]>
-</content:encoded>
-      </item>
-    {% endfor %}
-  </channel>
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>{{ site.title | xml_escape }}</title>
+	<atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
+	<link>{{ site.url }}{{ site.baseurl }}</link>
+	<description>{{ site.description | xml_escape }}</description>
+	<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+	<language>id-ID</language>
+	<sy:updatePeriod>
+	daily	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>Jekyll v{{ jekyll.version }}</generator>
+
+<image>
+	<url>https://administrasi.net/favicon-32x32.png</url>
+	<title>{{ site.title | xml_escape }}</title>
+	<link>{{ site.url }}{{ site.baseurl }}</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+ {% for post in site.posts limit:30 %}
+	<item>
+		<title>{{ post.title | xml_escape }}</title>
+		<link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+		
+		<dc:creator><![CDATA[{{ post.author }}]]></dc:creator>
+		<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+				<category><![CDATA[{{ post.category | capitalize}}]]></category>
+		<guid isPermaLink="false">{{ site.url }}{{ site.baseurl }}/{{ post.category | downcase }}</guid>
+
+					<description><![CDATA[ <img="{%if post.image %}{{ site.url }}/img/{{ post.image | replace: '/img/','' }}{% else %}{{ site.url }}{{ site.logo }}{% endif %}" alt="{{ post.title | xml_escape }}" title="{{ post.title | xml_escape }}"></img>{{ post.content | truncate:350 }}
+]]></description>
+		
+		
+		
+			</item>
+		
+		   {% endfor %}
+	</channel>
 </rss>
