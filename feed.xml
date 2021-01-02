@@ -42,7 +42,10 @@ layout: null
 			<title>{{ post.title | xml_escape }}</title>
 			<link>{{site.url}}</link>
 		</image>
-		<content:encoded><![CDATA[<img="{%if post.image %}{{ site.url }}/img/{{ post.image | replace: '/img/','' }}{% else %}{{ site.url }}{{ site.logo }}{% endif %}" alt="{{ post.title | xml_escape }}" title="{{ post.title | xml_escape }}"></img>{{ post.content }} ]]></content:encoded></item>
+		<content:encoded>
+			<![CDATA[<img="{%if post.image %}{{ site.url }}/img/{{ post.image | replace: '/img/','' }}{% else %}{{ site.url }}{{ site.logo }}{% endif %}" alt="{{ post.title | xml_escape }}" title="{{ post.title | xml_escape }}"></img>{{ post.content | xml_escape}} ]]>
+		</content:encoded>
+	</item>
 		
 		   {% endfor %}
 	</channel>
