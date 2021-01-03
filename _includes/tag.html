@@ -1,7 +1,41 @@
 {% include ads-artikel2.html %}
 {% if page.sumber %}
-<div class="sumber">{{ page.sumber }}</div>
+<h4 class="title">Sumber</h4
+<ol class="arti">
+<li><a href="{% if page.link_sumber_1 %}{{ page.link_sumber_1 }} {% else %}{{page.sumber}}{% endif %}" title="{% if page.nama_sumber_1 %}{{ page.nama_sumber_1 }} {% else %} Link Sumber {% endif %}">{% if page.nama_sumber_1 %}{{ page.nama_sumber_1 }} {% else %} Link Sumber {% endif %}</a></li>
+</ol>
 {% endif %}
+ {% if page.link_sumber_1 %}
+<h4 class="title">Sumber</h4
+  {% endif %}
+  {% if page.sumber_1 %}
+<ol class="arti">
+  {% if page.sumber_1 %}
+  <li><a href="{{page.link_sumber_1}}" title="{% if page.nama_sumber_1 %}{{ page.nama_sumber_1 }} {% else %} Link Sumber 1 {% endif %}">{% if page.nama_sumber_1 %}{{ page.nama_sumber_1 }} {% else %} Link Sumber 1 {% endif %}</a></li>
+  {% endif %}
+    {% if page.sumber_2 %}
+  <li><a href="{{ page.link_sumber_2 }}" title="{{ page.nama_sumber_2 }}">{{ page.nama_sumber_2 }}</a></li>
+  {% endif %}
+    {% if page.sumber_3 %}
+  <li><a href="{{ page.link_sumber_3 }}" title="{{ page.nama_sumber_3 }}">{{ page.nama_sumber_3 }}</a></li>
+  {% endif %}
+    {% if page.sumber_4 %}
+  <li><a href="{{ page.link_sumber_4 }}" title="{{ page.nama_sumber_4 }}">{{ page.nama_sumber_4 }}</a></li>
+  {% endif %}
+</ol>
+{% endif %}
+
+{% if page.link_img %}
+<div class="imgsource"><span class="glyphicon glyphicon-picture aria-hidden="true"></span> image source : <a href="{{ page.link_img }}" title="{{ page.name_img_source }}">{{ page.name_img_source }}</a></div>
+{% endif %}
+
+  <div class="post-tags no-print">
+  {% for tag in page.tags %}
+  <a class="tag-link" href="/tag#{{tag|slugize}}"><span itemprop="keywords">#{{tag | replace:"-"," "}}</span></a>{% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}&nbsp;
+ </div><div class="clear"></div>
+
+  {% endif %}
 <div class="post-tags no-print">
   {% for tag in page.tags %}
   <a class="tag-link" href="/tag#{{tag|slugize}}"><span itemprop="keywords">#{{tag | replace:"-"," "}}</span></a>{% unless forloop.last %}&nbsp;{% endunless %}
