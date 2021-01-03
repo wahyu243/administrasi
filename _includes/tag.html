@@ -35,7 +35,6 @@
   {% endfor %}&nbsp;
  </div><div class="clear"></div>
 
-  {% endif %}
 <div class="post-tags no-print">
   {% for tag in page.tags %}
   <a class="tag-link" href="/tag#{{tag|slugize}}"><span itemprop="keywords">#{{tag | replace:"-"," "}}</span></a>{% unless forloop.last %}&nbsp;{% endunless %}
