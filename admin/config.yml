@@ -29,8 +29,44 @@ collections:
         widget: "string"
         required: false
       - {label: "Tags", name: "tags", widget: "list"}
-      - label: "Sumber"
-        name: "sumber"
+      - label: "Nama Sumber 1"
+        name: "nama_sumber_1"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 1"
+        name: "link_sumber_1"
+        widget: "string"
+        required: false
+      - label: "Nama Sumber 2"
+        name: "nama_sumber_2"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 2"
+        name: "link_sumber_2"
+        widget: "string"
+        required: false
+      - label: "Nama Sumber 3"
+        name: "nama_sumber_3"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 3"
+        name: "link_sumber_3"
+        widget: "string"
+        required: false
+      - label: "Nama Sumber 4"
+        name: "nama_sumber_4"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 4"
+        name: "link_sumber_4"
+        widget: "string"
+        required: false
+      - label: "Sumber Gambar"
+        name: "name_img_source"
+        widget: "string"
+        required: false
+      - label: "Link Gambar"
+        name: "link_img"
         widget: "string"
         required: false
       - {label: "Body", name: "body", widget: "markdown"}
@@ -54,8 +90,44 @@ collections:
         widget: "string"
         required: false
       - {label: "Tags", name: "tags", widget: "list"}
-      - label: "Sumber"
-        name: "sumber"
+      - label: "Nama Sumber 1"
+        name: "nama_sumber_1"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 1"
+        name: "link_sumber_1"
+        widget: "string"
+        required: false
+      - label: "Nama Sumber 2"
+        name: "nama_sumber_2"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 2"
+        name: "link_sumber_2"
+        widget: "string"
+        required: false
+      - label: "Nama Sumber 3"
+        name: "nama_sumber_3"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 3"
+        name: "link_sumber_3"
+        widget: "string"
+        required: false
+      - label: "Nama Sumber 4"
+        name: "nama_sumber_4"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 4"
+        name: "link_sumber_4"
+        widget: "string"
+        required: false
+      - label: "Sumber Gambar"
+        name: "name_img_source"
+        widget: "string"
+        required: false
+      - label: "Link Gambar"
+        name: "link_img"
         widget: "string"
         required: false
       - {label: "Body", name: "body", widget: "markdown"}
@@ -78,10 +150,46 @@ collections:
         name: "author"
         widget: "string"
         required: false
-      - label: "Sumber"
-        name: "sumber"
+      - label: "Nama Sumber 1"
+        name: "nama_sumber_1"
         widget: "string"
-        required: false        
+        required: false
+      - label: "Link Sumber 1"
+        name: "link_sumber_1"
+        widget: "string"
+        required: false
+      - label: "Nama Sumber 2"
+        name: "nama_sumber_2"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 2"
+        name: "link_sumber_2"
+        widget: "string"
+        required: false
+      - label: "Nama Sumber 3"
+        name: "nama_sumber_3"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 3"
+        name: "link_sumber_3"
+        widget: "string"
+        required: false
+      - label: "Nama Sumber 4"
+        name: "nama_sumber_4"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 4"
+        name: "link_sumber_4"
+        widget: "string"
+        required: false
+      - label: "Sumber Gambar"
+        name: "name_img_source"
+        widget: "string"
+        required: false
+      - label: "Link Gambar"
+        name: "link_img"
+        widget: "string"
+        required: false   
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "buku"
@@ -104,8 +212,44 @@ collections:
         widget: "string"
         required: false
       - {label: "Tags", name: "tags", widget: "list"}
-      - label: "Sumber"
-        name: "sumber"
+      - label: "Nama Sumber 1"
+        name: "nama_sumber_1"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 1"
+        name: "link_sumber_1"
+        widget: "string"
+        required: false
+      - label: "Nama Sumber 2"
+        name: "nama_sumber_2"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 2"
+        name: "link_sumber_2"
+        widget: "string"
+        required: false
+      - label: "Nama Sumber 3"
+        name: "nama_sumber_3"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 3"
+        name: "link_sumber_3"
+        widget: "string"
+        required: false
+      - label: "Nama Sumber 4"
+        name: "nama_sumber_4"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 4"
+        name: "link_sumber_4"
+        widget: "string"
+        required: false
+      - label: "Sumber Gambar"
+        name: "name_img_source"
+        widget: "string"
+        required: false
+      - label: "Link Gambar"
+        name: "link_img"
         widget: "string"
         required: false
       - {label: "Body", name: "body", widget: "markdown"}
@@ -129,8 +273,44 @@ collections:
         widget: "string"
         required: false
       - {label: "Tags", name: "tags", widget: "list"}
-      - label: "Sumber"
-        name: "sumber"
+      - label: "Nama Sumber 1"
+        name: "nama_sumber_1"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 1"
+        name: "link_sumber_1"
+        widget: "string"
+        required: false
+      - label: "Nama Sumber 2"
+        name: "nama_sumber_2"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 2"
+        name: "link_sumber_2"
+        widget: "string"
+        required: false
+      - label: "Nama Sumber 3"
+        name: "nama_sumber_3"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 3"
+        name: "link_sumber_3"
+        widget: "string"
+        required: false
+      - label: "Nama Sumber 4"
+        name: "nama_sumber_4"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 4"
+        name: "link_sumber_4"
+        widget: "string"
+        required: false
+      - label: "Sumber Gambar"
+        name: "name_img_source"
+        widget: "string"
+        required: false
+      - label: "Link Gambar"
+        name: "link_img"
         widget: "string"
         required: false
       - {label: "Body", name: "body", widget: "markdown"}
@@ -154,8 +334,44 @@ collections:
         widget: "string"
         required: false
       - {label: "Tags", name: "tags", widget: "list"}
-      - label: "Sumber"
-        name: "sumber"
+      - label: "Nama Sumber 1"
+        name: "nama_sumber_1"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 1"
+        name: "link_sumber_1"
+        widget: "string"
+        required: false
+      - label: "Nama Sumber 2"
+        name: "nama_sumber_2"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 2"
+        name: "link_sumber_2"
+        widget: "string"
+        required: false
+      - label: "Nama Sumber 3"
+        name: "nama_sumber_3"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 3"
+        name: "link_sumber_3"
+        widget: "string"
+        required: false
+      - label: "Nama Sumber 4"
+        name: "nama_sumber_4"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 4"
+        name: "link_sumber_4"
+        widget: "string"
+        required: false
+      - label: "Sumber Gambar"
+        name: "name_img_source"
+        widget: "string"
+        required: false
+      - label: "Link Gambar"
+        name: "link_img"
         widget: "string"
         required: false
       - {label: "Body", name: "body", widget: "markdown"}
@@ -179,8 +395,44 @@ collections:
         widget: "string"
         required: false
       - {label: "Tags", name: "tags", widget: "list"}
-      - label: "Sumber"
-        name: "sumber"
+      - label: "Nama Sumber 1"
+        name: "nama_sumber_1"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 1"
+        name: "link_sumber_1"
+        widget: "string"
+        required: false
+      - label: "Nama Sumber 2"
+        name: "nama_sumber_2"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 2"
+        name: "link_sumber_2"
+        widget: "string"
+        required: false
+      - label: "Nama Sumber 3"
+        name: "nama_sumber_3"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 3"
+        name: "link_sumber_3"
+        widget: "string"
+        required: false
+      - label: "Nama Sumber 4"
+        name: "nama_sumber_4"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 4"
+        name: "link_sumber_4"
+        widget: "string"
+        required: false
+      - label: "Sumber Gambar"
+        name: "name_img_source"
+        widget: "string"
+        required: false
+      - label: "Link Gambar"
+        name: "link_img"
         widget: "string"
         required: false
       - {label: "Body", name: "body", widget: "markdown"}
@@ -204,8 +456,44 @@ collections:
         widget: "string"
         required: false
       - {label: "Tags", name: "tags", widget: "list"}
-      - label: "Sumber"
-        name: "sumber"
+      - label: "Nama Sumber 1"
+        name: "nama_sumber_1"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 1"
+        name: "link_sumber_1"
+        widget: "string"
+        required: false
+      - label: "Nama Sumber 2"
+        name: "nama_sumber_2"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 2"
+        name: "link_sumber_2"
+        widget: "string"
+        required: false
+      - label: "Nama Sumber 3"
+        name: "nama_sumber_3"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 3"
+        name: "link_sumber_3"
+        widget: "string"
+        required: false
+      - label: "Nama Sumber 4"
+        name: "nama_sumber_4"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 4"
+        name: "link_sumber_4"
+        widget: "string"
+        required: false
+      - label: "Sumber Gambar"
+        name: "name_img_source"
+        widget: "string"
+        required: false
+      - label: "Link Gambar"
+        name: "link_img"
         widget: "string"
         required: false
       - {label: "Body", name: "body", widget: "markdown"}
