@@ -1,6 +1,6 @@
 {% include ads-artikel2.html %}
 {% if page.sumber %}
-<h4 class="title">Sumber</h4
+<h4 class="title">Sumber</h4>
 <ol class="arti">
 <li><a href="{% if page.link_sumber_1 %}{{ page.link_sumber_1 }} {% else %}{{page.sumber}}{% endif %}" title="{% if page.nama_sumber_1 %}{{ page.nama_sumber_1 }} {% else %} Link Sumber {% endif %}">{% if page.nama_sumber_1 %}{{ page.nama_sumber_1 }} {% else %} Link Sumber {% endif %}</a></li>
 </ol>
@@ -30,12 +30,6 @@
 {% endif %}
 
   <div class="post-tags no-print">
-  {% for tag in page.tags %}
-  <a class="tag-link" href="/tag#{{tag|slugize}}"><span itemprop="keywords">#{{tag | replace:"-"," "}}</span></a>{% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}&nbsp;
- </div><div class="clear"></div>
-
-<div class="post-tags no-print">
   {% for tag in page.tags %}
   <a class="tag-link" href="/tag#{{tag|slugize}}"><span itemprop="keywords">#{{tag | replace:"-"," "}}</span></a>{% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}&nbsp;
