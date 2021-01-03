@@ -37,10 +37,6 @@ layout: null
 		<category><![CDATA[{{post.category | capitalize}}]]></category>
 		<guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
 		<description>{% if post.description %}{{ post.description}}{% else %}{{ post.excerpt  | strip_html }}{% endif %}</description>
-		<image><url>{%if post.image %}{{ site.url }}/img/{{ post.image | replace: '/img/','' }}{% else %}{{ site.url }}{{ site.logo }}{% endif %}</url>
-			<title>{{post.title | xml_escape}}</title>
-			<link>{{site.url}}</link></image>
-		<content:encoded><![CDATA[<img="{%if post.image %}{{ site.url }}/img/{{ post.image | replace: '/img/','' }}{% else %}{{ site.url }}{{ site.logo }}{% endif %}" alt="{{ post.title | xml_escape }}" title="{{ post.title | xml_escape }}"></img>{{post.content | strip_newlines | strip}}]]></content:encoded>
-	</item>   {% endfor %}
+		</item>   {% endfor %}
 	</channel>
 </rss>
