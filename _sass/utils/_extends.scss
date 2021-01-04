@@ -258,7 +258,7 @@ a.butedit {
 	.dropdown-menu .divider {
      margin: 5px;
  }
-.section-nav:empty{display:none}
+.t-o-c:empty{display:none}
 
 @media (min-width:48em){.breadcrumbs{-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column}}
 .breadcrumbs {
@@ -325,4 +325,69 @@ a.butedit {
 }
 h4.title {
     font-size: 15px;
+}
+.d-flex.align-items-center.no-print {
+    margin-top: 10px;
+}
+
+.t-o-c {
+    margin-bottom: 2rem;
+}
+
+.t-o-c {
+    display: block;
+    margin-right: 0;
+    margin-left: 0;
+    padding: 0;
+}
+.t-o-c li::after, .t-o-c li::before, .table td, .table th, fieldset, hr {
+    /* border-color: #45494e; */
+}
+.t-o-c li {
+    margin: 0;
+    padding: 0 0 0 1.4em;
+    position: relative;
+    list-style: none;
+}
+.t-o-c li::before {
+    content: "";
+    display: block;
+    width: 0;
+    border-left: 1px solid;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+}
+.t-o-c li:last-child::after {
+    background: #2f3337;
+}
+.t-o-c li:last-child::after {
+    background: #fff;
+}
+.t-o-c li::after, .t-o-c li::before, .table td, .table th, fieldset, hr {
+    /* border-color: #45494e; */
+}
+.t-o-c li::after {
+    content: "";
+    display: block;
+    width: 1em;
+    border-top: 1px solid;
+    position: absolute;
+    top: .8em;
+    bottom: 0;
+    left: 0;
+}
+
+.t-o-c::before {
+    content: "Daftar isi";
+    text-transform: uppercase;
+    font-size: 90%;
+    letter-spacing: 2px;
+    color: #000;
+    font-weight: 700;
+}
+
+.t-o-c li a {
+    color: #5b5b5b;
 }
