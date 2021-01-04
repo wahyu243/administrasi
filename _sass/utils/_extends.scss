@@ -331,7 +331,7 @@ h4.title {
 }
 
 .t-o-c {
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
 }
 
 .t-o-c {
@@ -340,9 +340,7 @@ h4.title {
     margin-left: 0;
     padding: 0;
 }
-.t-o-c li::after, .t-o-c li::before, .table td, .table th, fieldset, hr {
-    /* border-color: #45494e; */
-}
+
 .t-o-c li {
     margin: 0;
     padding: 0 0 0 1.4em;
@@ -366,7 +364,7 @@ h4.title {
     background: #fff;
 }
 .t-o-c li::after, .t-o-c li::before, .table td, .table th, fieldset, hr {
-    /* border-color: #45494e; */
+    border-color: #eee;
 }
 .t-o-c li::after {
     content: "";
