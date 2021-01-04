@@ -253,11 +253,11 @@ toc:
   min_level: 1
   max_level: 10
   ordered_list: false
-  no_toc_section_class: ''
+  no_toc_section_class: 'toc-l'
   list_class: t-o-c
-  sublist_class: ''
-  item_class: ''
-  item_prefix: ''
+  sublist_class: 'toc-p'
+  item_class: 'toc-p'
+  item_prefix: 'toc-p'
   
 ampdir: amp
 
