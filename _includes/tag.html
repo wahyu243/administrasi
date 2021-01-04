@@ -1,15 +1,15 @@
 {% include ads-artikel2.html %}
 {% if page.sumber %}
-<h4 class="title">Sumber</h4>
-<ol class="arti">
+<h4 class="title"><span class="glyphicon glyphicon-paperclip"></span>Sumber</h4>
+<ol class="arti sumber">
 <li><a href="{% if page.link_sumber_1 %}{{ page.link_sumber_1 }} {% else %}{{page.sumber}}{% endif %}" title="{% if page.nama_sumber_1 %}{{ page.nama_sumber_1 }} {% else %} Link Sumber {% endif %}">{% if page.nama_sumber_1 %}{{ page.nama_sumber_1 }} {% else %} Link Sumber {% endif %}</a></li>
 </ol>
 {% endif %}
  {% if page.link_sumber_1 %}
-<h4 class="title">Sumber</h4
+<h4 class="title"><span class="glyphicon glyphicon-paperclip"></span> Sumber</h4
   {% endif %}
   {% if page.sumber_1 %}
-<ol class="arti">
+<ol class="arti sumber">
   {% if page.sumber_1 %}
   <li><a href="{{page.link_sumber_1}}" title="{% if page.nama_sumber_1 %}{{ page.nama_sumber_1 }} {% else %} Link Sumber 1 {% endif %}">{% if page.nama_sumber_1 %}{{ page.nama_sumber_1 }} {% else %} Link Sumber 1 {% endif %}</a></li>
   {% endif %}
@@ -28,6 +28,8 @@
 {% if page.link_img %}
 <div class="imgsource"><span class="glyphicon glyphicon-picture aria-hidden="true"></span> image source : <a href="{{ page.link_img }}" title="{{ page.name_img_source }}">{{ page.name_img_source }}</a></div>
 {% endif %}
+
+<hr class="my-2">
 
   <div class="post-tags no-print">
   {% for tag in page.tags %}
