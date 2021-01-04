@@ -363,9 +363,6 @@ h4.title {
 .t-o-c li:last-child::after {
     background: #fff;
 }
-.t-o-c li::after, .t-o-c li::before, .table td, .table th, fieldset, hr {
-    border-color: #eee;
-}
 .t-o-c li::after {
     content: "";
     display: block;
