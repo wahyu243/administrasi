@@ -310,7 +310,7 @@ a.butedit {
     left: -2px;
     top: 0;
     width: calc(1rem + 2px);
-    height: calc(51% - 1px);
+    height: calc(51% - 2px);
     background-color: #fff;
 }
 
@@ -329,7 +329,9 @@ h4.title {
 .d-flex.align-items-center.no-print {
     margin-top: 10px;
 }
-
+ul.toc-p {
+    margin-left: -40px;
+}
 .t-o-c {
     margin-bottom: 1rem;
 }
