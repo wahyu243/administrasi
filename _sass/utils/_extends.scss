@@ -388,3 +388,9 @@ ul.toc-p {
 .t-o-c li a {
     color: #5b5b5b;
 }
+.t-o-c li a:hover{
+    padding-left: 7px;
+    transition: all .15s ease;
+    text-decoration: none;
+    color: #e65026;
+}
