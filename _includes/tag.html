@@ -8,19 +8,19 @@
  {% if page.link_sumber_1 %}
 <h4 class="title"><span class="glyphicon glyphicon-paperclip"></span> Sumber</h4
   {% endif %}
-  {% if page.sumber_1 %}
+  {% if page.link_sumber_1 %}
 <ol class="arti sumber">
-  {% if page.sumber_1 %}
+  {% if page.link_sumber_1 %}
   <li><a href="{{page.link_sumber_1}}" title="{% if page.nama_sumber_1 %}{{ page.nama_sumber_1 }} {% else %} Link Sumber 1 {% endif %}">{% if page.nama_sumber_1 %}{{ page.nama_sumber_1 }} {% else %} Link Sumber 1 {% endif %}</a></li>
   {% endif %}
-    {% if page.sumber_2 %}
-  <li><a href="{{ page.link_sumber_2 }}" title="{{ page.nama_sumber_2 }}">{{ page.nama_sumber_2 }}</a></li>
+    {% if page.link_sumber_2 %}
+  <li><a href="{{ page.link_sumber_2 }}" title="{% if page.nama_sumber_2 %}{{ page.nama_sumber_2 }} {% else %} Link Sumber 2 {% endif %}">{% if page.nama_sumber_2 %}{{ page.nama_sumber_2 }} {% else %} Link Sumber 2 {% endif %}</a></li>
   {% endif %}
-    {% if page.sumber_3 %}
-  <li><a href="{{ page.link_sumber_3 }}" title="{{ page.nama_sumber_3 }}">{{ page.nama_sumber_3 }}</a></li>
+    {% if page.link_sumber_3 %}
+  <li><a href="{{ page.link_sumber_3 }}" title="{% if page.nama_sumber_3 %}{{ page.nama_sumber_3 }} {% else %} Link Sumber 3 {% endif %}">{% if page.nama_sumber_3 %}{{ page.nama_sumber_3 }} {% else %} Link Sumber 3 {% endif %}</a></li>
   {% endif %}
-    {% if page.sumber_4 %}
-  <li><a href="{{ page.link_sumber_4 }}" title="{{ page.nama_sumber_4 }}">{{ page.nama_sumber_4 }}</a></li>
+    {% if page.link_sumber_4 %}
+  <li><a href="{{ page.link_sumber_4 }}" title="{% if page.nama_sumber_4 %}{{ page.nama_sumber_4 }} {% else %} Link Sumber 4 {% endif %}">{% if page.nama_sumber_4 %}{{ page.nama_sumber_4 }} {% else %} Link Sumber 4 {% endif %}</a></li>
   {% endif %}
 </ol>
 {% endif %}
