@@ -324,7 +324,7 @@ a.butedit {
     padding-left: 1.25rem
 }
 h4.title {
-    font-size: 15px;
+    font-size: 15px;font-weight: 700;
 }
 .d-flex.align-items-center.no-print {
     margin-top: 10px;
@@ -396,4 +396,7 @@ ul.toc-p {
 }
 ol.arti.sumber {
     padding: 5px 5px 5px 20px;
+}
+span.glyphicon.glyphicon-paperclip {
+    margin-right: 5px;
 }
