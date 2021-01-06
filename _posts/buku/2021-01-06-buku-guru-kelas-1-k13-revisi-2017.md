@@ -1,7 +1,7 @@
 ---
-title: "Buku Guru Kelas 1 Kurikulum 2013 Revisi 2017"
+title: "Buku Guru Kelas 1 SD Kurikulum 2013 Revisi 2017"
 date: "2021-01-06 03:48:09"
-description: Download Buku Guru Kelas 1 Kurikulum 2013 Revisi 2017 sebagai panduan penggunaan buku siswa, penunjang bagi guru dalam melaksanakan pembelajaran dikelas.
+description: Download Buku Guru Kelas 1 SD Kurikulum 2013 Revisi 2017 sebagai panduan penggunaan buku siswa, penunjang bagi guru dalam melaksanakan pembelajaran dikelas.
 image: download-buku-sekolah-elektronik.jpg
 tags: [buku,pendidikan,sd,guru,buku-guru,kelas-1,tematik,revisi-2017,download]
 published: true
@@ -41,25 +41,33 @@ Buku ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _sisw
 
 ## Download Buku guru kelas 1
 ### Download buku tematik guru kelas 1
-1. Tema 1 Diriku <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1yItE4nrZpn7lcixHIQ3tra8DjIc0hlEI"  target="_blank" title="Download Buku Guru Tema 1 Diriku">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1yItE4nrZpn7lcixHIQ3tra8DjIc0hlEI/preview" Title="Baca Online Buku Guru Tema 1 Diriku" >Baca Online</a></p>
-2. Tema 2 Kegemaranku <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1Rd84s2KGuE_oGgYdV0BMuvdDg9w9yQ6F"  target="_blank" title="Download Buku Guru Tema 2 Kegemaranku">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1Rd84s2KGuE_oGgYdV0BMuvdDg9w9yQ6F/preview" Title="Baca Online Buku Guru Tema 2 Kegemaranku" >Baca Online</a></p>
-3. Tema 3 Kegiatanku
- <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1XAs8Vj1Z2XJ28CCHGEQPzzEfXjmJlvuX"  target="_blank" title="Download Buku Guru Tema 3 Kegiatanku">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1XAs8Vj1Z2XJ28CCHGEQPzzEfXjmJlvuX/preview" Title="Baca Online Buku Guru Tema 3 Kegiatanku" >Baca Online</a></p>
-4. Tema 4 Keluargaku 
+Buku Guru Kelas 1 Tema 1 Diriku
+<p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1yItE4nrZpn7lcixHIQ3tra8DjIc0hlEI"  target="_blank" title="Download Buku Guru Tema 1 Diriku">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1yItE4nrZpn7lcixHIQ3tra8DjIc0hlEI/preview" Title="Baca Online Buku Guru Tema 1 Diriku" >Baca Online</a></p>
+Buku Guru Kelas 1 Tema 2 Kegemaranku
+<p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1Rd84s2KGuE_oGgYdV0BMuvdDg9w9yQ6F"  target="_blank" title="Download Buku Guru Tema 2 Kegemaranku">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1Rd84s2KGuE_oGgYdV0BMuvdDg9w9yQ6F/preview" Title="Baca Online Buku Guru Tema 2 Kegemaranku" >Baca Online</a></p>
+Buku Guru Kelas 1 Tema 3 Kegiatanku
+<p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1XAs8Vj1Z2XJ28CCHGEQPzzEfXjmJlvuX"  target="_blank" title="Download Buku Guru Tema 3 Kegiatanku">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1XAs8Vj1Z2XJ28CCHGEQPzzEfXjmJlvuX/preview" Title="Baca Online Buku Guru Tema 3 Kegiatanku" >Baca Online</a></p>
+Buku Guru Kelas 1 Tema 4 Keluargaku 
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=144pR6YyXOXingqW2d7_TWyyYQcuLBo6b"  target="_blank" title="Download Buku Guru Tema 4 Keluargaku ">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/144pR6YyXOXingqW2d7_TWyyYQcuLBo6b/preview" Title="Baca Online Buku Guru Tema 4 Keluargaku " >Baca Online</a></p>
-5. Tema 5 Pengalamanku 
+Buku Guru Kelas 1 Tema 5 Pengalamanku 
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1QyLbLFYtDZ_v6zHffCYBIP2NRWwA2lIJ"  target="_blank" title="Download Buku Guru Tema 5 Pengalamanku ">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1QyLbLFYtDZ_v6zHffCYBIP2NRWwA2lIJ/preview" Title="Baca Online Buku Guru Tema 5 Pengalamanku " >Baca Online</a></p>
-6. Tema 6 Lingkungan Bersih, Sehat, dan Asri
+Buku Guru Kelas 1 Tema 6 Lingkungan Bersih, Sehat, dan Asri
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1T_5aHZ2h8eBiZoWNrS010yKXXvoW6uKQ"  target="_blank" title="Download Buku Guru Tema 6 Lingkungan Bersih, Sehat, dan Asri">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1T_5aHZ2h8eBiZoWNrS010yKXXvoW6uKQ/preview" Title="Baca Online Buku Guru Tema 6 Lingkungan Bersih, Sehat, dan Asri" >Baca Online</a></p>
-7. Tema 7 Benda, Hewan, dan Tanaman Disekitarku 
+Buku Guru Kelas 1 Tema 7 Benda, Hewan, dan Tanaman Disekitarku 
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1eYjPnuzErwZEQbzbrphSg4MIbSyRs3Qq"  target="_blank" title="Download Buku Guru Tema 7 Benda, Hewan, dan Tanaman Disekitarku ">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1eYjPnuzErwZEQbzbrphSg4MIbSyRs3Qq/preview" Title="Baca Online Buku Guru Tema 7 Benda, Hewan, dan Tanaman Disekitarku" >Baca Online</a></p>
-8. Tema 8 Peristiwa Alam 
+Buku Guru Kelas 1 Tema 8 Peristiwa Alam 
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1GhKFzibqNgHRHG0xmvXAS5ZBZA__e7zm"  target="_blank" title="Download Buku Guru Tema 8 Peristiwa Alam">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1GhKFzibqNgHRHG0xmvXAS5ZBZA__e7zm/preview" Title="Baca Online Buku Guru Tema 8 Peristiwa Alam" >Baca Online</a></p>
 
 ### Download buku guru mata pelajaran Agama kelas 1
-1. Pendidikan Agama Buddha dan Budi Pekerti <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1kho8V4Ljxq9MLUVdOBRwqda22HaSA8id"  target="_blank" title="Download Buku Guru Pendidikan Agama Buddha dan Budi Pekerti">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1kho8V4Ljxq9MLUVdOBRwqda22HaSA8id/preview" Title="Baca Online Buku Guru Pendidikan Agama Buddha dan Budi Pekerti" >Baca Online</a></p>
-2. Pendidikan Agama Hindu dan Budi Pekerti <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1xvLhFwxsf2LuHjIuMkn4-G20nkBuNllm"  target="_blank" title="Download Buku Guru Pendidikan Agama Hindu dan Budi Pekerti">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1xvLhFwxsf2LuHjIuMkn4-G20nkBuNllm/preview" Title="Baca Online Buku Guru Pendidikan Agama Hindu dan Budi Pekerti" >Baca Online</a></p>
-3. Pendidikan Agama Islam dan Budi Pekerti <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1IaV4UwdwlTlLjp1ImvvnsS5JynClgCIc"  target="_blank" title="Download Buku Guru Pendidikan Agama Islam dan Budi Pekerti">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1IaV4UwdwlTlLjp1ImvvnsS5JynClgCIc/preview" Title="Baca Online Buku Guru Pendidikan Agama Islam dan Budi Pekerti" >Baca Online</a></p>
-4. Pendidikan Agama Katolik dan Budi Pekerti <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1CAzNLRuLE9cRcA0TGi3YXM5uUM0hBEM8"  target="_blank" title="Download Buku Guru Pendidikan Agama Katolik dan Budi Pekerti">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1CAzNLRuLE9cRcA0TGi3YXM5uUM0hBEM8/preview" Title="Baca Online Buku Guru Pendidikan Agama Katolik dan Budi Pekerti" >Baca Online</a></p>
-5. Pendidikan Agama Khonghucu dan Budi Pekerti <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1rd2TNYEMxuX6oBzOyqU4MMCVNZen35qo"  target="_blank" title="Download Buku Guru Pendidikan Agama Khonghucu dan Budi Pekerti ">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1rd2TNYEMxuX6oBzOyqU4MMCVNZen35qo/preview" Title="Baca Online Buku Guru Pendidikan Agama Khonghucu dan Budi Pekerti ">Baca Online</a></p>
-6. Pendidikan Agama Kristen dan Budi Pekerti <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1z_IbsHhN7ubbg6e9xT0B2dzBv3p_t5u0"  target="_blank" title="Download Buku Guru Pendidikan Agama Kristen dan Budi Pekerti">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1z_IbsHhN7ubbg6e9xT0B2dzBv3p_t5u0/preview" Title="Baca Online Pendidikan Agama Kristen dan Budi Pekerti" >Baca Online</a></p>
+Buku Guru Kelas 1 Pendidikan Agama Buddha dan Budi Pekerti 
+<p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1kho8V4Ljxq9MLUVdOBRwqda22HaSA8id"  target="_blank" title="Download Buku Guru Pendidikan Agama Buddha dan Budi Pekerti">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1kho8V4Ljxq9MLUVdOBRwqda22HaSA8id/preview" Title="Baca Online Buku Guru Pendidikan Agama Buddha dan Budi Pekerti" >Baca Online</a></p>
+Buku Guru Kelas 1 Pendidikan Agama Hindu dan Budi Pekerti
+<p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1xvLhFwxsf2LuHjIuMkn4-G20nkBuNllm"  target="_blank" title="Download Buku Guru Pendidikan Agama Hindu dan Budi Pekerti">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1xvLhFwxsf2LuHjIuMkn4-G20nkBuNllm/preview" Title="Baca Online Buku Guru Pendidikan Agama Hindu dan Budi Pekerti" >Baca Online</a></p>
+Buku Guru Kelas 1 Pendidikan Agama Islam dan Budi Pekerti 
+<p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1IaV4UwdwlTlLjp1ImvvnsS5JynClgCIc"  target="_blank" title="Download Buku Guru Pendidikan Agama Islam dan Budi Pekerti">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1IaV4UwdwlTlLjp1ImvvnsS5JynClgCIc/preview" Title="Baca Online Buku Guru Pendidikan Agama Islam dan Budi Pekerti" >Baca Online</a></p>
+Buku Guru Kelas 1 Pendidikan Agama Katolik dan Budi Pekerti 
+<p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1CAzNLRuLE9cRcA0TGi3YXM5uUM0hBEM8"  target="_blank" title="Download Buku Guru Pendidikan Agama Katolik dan Budi Pekerti">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1CAzNLRuLE9cRcA0TGi3YXM5uUM0hBEM8/preview" Title="Baca Online Buku Guru Pendidikan Agama Katolik dan Budi Pekerti" >Baca Online</a></p>
+Buku Guru Kelas 1 Pendidikan Agama Khonghucu dan Budi Pekerti 
+<p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1rd2TNYEMxuX6oBzOyqU4MMCVNZen35qo"  target="_blank" title="Download Buku Guru Pendidikan Agama Khonghucu dan Budi Pekerti ">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1rd2TNYEMxuX6oBzOyqU4MMCVNZen35qo/preview" Title="Baca Online Buku Guru Pendidikan Agama Khonghucu dan Budi Pekerti ">Baca Online</a></p>
+Buku Guru Kelas 1 Pendidikan Agama Kristen dan Budi Pekerti 
+<p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1z_IbsHhN7ubbg6e9xT0B2dzBv3p_t5u0"  target="_blank" title="Download Buku Guru Pendidikan Agama Kristen dan Budi Pekerti">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1z_IbsHhN7ubbg6e9xT0B2dzBv3p_t5u0/preview" Title="Baca Online Pendidikan Agama Kristen dan Budi Pekerti" >Baca Online</a></p>
