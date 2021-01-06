@@ -40,6 +40,8 @@ Buku Guru kurikulum 2013 dirancang dengan karakteristik sebagai berikut.
 Buku ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _siswa_ dan _orang tua_ yang tidak memiliki buku tersebut dan memerlukannya untuk proses pembelajaran atau bimbingan baik di sekolah maupun di rumah.
 
 ## Download Buku guru kelas 1
+Buku guru kelas 1 terdiri dari dua jenis, yang pertama buku tematik dan yang kedua yaitu buku mata pelajaran.
+
 ### Download buku tematik guru kelas 1
 Buku Guru Kelas 1 Tema 1 Diriku
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1yItE4nrZpn7lcixHIQ3tra8DjIc0hlEI"  target="_blank" title="Download Buku Guru Tema 1 Diriku">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1yItE4nrZpn7lcixHIQ3tra8DjIc0hlEI/preview" Title="Baca Online Buku Guru Tema 1 Diriku" >Baca Online</a></p>
