@@ -2,7 +2,7 @@
 title: "Perkembangan Pendidikan Inklusi"
 date: "2020-12-12 12:48:09 -0500"
 description: Perkembangan Pendidikan Inklusi sejalan dengan berkembangnya dunia pendidikan dan juga Hak Asasi Manusia dalam Konvnsi PBB yang dikenal United Nations Convention on the Right of the Child
-author: artipedia
+author: wahyu
 tags: [referensi,pendidikan,pendidikan-khusus]
 ---
 
