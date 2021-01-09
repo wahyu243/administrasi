@@ -1,6 +1,8 @@
 ---
 title: Tentang Administrasi.Net
-description: Administrasi.Net adalah suatu website yang dibuat untuk memberikan kumpulan informasi yang bermanfaat bagi semua orang, yang ditulis oleh public.
+description: Administrasi.Net adalah suatu website yang dibuat untuk memberikan
+  kumpulan informasi yang bermanfaat bagi semua orang, yang ditulis oleh public.
+date: 2021-01-09T02:18:42.463Z
 ---
 
 ## Mengapa Administrasi.Net Ada?
