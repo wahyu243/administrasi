@@ -73,14 +73,14 @@ Jawaban:
 
 ![Kunci jawaban halaman 48](/img/jawaban-tema-6-kelas-6-halaman-48.jpg "Kunci jawaban halaman 50")
 
-### Kunci jawaban halaman 49
+## Kunci jawaban halaman 49
 
 Tuliskan kesimpulan tentang pasal-pasal Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 yang mengatur tentang hak-hak warga negara Indonesia berdasarkan hasil diskusi kelompokmu!
 
 Jawaban:
 Setiap warga negara Indonesia memiliki hak yang diatur dalam Undang-Undang Negara Republik Indonesia tahun 1945.
 
-### Kunci Jawaban Halaman 50 
+## Kunci Jawaban Halaman 50 
 
 Setiap warga negara Indonesia berhak dan wajib ikut serta dalam usaha mempertahankan kemerdekaan NKRI. Tuliskan perilaku-perilaku warga negara Indonesia yang mencerminkan sikap cinta tanah air, membina persatuan dan kesatuan, serta rela berkorban untuk kepentingan bangsa dan negara sebagai upaya mempertahankan kemerdekaan NKRI dalam bentuk tabel seperti contoh berikut.
 

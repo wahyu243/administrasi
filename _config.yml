@@ -219,10 +219,10 @@ instagram: http://instagram.com
 youtube: http://youtube.com
 linkedin: https://www.linkedin.com/mwlite/in/administrasi-net-27abb6203
 skype: 
-feed: yes
+feed: http://administrasi.net/feed.xml
 
 # Footer
-copyright: © 2020 Administrasi.Net - All rights reserved
+copyright: © 2021 Administrasi.Net - All rights reserved
 
 # Build settings
 markdown: kramdown
