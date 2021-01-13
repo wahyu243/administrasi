@@ -34,7 +34,7 @@ Jawaban:
 
 ### Kunci jawaban Tema 5 Kelas 3 halaman 23
 
-Persahabatan Matahari dan Awan
+**Persahabatan Matahari dan Awan**
 
 Matahari telah lama bersahabat dengan Awan. Mereka saling membantu satu sama lain. Terkadang, mereka berbagi cerita ataupun keluh dan kesah.
 
@@ -56,35 +56,25 @@ melakukan aktivitasnya. Jadi, hari ini, engkau menampakkan wajahmu. Mereka meman
 Setelah membaca cerita Persahabatan Matahari
 dan Awan, jawablah pertanyaan berikut ini.
 
-1. Siapakah tokoh yang terdapat dalam cerita tersebut?
-
+Siapakah tokoh yang terdapat dalam cerita tersebut?
 Jawaban:
-
 Awan dan Matahari
 
-2. Apa yang membuat Matahari merasa kesal?
-
+Apa yang membuat Matahari merasa kesal?
 Jawaban:
-
 Matahari kesal karena manusia sering tidak disiplin
 
-3. Apa yang telah dilakukan manusia sehingga Matahari kesal?
-
+Apa yang telah dilakukan manusia sehingga Matahari kesal?
 Jawaban:
-
 Manusia tidak bangun saat sinar matahari sedang lembut.
-
 Lalu saat siang hari, saat sinar Matahari sangat terik, manusia malah asyik bermain.
 
-4. Seandainya kalian menjadi Matahari. Apa yang akan kalian lakukan terhadap manusia yang tidak disiplin?
-
+Seandainya kalian menjadi Matahari. Apa yang akan kalian lakukan terhadap manusia yang tidak disiplin?
 Jawaban:
-
 Jika aku menjadi matahari, saya akan tetap bersinar.
-
 Termasuk untuk orang-orang yang tidak berdisiplin karena karena energi matahari sangat dibutuhkan mereka.
 
-Kunci jawaban Tema 5 Kelas 3 halaman 24
+### Kunci jawaban Tema 5 Kelas 3 halaman 24
 
 Ayo Mengamati
 
