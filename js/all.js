@@ -6070,3 +6070,21 @@ var lazyadsense=!1;window.addEventListener("scroll",function(){(0!=document.docu
 // EU Law Cookies
 window.addEventListener("load",function(){window.cookieconsent.initialise({palette:{popup:{background:"#ff5f5f",text:"#ffffff"},button:{background:"#3a3838",text:"#ffffff"}},theme:"edgeless",position:"bottom-right",content:{dismiss:"Got it",href:"https://administrasi.net/doc/kebijakan-privasi-cookie",title:"Privacy Policy"}})});
 (function(){var e=document.createElement("script");e.async=true;e.type="text/javascript";e.src="https://cdn.jsdelivr.net/gh/Arlina-Design/phantom@master/eulawcookiesmin.js";(document.getElementsByTagName("HEAD")[0]||document.getElementsByTagName("BODY")[0]).appendChild(e)})();
+
+function addLink() {
+	var body_element = document.getElementsByTagName('body')[0];
+	var selection;
+	selection = window.getSelection();
+	var pagelink = "<br /><br /> Artikel ini telah dipublikasikan di Adminstrasi.Net dengan judul <a href='"+document.location.href+"'>"+document.title+"</a><br />Copyright &copy; Administras.Net"; // change this if you want
+	var copytext = selection + pagelink;
+	var newdiv = document.createElement('div');
+	newdiv.style.position='absolute';
+	newdiv.style.left='-99999px';
+	body_element.appendChild(newdiv);
+	newdiv.innerHTML = copytext;
+	selection.selectAllChildren(newdiv);
+	window.setTimeout(function() {
+		body_element.removeChild(newdiv);
+	},0);
+}
+document.oncopy = addLink;
