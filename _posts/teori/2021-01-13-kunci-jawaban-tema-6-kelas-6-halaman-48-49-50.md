@@ -58,6 +58,7 @@ Kalimat utama adalah kalimat yang bersifat umum dan mengandung gagasan utama.
 Bacalah kembali dengan cermat teks nonfiksi yang telah disajikan di depan. Kemudian tentukan kalimat utama dan gagasan utama masing-masing paragraf. Sampaikan secara lisan di depan teman-teman kalimat utama dan gagasan utama tersebut. Buatlah rangkuman dari yang disampaikan oleh teman-temanmu dalam bentuk tabel seperti contoh berikut.
 
 Jawaban:
+
 ![Kunci jawaban halaman 47](/img/kunci-jawaban-tema-6-kelas-6-halaman-47.jpg "Kunci jawaban halaman 50")
 
 Kunci jawaban halaman 48
@@ -69,7 +70,8 @@ Pasal-pasal berapa sajakah yang mengatur tentang hak-hak warga negara Indonesia?
 Tuliskan kesimpulan tentang pasal-pasal dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 yang mengatur tentang hak-hak warga negara Indonesia.
 
 Jawaban:
-![Kunci jawaban halaman 48](/img/kunci-jawaban-tema-6-kelas-6-halaman-48.jpg "Kunci jawaban halaman 50")
+
+![Kunci jawaban halaman 48](/img/jawaban-tema-6-kelas-6-halaman-48.jpg "Kunci jawaban halaman 50")
 
 ### Kunci jawaban halaman 49
 
@@ -83,4 +85,5 @@ Setiap warga negara Indonesia memiliki hak yang diatur dalam Undang-Undang Negar
 Setiap warga negara Indonesia berhak dan wajib ikut serta dalam usaha mempertahankan kemerdekaan NKRI. Tuliskan perilaku-perilaku warga negara Indonesia yang mencerminkan sikap cinta tanah air, membina persatuan dan kesatuan, serta rela berkorban untuk kepentingan bangsa dan negara sebagai upaya mempertahankan kemerdekaan NKRI dalam bentuk tabel seperti contoh berikut.
 
 Jawaban:
+
 ![Kunci jawaban halaman 50](/img/kunci-jawaban-tema-6-kelas-6-halaman-50.jpg "Kunci jawaban halaman 50")
