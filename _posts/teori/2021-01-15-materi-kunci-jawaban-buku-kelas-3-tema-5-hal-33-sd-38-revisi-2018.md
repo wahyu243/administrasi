@@ -85,7 +85,9 @@ Peralatan yang Disiapkan: penghapus papan tulis
 
 Satu batang lamang Siti bagi untuk 5 orang. Masing-masing mendapat 5/20 atau sama dengan 1/4 (seperempat batang). Satu batang lagi Siti bagi untuk 10 orang. Masing-masing mendapat 2/20 atau sama dengan 1/10 (sepersepuluh batang).
 
-Manakah nilai yang lebih besar antara 5/20 atau 2/20? ..................... Jawaban: nilai yang lebih besar yakni 5/20.
+Manakah nilai yang lebih besar antara 5/20 atau 2/20?  
+
+Jawaban: nilai yang lebih besar yakni 5/20.
 
 Siapakah yang lebih banyak mencicipi lamang dari Padang? Apakah yang mendapat 5/20 atau 2/20 bagian? ............... Jawaban: yang lebih banyak yakni orang yang mendapat bagian 5/20.
 

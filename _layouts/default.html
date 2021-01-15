@@ -28,5 +28,14 @@ layout: compress
     <div id="fb-root"></div>
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/id_ID/sdk.js#xfbml=1&version=v7.0&appId=502591903662193&autoLogAppEvents=1"></script>
     {% endif %}
+	{% if page.layout == 'post' or page.layout == 'news_item'%} 
+	<script type="text/javascript">
+(sc_adv_out = window.sc_adv_out || []).push({
+    id: 827175,
+    domain: "n.ads5-adnow.com",
+});
+</script>
+<script type="text/javascript" src="//st-n.ads5-adnow.com/js/a.js" async></script>
+    {% endif %}
 </body>
 </html>
