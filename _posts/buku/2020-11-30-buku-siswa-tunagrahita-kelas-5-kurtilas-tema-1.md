@@ -16,6 +16,7 @@ tags:
   - kelas-5
   - tematik
   - download
+  - buku-siswa-sdlb-kelas-5
 ---
 
 * TOC

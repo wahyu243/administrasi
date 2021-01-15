@@ -15,6 +15,7 @@ tags:
   - tematik
   - kelas-1
   - pendidikan-khusus
+  - buku-siswa-sdlb-kelas-1
 ---
 Tunanetra adalah istilah umum yang digunakan untuk kondisi seseorang yang mengalami gangguan atau hambatan dalam indra penglihatannya. Berdasarkan tingkat gangguannya Tunanetra dibagi dua yaitu buta total (total blind) dan yang masih mempunyai sisa penglihatan (Low Visioan). 
 

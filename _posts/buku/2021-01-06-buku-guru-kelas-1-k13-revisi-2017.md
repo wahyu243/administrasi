@@ -3,7 +3,7 @@ title: "Buku Guru Kelas 1 SD Kurikulum 2013 Revisi 2017"
 date: "2021-01-06 03:48:09"
 description: Download Buku Guru Kelas 1 SD Kurikulum 2013 Revisi 2017 sebagai panduan penggunaan buku siswa, penunjang bagi guru dalam melaksanakan pembelajaran dikelas.
 image: download-buku-sekolah-elektronik.jpg
-tags: [buku,pendidikan,sd,guru,buku-guru,kelas-1,tematik,revisi-2017,download]
+tags: [buku-guru-sd-kelas-1,pendidikan,sd,guru,buku-guru,kelas-1,tematik,revisi-2017,download]
 published: true
 ---
 

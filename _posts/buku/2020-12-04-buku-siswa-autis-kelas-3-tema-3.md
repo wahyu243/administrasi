@@ -16,6 +16,7 @@ tags:
   - tematik
   - download
   - autis
+  - buku-siswa-sdlb-kelas-3
 ---
 
 **Buku siswa Kelas 3 <abbr title="Sekolah Dasar Luar Biasa">SDLB</abbr> Tema 3** ini diperuntukkan bagi siswa autis sebagai penunjang pembelajaran.

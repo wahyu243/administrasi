@@ -3,7 +3,7 @@ title: "Buku Siswa Kelas 2 SD Kurikulum 2013 Revisi 2017"
 date: "2021-01-07 03:48:09"
 description: Download Buku Siswa Kelas 2 SD Kurikulum 2013 Revisi 2017 sebagai panduan penggunaan buku siswa, penunjang  dalam melaksanakan pembelajaran dikelas dan dirumah.
 image: download-buku-sekolah-elektronik.jpg
-tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-2,tematik,revisi-2017,download]
+tags: [buku-siswa-sd-kelas-2,pendidikan,sd,siswa,buku-siswa,kelas-2,tematik,revisi-2017,download]
 published: true
 ---
 

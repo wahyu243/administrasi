@@ -9,6 +9,7 @@ tags:
   - kunci-jawaban
   - materi
   - kelas-6
+  - kunci-jawaban-kelas-6
   - tema-6
 ---
 
