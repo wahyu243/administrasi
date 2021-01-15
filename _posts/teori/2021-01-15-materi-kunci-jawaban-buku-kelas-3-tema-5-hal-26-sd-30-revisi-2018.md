@@ -60,7 +60,7 @@ Tabel Makanan dan Minuman yang Nikmat Disantap Saat Hujan
 
 Jawaban:
 
-![Jawaban halaman 27-28](/img/jawaban-tabel-makanan.jpg "Jawaban halaman 27-28")
+![Jawaban halaman 27-28](/img/tabel-makanan-jawaban.jpg "Jawaban halaman 27-28")
 
 Makanan dan minuman khas Indonesia sangat beragam. Dapat dinikmati dalam berbagai suasana dan cuaca.
 
