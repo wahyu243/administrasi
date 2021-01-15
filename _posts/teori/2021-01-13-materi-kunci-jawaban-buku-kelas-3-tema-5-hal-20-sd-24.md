@@ -1,7 +1,7 @@
 ---
 title: 'Materi dan Kunci Jawaban Buku Tema 5 Kelas 3 SD Halaman 20 s/d 24'
 description: >-
-  Materi dan Kunci Jawaban Tema Cuaca (Tema 5) Kelas 3 Halaman 20 21 23 24 Buku Tematik Subtema 1 Pembelajaran 3.
+  Materi dan Kunci Jawaban Tema 5 Kelas 3 Halaman 20 21 23 24 Buku Tematik Subtema 1 Pembelajaran 3.
 last_modified_date: 2021-01-13T20:06:15.908Z
 image: kunci-jawaban-buku-guru-siswa.jpg
 tags:
@@ -9,6 +9,7 @@ tags:
   - kunci-jawaban
   - materi
   - kelas-3
+  - tema-5
 ---
 
 
@@ -23,13 +24,9 @@ Peserta didik menyimak gambar yang ada di halaman 20 dan 21.
 Jawaban:
 
 1. 3/5
-
 2. 1/6
-
 3. 1/4
-
 4. 2/8
-
 5. 2/8
 
 ### Kunci jawaban Tema 5 Kelas 3 halaman 23

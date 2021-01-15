@@ -8,6 +8,8 @@ tags:
   - referensi
   - kunci-jawaban
   - materi
+  - kelas-6
+  - tema-6  
 ---
 
 
