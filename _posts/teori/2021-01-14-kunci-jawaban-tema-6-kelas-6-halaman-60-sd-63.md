@@ -43,6 +43,7 @@ Di depan telah disajikan bacaan nonfiksi yang terdiri atas lima paragraf. Bacala
 4. Tuliskan hasilnya dalam bentuk tabel seperti contoh berikut.
 
 Jawaban:
+
 ![Kunci jawaban soal tema 6](/img/jawaban-soal-tema-6.jpg "Kunci jawaban soal tema 6")
 
 ### Kunci jawaban Tema 6 Kelas 6 halaman 62
@@ -50,6 +51,7 @@ Jawaban:
 Buatlah kelompok di kelas yang terdiri atas tiga sampai lima orang. Bacalah dengan cermat bacaan di atas, kemudian diskusikan dengan teman satu kelompokmu cara-cara untuk mempertahankan kemerdekaan. Tuliskan cara lain yang dapat kamu lakukan selain yang ada dalam bacaan.
 
 Jawaban:
+
 Mempertahankan kemerdekaan dapat dimulai dari lingkungan keluarga, sekolah, dan masyarakat.
 1. Dengan membiasakan tindakan-tindakan positif yang dapat mencegah terjadinya perpecahan antaranggota keluarga, antarteman, dan antarwarga masyarakat.
 2. Menghargai perbedaan yang ada dan jangan jadikan perbedaan sebagai alasan terjadi perpecahan.
