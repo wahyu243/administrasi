@@ -430,18 +430,13 @@ span.glyphicon.glyphicon-paperclip {
 }
 
 @media (max-width:767px) {
-  .dropdown-submenu>.dropdown-menu {
+  .dropdown-submenu:hover>.dropdown-menu {
     display: block;
   }
 
   .dropdown-submenu>a {
-    padding: 14px 20px 3px!important;
     font-size: 12px;
-    line-height: 1.428571429!important;
-    color: #777!important;
-    border-top: 1px solid #e5e5e5;
-    margin-top: 9px;
-  }
+   }
 }
 
 .dropdown-submenu>a>.caret {
@@ -476,3 +471,7 @@ span.glyphicon.glyphicon-paperclip {
 
 .navbar-right .dropdown-submenu>.dropdown-menu {
   right: 100%;}
+  
+.dropdown-menu>li>a {
+    font-size: 12px !important;
+}
