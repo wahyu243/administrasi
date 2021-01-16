@@ -430,7 +430,7 @@ span.glyphicon.glyphicon-paperclip {
 }
 
 @media (max-width:767px) {
-  .dropdown-submenu:hover>.dropdown-menu {
+  .dropdown-submenu>.dropdown-menu {
     display: block;
   }
 
@@ -457,6 +457,9 @@ span.glyphicon.glyphicon-paperclip {
   .break-xs {
     width: 100%!important;
   }
+  .dropdown-menu>li>a {
+    font-size: 12px !important;
+}
 }
 
 .navbar-fixed-bottom .dropdown-submenu>.dropdown-menu {
@@ -472,6 +475,3 @@ span.glyphicon.glyphicon-paperclip {
 .navbar-right .dropdown-submenu>.dropdown-menu {
   right: 100%;}
   
-.dropdown-menu>li>a {
-    font-size: 12px !important;
-}
