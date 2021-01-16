@@ -13,25 +13,53 @@
           <ul class="nav navbar-nav navbar-right">
             <li><a href="{{ site.url }}" title="Beranda">Beranda</a></li>
 			<li class="divider"></li>
-            <li class="dropdown">
+			<li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true"> <span class="nav-label">Pendidikan</span> <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+                 <li class="dropdown-submenu">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> <span class="nav-label">Administrasi</span><span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+					<li><a href="{{ site.url }}/adm/silabus" title="Silabus">Silabus</a></li><li class="divider"></li>
+					<li><a href="{{ site.url }}/adm/rpp" title="RPP">RPP</a></li>
+                    </ul>
+                </li>
+				<li class="divider"></li>
+			<li class="dropdown-submenu">
 			<a href="{{site.url}}/bse" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Buku <span class="caret"></span></a>
 			<ul class="dropdown-menu">
         <li><a href="{{ site.url }}/bse/sd" title="SD">SD</a></li> 
 		<li class="divider"></li>
-		<li><a href="{{ site.url }}/bse/sdlb" title="SDLB">SDLB</a></li> 
-		<li class="divider"></li>
 		<li><a href="{{ site.url }}/bse/smp" title="SMP">SMP</a></li>
-		<li class="divider"></li>
-		<li><a href="{{ site.url }}/bse/smplb" title="SMPLB">SMPLB</a></li>
 		<li class="divider"></li>
         <li><a href="{{ site.url }}/bse/sma" title="SMA">SMA</a></li>  
 		<li class="divider"></li>
+		<li><a href="{{ site.url }}/bse/sdlb" title="SDLB">SDLB</a></li> 
+		<li class="divider"></li>
+		<li><a href="{{ site.url }}/bse/smplb" title="SMPLB">SMPLB</a></li>
+		<li class="divider"></li>
 		<li><a href="{{ site.url }}/bse/smalb" title="SMALB">SMALB</a></li> 
-				<li class="divider"></li>
-		<li><a href="{{ site.url }}/bse/komik" title="Komik Pendidikan">Komik</a></li> 
-
               </ul>
 			</li>
+					<li class="divider"></li>
+			                 <li class="dropdown-submenu">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> <span class="nav-label">Kunci Jawaban</span><span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+					<li><a href="{{ site.url }}/kunci-jawaban/kelas-1" title="Kelas 1">Kelas 1</a></li><li class="divider"></li>
+					<li><a href="{{ site.url }}/kunci-jawaban/kelas-2" title="Kelas 2">Kelas 2</a></li><li class="divider"></li>
+					<li><a href="{{ site.url }}/kunci-jawaban/kelas-3" title="Kelas 3">Kelas 3</a></li><li class="divider"></li>
+					<li><a href="{{ site.url }}/kunci-jawaban/kelas-4" title="Kelas 4">Kelas 4</a></li><li class="divider"></li>
+					<li><a href="{{ site.url }}/kunci-jawaban/kelas-5" title="Kelas 5">Kelas 5</a></li><li class="divider"></li>
+					<li><a href="{{ site.url }}/kunci-jawaban/kelas-6" title="Kelas 6">Kelas 6</a></li><li class="divider"></li>
+					
+					</ul>
+                </li>
+					<li class="divider"></li>
+		<li><a href="{{ site.url }}/bse/komik" title="Komik Pendidikan">Komik</a></li> 
+
+            </ul>
+        </li>
+		
+
             <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="{{site.url}}/berita" title="Berita">Berita <span class="caret"></span></a>
 		  <ul class="dropdown-menu">
         <li><a href="{{ site.url }}/berita/pendidikan" title="Berita Pendidikan">Pendidikan</a></li> 
@@ -39,26 +67,13 @@
 		<li><a href="{{ site.url }}/berita/cpns" title="CPNS">CPNS</a></li> 
 		<li class="divider"></li>
 		<li><a href="{{ site.url }}/berita/honorer" title="Honorer">Honorer</a></li> 
-
-          
     </ul>
-		  
 		  </li>
 			<li class="divider"></li>
-			<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="{{site.url}}/adm" title="Administrasi">Administrasi <span class="caret"></span></a>
-		   <ul class="dropdown-menu">
-        <li><a href="{{ site.url }}/adm/silabus" title="Silabus">Silabus</a></li> 
-		<li class="divider"></li>
-		<li><a href="{{ site.url }}/adm/rpp" title="RPP">RPP</a></li>
-	
-              </ul>
-		  
-		  </li>
-            <li class="dropdown">
+			<li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Lainnya <span class="caret"></span></a>
               <ul class="dropdown-menu">
-        <li><a href="{{ site.url }}/artikel" title="Artikel">Artikel</a></li> 
-		<li class="divider"></li>
+        
 		<li><a href="{{ site.url }}/dongeng" title="Dongeng">Dongeng</a></li> 
 		<li class="divider"></li>
 		<li><a href="{{ site.url }}/infografis" title="Infografis">Infografis</a></li>
@@ -81,12 +96,8 @@
            	</ul>
       		</li>
                 <li><a class="login" href="{{ site.url }}/admin">Login</a></li>
-		  
-		  
-		  
 			 <li><a href="/cari" class="scroll search-modal" action="{{ site.baseurl }}/search"><i class="glyphicon glyphicon-search"></i></a></li>
           </ul>
-          
         </div><!--/.nav-collapse -->
       </div>
     </nav>
