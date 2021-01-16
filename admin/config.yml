@@ -131,6 +131,67 @@ collections:
         widget: "string"
         required: false
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "soal"
+    label: "Soal"
+    folder: "_posts/soal"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    identifier_field: name
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        required: false
+      - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        required: false
+      - {label: "Tags", name: "tags", widget: "list"}
+      - label: "Nama Sumber 1"
+        name: "nama_sumber_1"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 1"
+        name: "link_sumber_1"
+        widget: "string"
+        required: false
+      - label: "Nama Sumber 2"
+        name: "nama_sumber_2"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 2"
+        name: "link_sumber_2"
+        widget: "string"
+        required: false
+      - label: "Nama Sumber 3"
+        name: "nama_sumber_3"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 3"
+        name: "link_sumber_3"
+        widget: "string"
+        required: false
+      - label: "Nama Sumber 4"
+        name: "nama_sumber_4"
+        widget: "string"
+        required: false
+      - label: "Link Sumber 4"
+        name: "link_sumber_4"
+        widget: "string"
+        required: false
+      - label: "Sumber Gambar"
+        name: "name_img_source"
+        widget: "string"
+        required: false
+      - label: "Link Gambar"
+        name: "link_img"
+        widget: "string"
+        required: false
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "berita"
     label: "Berita"
     folder: "_posts/berita"

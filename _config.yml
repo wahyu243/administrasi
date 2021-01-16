@@ -82,6 +82,23 @@ defaults:
       - label: "BSE"
         url: /bse
 - scope:
+    path: _posts/soal
+    type: posts
+  values:
+    layout: post
+    category: soal
+    csymb: soal
+    permalink: "/soal/:title"
+    image: twitter-card.png
+    author: wahyu
+    avatar: /img/you.jpg
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "Soal"
+        url: /soal
+- scope:
     path: _posts/artikel
     type: posts
   values:
