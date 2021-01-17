@@ -1,24 +1,22 @@
-
-
 <div class="fb-page" 
   data-href="https://www.facebook.com/administrasi.net/"
   data-width="380" 
   data-hide-cover="false"
   data-show-facepile="false"></div>
 
-<div class="card border-0 shadow mb-4">
+<div class="card border-0 shadow mb-3">
     <div class="card-body">
         <div class="d-flex justify-content-between aside">
             <h3 class="font-weight-bold small">Kategori</h3>
         </div>
         <hr class="my-2"> {% assign categories_list = site.categories %} {% if categories_list.first[0] == null %} {% for category in categories_list %}
         <div class="d-flex justify-content-between small side">
-            <span class="font-weight-bold"><a href="{{site.url}}/{{ category }}" title="{{ category }}">{{ category | camelcase }} </a></span>
+            <span><a href="{{site.url}}/{{ category }}" title="{{ category }}">{{ category | camelcase }} </a></span>
             <span>{{ site.tags[category].size }}</span>
         </div>
         <hr class="my-2"> {% endfor %} {% else %} {% for category in categories_list %}
         <div class="d-flex justify-content-between small side">
-            <span class="font-weight-bold"><a href="{{site.url}}/{{ category[0] }}" title="{{ category[0] }}">{{ category[0] | camelcase }} </a></span>
+            <span><a href="{{site.url}}/{{ category[0] }}" title="{{ category[0] }}">{{ category[0] | camelcase }} </a></span>
             <span>{{ category[1].size }}</span>
         </div>
         <hr class="my-2"> {% endfor %} {% endif %} {% assign categories_list = nil %}
@@ -26,18 +24,28 @@
     </div>
 </div>
 
-<div class="card border-0 shadow mb-4">
-    <div class="card-body aside">
-        <h3 class="font-weight-bold small">Terbaru</h3>
-        <hr class="my-2"> {% for post in site.posts limit:10 %}
-        <div class="d-flex justify-content-between small">
-            <span class="font-weight-bold"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title | truncate: 35  }}</a></span>
-            <span>{{ post.date | date_to_string }}</span>
-        </div>
-        <hr class="my-2"> {% endfor %}
+<div class="card card-body border-0 shadow mb-3">
+    <h4 class="font-weight-bold spanborder mb-3"><span>Terbaru</span></h4>  
+    <ol class="list-featured">				
+        {% for post in site.posts limit:5 %}                
+            <li class="mb-3">
+            <span>
+                <h5>
+                    <a href="{{site.baseurl}}{{ post.url }}" class="text-dark">{{ post.title }}</a>
+                </h5>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    {% for category in post.categories %}
+                    <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/{{ category | replace: 'buku', 'bse' | replace: 'administrasi', 'adm'}}">{{ category }}</a><span class="sep">, </span>
+                    {% endfor %}
+                    </span>
+                </span>
+            </span>
+            </li>                
+        {% endfor %}   
+    </ol>
+</div> 
 
-    </div>
-</div>
 <!-- admsidebar -->
 <ins class="adsbygoogle"
      data-ad-client="ca-pub-5849615914567319"
@@ -47,4 +55,48 @@
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+<div class="card card-body border-0 shadow mb-3">
+    <h4 class="font-weight-bold spanborder  mb-3"><span>Berita</span></h4>  
+    <ol class="list-featured">				
+        {% for post in site.categories.berita limit:5%}                
+            <li class="mb-3">
+            <span>
+                <h5>
+                    <a href="{{site.baseurl}}{{ post.url }}" class="text-dark">{{ post.title }}</a>
+                </h5>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    {% for category in post.categories %}
+                    <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/{{ category }}">{{ category }}</a><span class="sep">, </span>
+                    {% endfor %}
+                    </span>
+                </span>
+            </span>
+            </li>                
+        {% endfor %}   
+    </ol>
+</div> 
+
+<div class="card card-body border-0 shadow mb-3">
+    <h4 class="font-weight-bold spanborder mb-3"><span>Buku</span></h4>  
+    <ol class="list-featured">				
+        {% for post in site.categories.buku limit:5%}                
+            <li class="mb-3">
+            <span>
+                <h5>
+                    <a href="{{site.baseurl}}{{ post.url }}" class="text-dark">{{ post.title }}</a>
+                </h5>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    {% for category in post.categories %}
+                    <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/{{ category }}">{{ category }}</a><span class="sep">, </span>
+                    {% endfor %}
+                    </span>
+                </span>
+            </span>
+            </li>                
+        {% endfor %}   
+    </ol>
+</div> 
 <div id="SC_TBlock_827357"></div>

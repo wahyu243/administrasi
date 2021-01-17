@@ -181,7 +181,7 @@ a, a:hover {
 .spanborder span {
 	border-bottom:1px solid rgba(0,0,0,0.44);
 	display:inline-block;
-	padding-bottom:20px;
+	padding-bottom:10px;
 	margin-bottom:-1px;
 }
 .btn-dark {
@@ -474,4 +474,9 @@ span.glyphicon.glyphicon-paperclip {
 
 .navbar-right .dropdown-submenu>.dropdown-menu {
   right: 100%;}
-  
+  div#SC_TBlock_827357 {
+    height: unset !important;
+}
+.mb-3 h5 {
+    font-size: 14px;
+}
