@@ -4,26 +4,6 @@
   data-hide-cover="false"
   data-show-facepile="false"></div>
 
-<div class="card border-0 shadow mb-3">
-    <div class="card-body">
-        <div class="d-flex justify-content-between aside">
-            <h3 class="font-weight-bold small">Kategori</h3>
-        </div>
-        <hr class="my-2"> {% assign categories_list = site.categories %} {% if categories_list.first[0] == null %} {% for category in categories_list %}
-        <div class="d-flex justify-content-between small side">
-            <span><a href="{{site.url}}/{{ category }}" title="{{ category }}">{{ category | camelcase }} </a></span>
-            <span>{{ site.tags[category].size }}</span>
-        </div>
-        <hr class="my-2"> {% endfor %} {% else %} {% for category in categories_list %}
-        <div class="d-flex justify-content-between small side">
-            <span><a href="{{site.url}}/{{ category[0] }}" title="{{ category[0] }}">{{ category[0] | camelcase }} </a></span>
-            <span>{{ category[1].size }}</span>
-        </div>
-        <hr class="my-2"> {% endfor %} {% endif %} {% assign categories_list = nil %}
-
-    </div>
-</div>
-
 <div class="card card-body border-0 shadow mb-3">
     <h4 class="font-weight-bold spanborder mb-3"><span>Terbaru</span></h4>  
     <ol class="list-featured">				
@@ -99,4 +79,38 @@
         {% endfor %}   
     </ol>
 </div> 
-<div id="SC_TBlock_827357"></div>
+<div id="SC_TBlock_827357" class=" mb-3"></div>
+<div class="card card-body border-0 shadow mb-3">
+    <h4 class="font-weight-bold spanborder mb-3"><span>Kategori</span></h4>  
+    <ol class="list-featured">				
+ {% assign categories_list = site.categories %} {% if categories_list.first[0] == null %} {% for category in categories_list %}
+          <li class="mb-3">
+            <span>
+                <h5>
+				<a href="{{site.url}}/{{ category | replace: 'administrasi', 'adm' | replace: 'buku', 'bse'}}" title="{{ category }}">{{ category | capitalize }} </a>
+                </h5>
+                <span class="d-block text-muted">
+                    <span class="catlist">
+                    {{ site.tags[category].size }}  </span> Post
+                </span>
+            </span>
+            </li>                
+        {% endfor %}   {% else %} {% for category in categories_list %}
+	<li class="mb-3">
+            <span>
+                <h5>
+				<a href="{{site.url}}/{{ category[0]  | replace: 'administrasi', 'adm' | replace: 'buku', 'bse'}}" title="{{ category[0] }}">{{ category[0] | capitalize }}</a>
+                </h5>
+                <span class="d-block text-muted">
+                    <span class="catlist">
+                    {{ category[1].size }}  </span> Post
+                </span>
+            </span>
+            </li>     
+	
+	 {% endfor %} {% endif %} {% assign categories_list = nil %}
+   	
+    </ol>
+</div> 
+
+
