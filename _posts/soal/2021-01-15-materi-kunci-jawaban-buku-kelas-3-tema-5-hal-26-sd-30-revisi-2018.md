@@ -2,7 +2,7 @@
 title: 'Materi dan Kunci Jawaban Buku Tema 5 Kelas 3 SD Halaman 26 s/d 30'
 description: >-
   Materi dan Kunci Jawaban Tema Tema 5 Kelas 3 Halaman 26, 27, 28, 29, dan 30 Buku Siswa SD Kurikulum 2018.
-last_modified_date: 2021-01-13T19:10:15.908Z
+last_modified_date: 2021-01-15T19:10:15.908Z
 image: kunci-jawaban-buku-guru-siswa.jpg
 redirect_from: /teori/materi-kunci-jawaban-buku-kelas-3-tema-5-hal-26-sd-30-revisi-2018
 tags:
@@ -19,7 +19,7 @@ tags:
 
 [Administrasi.Net](https://administrasi.net "Administrasi.Net") - Pada kesempatan ini kami membagikan jawaban Tema 5 untuk kelas 3 SD/MI pada buku tematik kelas 5 revisi 2018 halaman 26, 27, 28, dan 30 .
 
-Berikut ini adalah kunci jawaban dalam buku tematik 5 untuk kelas 3 SD/MI subtema 1 pembelajaran 4 halaman 26, 27, 28, dan 30:
+Berikut ini adalah kunci jawaban dalam buku tematik 5 untuk [Kelas 3](https://administrasi.net/bse/buku-tematik-sd-mi-kelas-3-kurikulum-2013 "Buku Tematik Kelas 3 SD") SD/MI subtema 1 pembelajaran 4 halaman 26, 27, 28, dan 30:
 
 Siti, Dayu, dan Lani bermain "Kumpul Kata." Begitu banyak kata berserakan di meja. Mereka akan mengumpulkan kata-kata tentang cuaca. Ayo, kita bantu mereka mengumpulkan kata-kata yang berhubungan dengan cuaca.
 

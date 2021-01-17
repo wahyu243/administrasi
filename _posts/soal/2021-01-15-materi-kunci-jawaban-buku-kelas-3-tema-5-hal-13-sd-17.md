@@ -1,7 +1,7 @@
 ---
-title: 'Materi dan Kunci Jawaban Buku Tema 5 Kelas 3 SD Halaman 13 s/d 17'
+title: 'Materi dan Kunci Jawaban Buku Tema 5 Kelas 5 SD Halaman 13 s/d 17'
 description: >-
-  Materi dan Kunci Jawaban Tema Tema 5 Kelas 3 Halaman 13, 14, 15, 16 dan 17 Buku Tematik Subtema 1 Pembelajaran 2.
+  Materi dan Kunci Jawaban Tema Tema 5 Kelas 5 Halaman 13, 14, 15, 16 dan 17 Buku Tematik Subtema 1 Pembelajaran 2.
 last_modified_date: 2021-01-13T08:50:15.908Z
 image: kunci-jawaban-buku-guru-siswa.jpg
 redirect_from: /teori/materi-kunci-jawaban-buku-kelas-3-tema-5-hal-13-sd-17
@@ -9,16 +9,16 @@ tags:
   - referensi
   - kunci-jawaban
   - materi
-  - kelas-3
+  - kelas-5
   - tema-5
   - pembelajaran-2
-  - kunci-jawaban-kelas-3
+  - kunci-jawaban-kelas-5
 ---
 
 
 [Administrasi.Net](https://administrasi.net "Administrasi.Net") - Berikut ini soal dan jawaban Buku Tematik Terpadu Kurikulum 2013 edisi revisi 2017 untuk Kelas V SD/MI Tema 5 Subtema 1 Pembelajaran 2.
 
-Buku Tematik Terpadu Kelas 5 Tema 5 ini mempelajari materi berjudul Ekosistem dengan ubtema 1 membahas tema tentang Komponen Ekosistem.
+Buku Tematik Terpadu Kelas 5 Tema 5 ini mempelajari materi berjudul Ekosistem dengan subtema 1 membahas tema tentang Komponen Ekosistem.
 
 Berikut ini kunci jawaban Tema 5 Kelas 5 Subtema 1 Pembelajaran 2 halaman 13, 15, 16, dan 17:
 
@@ -131,7 +131,7 @@ Jawab:
 
 - Sapi, jenis makanan: dedauanan, kelompok makanan: Hebivora.
 
-Kunci jawaban halaman 16-17
+### Kunci jawaban halaman 16-17
 
 Lakukanlah kegiatan berikut.
 

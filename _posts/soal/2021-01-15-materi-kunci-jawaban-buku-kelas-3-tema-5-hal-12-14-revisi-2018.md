@@ -17,9 +17,9 @@ tags:
 ---
 
 
-[Administrasi.Net](https://administrasi.net "Administrasi.Net") - Berikut kunci jawaban Tema 5 Kelas 3 SD/MI halaman 12 dan 14 Buku Siswa Tematik Terpadu Kurikulum 2013 edisi revisi 2018 Subtema 1 Pembelajaran 2.
+[Administrasi.Net](https://administrasi.net "Administrasi.Net") - Berikut kunci jawaban Tema 5 Kelas 3 SD/MI halaman 12 dan 14 Buku Siswa Tematik Terpadu Kurikulum 2013 edisi revisi 2018 Subtema 1 Pembelajaran 2. 
 
-Buku Tematik Kelas 3 Tema 5 edisi revisi 2018 mengusung Tema Cuaca dengan Subtema 1 berjudul Keadaan Cuaca.
+[Buku Kelas 3](https://administrasi.net/bse/buku-tematik-sd-mi-kelas-3-kurikulum-2013 "Buku Tematik Kelas 3 SD") Tema 5 edisi revisi 2018 mengusung Tema Cuaca dengan Subtema 1 berjudul Keadaan Cuaca.
 
 Berikut kunci jawaban Tema 5 Kelas 3 pembelajaran 2 Subtema 1 halaman 12 dan 14 yang dikutip dari Buku Guru dan Siswa serta beberapa sumber:
 

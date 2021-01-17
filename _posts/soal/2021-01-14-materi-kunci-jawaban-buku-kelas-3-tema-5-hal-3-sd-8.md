@@ -18,7 +18,7 @@ tags:
 
 [Administrasi.Net](https://administrasi.net "Administrasi.Net") - Pada kali ini menyediakan materi dan kunci jawaban dari pembahasan soal pada Buku Tematik SD Kelas 3 Tema 5 edisi revisi 2018 halaman 3, 4, 5, 7, dan 8 .
 
-Ada empat subtema dalam buku tematik kelas 3 SD Tema 5 yang berjudul Cuaca.
+Ada empat subtema dalam [Buku Tematik Kelas 3](https://administrasi.net/bse/buku-tematik-sd-mi-kelas-3-kurikulum-2013 "Buku Tematik Kelas 3 SD") SD Tema 5 yang berjudul Cuaca.
 
 Pada subtema 1, siswa kelas 3 SD akan belajar mengenai Keadaan Cuaca.
 

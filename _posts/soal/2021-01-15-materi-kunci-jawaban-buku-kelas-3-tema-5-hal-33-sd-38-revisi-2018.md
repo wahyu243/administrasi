@@ -2,7 +2,7 @@
 title: 'Materi dan Kunci Jawaban Buku Tema 5 Kelas 3 SD Halaman 33 s/d 38 Revisi 2018'
 description: >-
   Materi dan Kunci Jawaban Tema Tema 5 Subtema 1 Pembelajaran 5 Kelas 3 Halaman 33, 35, 36, 37, dan 38 Buku Siswa SD Kurikulum 2018.
-last_modified_date: 2021-01-13T19:10:15.908Z
+last_modified_date: 2021-01-15T19:10:15.908Z
 image: kunci-jawaban-buku-guru-siswa.jpg
 redirect_from: /teori/materi-kunci-jawaban-buku-kelas-3-tema-5-hal-33-sd-38-revisi-2018
 tags:
@@ -19,7 +19,7 @@ tags:
 
 [Administrasi.Net](https://administrasi.net "Administrasi.Net") - Berikut kunci jawaban Tema 5 Kelas 3 SD/MI halaman 33 35 36 37 38 Buku Siswa Tematik Terpadu Kurikulum 2013 edisi revisi 2018 Subtema 1 Pembelajaran 5.
 
-Buku Tematik Kelas 3 Tema 5 edisi revisi 2018 mengusung judul Cuaca subtema Keadaan Cuaca.
+[Buku Tematik Kelas 3](https://administrasi.net/bse/buku-tematik-sd-mi-kelas-3-kurikulum-2013 "Buku Tematik Kelas 3 SD") Tema 5 edisi revisi 2018 mengusung judul Cuaca subtema Keadaan Cuaca.
 
 Sebelum melihat kunci jawaban, siswa harus terlebih dahulu menjawabnya sendiri.
 
