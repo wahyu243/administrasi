@@ -4,7 +4,9 @@ description: >-
   Materi dan Kunci Jawaban Tema Tema 5 Kelas 3 Halaman 12 s/d 14 Buku Tematik Subtema 1 Pembelajaran 2.
 last_modified_date: 2021-01-13T09:10:15.908Z
 image: kunci-jawaban-buku-guru-siswa.jpg
-redirect_from: /teori/materi-kunci-jawaban-buku-kelas-3-tema-5-hal-12-14-revisi-2018
+redirect_from: 
+	- /teori/materi-kunci-jawaban-buku-kelas-3-tema-5-hal-12-14-revisi-2018
+	- /amp/teori/materi-kunci-jawaban-buku-kelas-3-tema-5-hal-12-14-revisi-2018
 tags:
   - referensi
   - kunci-jawaban

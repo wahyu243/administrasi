@@ -4,7 +4,9 @@ description: >-
   Materi dan kunci jawaban soal yang ada dalam pembelajaran 5 halaman 29, 30, 31, 32, 33, 34 dan 35 kurikulum 2013 edisi revisi 2018.
 last_modified_date: 2021-01-13T17:06:15.908Z
 image: kunci-jawaban-buku-guru-siswa.jpg
-redirect_from: /teori/kunci-jawaban-kelas-6-tema-6-subtema-1-pembelajaran-5
+redirect_from: 
+	- /teori/kunci-jawaban-kelas-6-tema-6-subtema-1-pembelajaran-5
+	- /amp/teori/kunci-jawaban-kelas-6-tema-6-subtema-1-pembelajaran-5
 tags:
   - referensi
   - kunci-jawaban

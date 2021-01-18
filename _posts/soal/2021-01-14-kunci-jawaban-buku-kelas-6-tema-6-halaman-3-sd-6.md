@@ -4,7 +4,9 @@ description: >-
   Materi dan kunci jawaban soal yang ada dalam buku kelas 6 tema 6 halaman 3, 4, 5, 6 Subtema 1 Masyarakat Peduli Lingkungan kurikulum 2013 edisi revisi 2018.
 last_modified_date: 2021-01-14T17:06:15.908Z
 image: kunci-jawaban-buku-guru-siswa.jpg
-redirect_from: /teori/kunci-jawaban-buku-kelas-6-tema-6-halaman-3-sd-6
+redirect_from: 
+	- /teori/kunci-jawaban-buku-kelas-6-tema-6-halaman-3-sd-6
+	- /amp/teori/kunci-jawaban-buku-kelas-6-tema-6-halaman-3-sd-6
 tags:
   - referensi
   - kunci-jawaban
