@@ -48,6 +48,7 @@ Laki-laki : tumbuh rambut pada ketiak dan kem4luan, tumbuh jakun pada leher, sua
 Perempuan : payudara membesar, tumbuh rambut pada kemaluan dan ketiak, p1nggul membesar, dan mengalami menstruasi.
 
  Kunci Jawaban Halaman 14 - 15 
+ 
 ![jawaban tema 6 kelas 6 halaman 14](/img/Kunci jawaban tema 6 kelas 6 halaman 14.png "jawaban tema 6 kelas 6 halaman 14")
 
 Amatilah gambar di atas. Kemudian, tuliskan hasil pengamatanmu mengenai gambar pada kolom berikut!
