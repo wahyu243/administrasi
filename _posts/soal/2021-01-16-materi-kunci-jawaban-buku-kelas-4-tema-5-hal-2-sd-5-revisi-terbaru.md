@@ -1,7 +1,7 @@
 ---
-title: 'Materi dan Kunci Jawaban Buku Kelas 3 SD Tema 5 Halaman 2 s/d 5 Revisi Terbaru'
+title: 'Materi dan Kunci Jawaban Buku Kelas 4 SD Tema 5 Halaman 2 s/d 5 Revisi Terbaru'
 description: >-
-  Materi dan Kunci Jawaban Tema Tema 5 Subtema 1 Pembelajaran 5 Kelas 3 Halaman 2, 4, 5 pada Buku Siswa SD Kurikulum 2013 Revisi Terbaru.
+  Materi dan Kunci Jawaban Tema Tema 5 Subtema 1 Pembelajaran 5 Kelas 4 Halaman 2, 4, 5 pada Buku Siswa SD Kurikulum 2013 Revisi Terbaru.
 last_modified_date: 2021-01-16T14:10:15.908Z
 image: kunci-jawaban-buku-guru-siswa.jpg
 tags:
@@ -44,11 +44,7 @@ Jawaban: Sikap mereka sangat baik dan baik untuk dicontoh, sama halnya dengan pa
 
 Jawaban: Semua dapat bisa dicontoh, karena semua adalah perlakuan baik.
 
-Baca juga: Kunci Jawaban Tema 6 Kelas 6 SD Halaman 65 66 68 69 Buku Tematik Pembelajaran 4 Subtema 2
-
-Baca juga: Kunci Jawaban Tema 6 Kelas 4 SD Halaman 14 15 16 17 18 19 20 21 Buku Tematik Cita-Citaku Subtema 1
-
-Kunci Jawaban Halaman 3-4
+## Kunci Jawaban Halaman 3-4
 
 ### Ayo Membaca
 
@@ -114,7 +110,7 @@ Rakyat Kerajaan Tarumanegara hidup aman dan sejahtera karena semua perjuangan Ra
 
 Telapak kaki Raja Purnawarman diabadikan dalam bentuk prasasti yang dikenal sebagai Prasasti Ciareteun oleh rakyat Kerajaan Tarumanegara, karena kecintaannya terhadap sang raja.
 
-Kunci Jawaban Halaman 5
+## Kunci Jawaban Halaman 5
 
 Berikut adalah beberapa tokoh dan peninggalan kerajaan pada masa kerajaan Hindu, Buddha, dan Islam.
 
