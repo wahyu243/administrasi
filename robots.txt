@@ -4,6 +4,10 @@ Disallow:
 User-agent: *
 Disallow: /admin/
 Disallow: /admin#/
+Disallow: https://administrasi.net/amp/teori/kunci-jawaban-tema-6-kelas-6-halaman-60-sd-63
+Disallow: https://administrasi.net/amp/teori/kunci-jawaban-tema-6-kelas-6-halaman-11-sd-19	
+Disallow: https://administrasi.net/amp/teori/materi-kunci-jawaban-buku-kelas-3-tema-5-hal-3-sd-8
+
 Allow: /
 
 Sitemap: https://administrasi.net/sitemap.xml
