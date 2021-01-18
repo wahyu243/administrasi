@@ -4,7 +4,9 @@ description: >-
   Materi dan Kunci Jawaban Tema 6 Kelas 6 Halaman 48 49 50 Buku Tematik SD / MI Subtema 1 Pembelajaran 2 Revisi 2018.
 last_modified_date: 2021-01-13T17:06:15.908Z
 image: kunci-jawaban-buku-guru-siswa.jpg
-redirect_from: /teori/kunci-jawaban-tema-6-kelas-6-halaman-48-49-50
+redirect_from: 
+- /teori/kunci-jawaban-tema-6-kelas-6-halaman-48-49-50
+- /amp/teori/kunci-jawaban-tema-6-kelas-6-halaman-48-49-50
 tags:
   - referensi
   - kunci-jawaban

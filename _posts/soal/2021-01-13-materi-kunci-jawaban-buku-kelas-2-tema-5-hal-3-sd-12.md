@@ -4,7 +4,9 @@ description: >-
   Materi dan Kunci Jawaban Buku Tema 5 Kelas 2 Halaman 3 4 6 8 9 12 Tematik SD Subtema 1 Pembelajaran 1 Pengalamanku
 last_modified_date: 2021-01-13T20:06:15.908Z
 image: kunci-jawaban-buku-guru-siswa.jpg
-redirect_from: /teori/materi-kunci-jawaban-buku-kelas-2-tema-5-hal-3-sd-12
+redirect_from: 
+- /teori/materi-kunci-jawaban-buku-kelas-2-tema-5-hal-3-sd-12
+- /amp/teori/materi-kunci-jawaban-buku-kelas-2-tema-5-hal-3-sd-12
 tags:
   - referensi
   - kunci-jawaban
