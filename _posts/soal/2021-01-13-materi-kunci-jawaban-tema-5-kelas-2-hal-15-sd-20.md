@@ -5,8 +5,8 @@ description: >-
 last_modified_date: 2021-01-13T19:06:15.908Z
 image: kunci-jawaban-buku-guru-siswa.jpg
 redirect_from: 
-	- /teori/materi-kunci-jawaban-tema-5-kelas-2-hal-15-sd-20
-	- /amp/teori/materi-kunci-jawaban-tema-5-kelas-2-hal-15-sd-20
+- /teori/materi-kunci-jawaban-tema-5-kelas-2-hal-15-sd-20
+- /amp/teori/materi-kunci-jawaban-tema-5-kelas-2-hal-15-sd-20
 tags:
   - referensi
   - kunci-jawaban

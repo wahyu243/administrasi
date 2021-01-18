@@ -5,8 +5,8 @@ description: >-
 last_modified_date: 2021-01-13T17:06:15.908Z
 image: kunci-jawaban-buku-guru-siswa.jpg
 redirect_from: 
-	- /teori/kunci-jawaban-tema-6-kelas-6-halaman-48-49-50
-	- /amp/teori/kunci-jawaban-tema-6-kelas-6-halaman-48-49-50
+- /teori/kunci-jawaban-tema-6-kelas-6-halaman-48-49-50
+- /amp/teori/kunci-jawaban-tema-6-kelas-6-halaman-48-49-50
 tags:
   - referensi
   - kunci-jawaban
