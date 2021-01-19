@@ -1,7 +1,7 @@
 ---
 title: 'Materi dan Kunci Jawaban Kelas 3 Tema 5 SD Halaman 40 s/d 45 Revisi 2018'
 description: >-
-  Materi dan Kunci Jawaban Tema Tema 5 Subtema 1 Pembelajaran 6 Kelas 3 Halaman 33, 35, 36, 37, dan 38 Buku Siswa SD Kurikulum 2018.
+  Materi dan Kunci Jawaban Tema Tema 5 Subtema 1 Pembelajaran 6 Kelas 3 Halaman 40, 41, 42, 43, 44, dan 45 Buku Siswa SD Kurikulum 2018.
 last_modified_date: 2021-01-17T19:10:15.908Z
 image: kunci-jawaban-buku-guru-siswa.jpg
 nama_sumber_1: Tribunnews
