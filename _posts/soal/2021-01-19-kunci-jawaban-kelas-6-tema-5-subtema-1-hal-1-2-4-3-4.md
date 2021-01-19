@@ -42,33 +42,47 @@ Udin dan teman-teman juga mengikuti aneka lomba yang diadakan oleh beberapa anju
 ### Soal
 Jawab pertanyaan berikut berdasarkan teks.
 1) Mengapa hari ini merupakan hari yang penting bagi Udin dan kawan-kawan?
+
 **Jawaban**
+
 Karena akan berkunjung ke pameran budaya ASEAN
 
 2) Apa yang dapat dipelajari dari anjungan khusus yang dikelola oleh sekretariat ASEAN?
+
 **Jawaban**
+
 Tentang bagaimana peranan ASEAN dalam mengembangkan wirausaha kecil, produk-produk kreatif dari negara ASEAN
 
 3) Apa pengalaman belajar yang diperoleh Edo?
+
 **Jawaban**
+
 Mengenal berbagai makanan khas dari negara-negara ASEAN
 
 4) Apa pengalaman belajar yang diperoleh Beni?
+
 **Jawaban**
+
 Mengenal Wayang Asik dan Sejarah Wayang Asik
 
 5) Apa pengalaman belajar yang diperoleh Udin?
+
 **Jawaban**
+
 Mengenal ragam karya dan budaya tiap negara ASEAN
 
 6) Jika kamu mendapat kesempatan berkunjung ke arena pameran tersebut, apa kegiatan yang mungkin paling menarik menurutmu? Mengapa?
+
 **Jawaban**
+
 a. Rumah Adat khas tiap Negara
 b. Makanan khas tiap Negara
 c. Penampilan Budaya khas tiap Negara
 
 7) Tulis 3 hal yang menurutmu penting dari teks tersebut!
+
 **Jawaban**
+
 a. Pentingnya mengenal budaya setiap daerah
 b. Pentingnya mengenal dan memahami budaya daerah sendiri
 c. Study tour menambah pengetahuan semakin kaya
