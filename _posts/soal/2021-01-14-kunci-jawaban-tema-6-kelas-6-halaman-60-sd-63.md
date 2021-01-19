@@ -38,11 +38,8 @@ Ayo Berlatih
 Di depan telah disajikan bacaan nonfiksi yang terdiri atas lima paragraf. Bacalah kembali dengan cermat teks nonfiksi di atas. Selanjutnya, kerjakan perintah berikut!
 
 1. Tuliskan kalimat utama pada setiap paragraf.
-
 2. Tuliskan gagasan utama pada setiap paragraf.
-
 3. Tuliskan gagasan utama dari teks nonfiksi berdasarkan gagasan utama setiap paragraf.
-
 4. Tuliskan hasilnya dalam bentuk tabel seperti contoh berikut.
 
 Jawaban:
