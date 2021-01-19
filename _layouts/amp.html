@@ -296,7 +296,7 @@ font-size:12px;
   <div overflow=""></div>
 	</amp-ad></div></div>
 <div class="entry-content"><div class="container">
-{{ content | markdownify | amp_images | replace:"<p><amp-img","<amp-img width='600'  height='400' layout='responsive' " | replace:"</p></amp-img","</amp-img"}}
+{{ content | markdownify | amp_images | replace:"<p><amp-img","<amp-img width='600'  height='400' layout='responsive' " | replace:"</p></amp-img","</amp-img" | replace:"</amp-img></p>","</amp-img>"}}
 
 	</div></div>
 <div class="entry-content"><div class="container">
