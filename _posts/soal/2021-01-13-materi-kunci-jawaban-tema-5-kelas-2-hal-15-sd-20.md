@@ -28,6 +28,7 @@ Untuk materi yang dibahas kali ini yakni Subtema 1 dalam Buku Tematik berjudul P
 ### Kunci Jawaban Halaman 15
 
 Perhatikan gambar berikut! Ada beberapa gerakan bertumpu dengan tangan. Gerakan ini dilakukan oleh Beni.
+
 ![Kunci jawaban halaman 14](/img/tema-5-kelas-2-halaman-14.jpg "Kunci jawaban halaman 14")
 
 Buatlah sebuah pertanyaan. Pertanyaan ini berkaitan dengan gambar gerakan bertumpu. Gerakan bertumpu dengan tangan. Mintalah temanmu menjawabnya!
@@ -38,6 +39,7 @@ Jawaban teman: Kayang, Meroda, Handstand, Guling depan, Guling belakang, hingga 
 
 
 Perhatikan Gambar 1, 2, dan 3! Lakukan bersama temanmu. Diskusikan cara melakukan gerakannya (Lihat halaman 14).
+
 ![Kunci jawaban halaman 14](/img/tema-5-kelas-2-halaman-14.jpg "Kunci jawaban halaman 14")
 
 Jawab:
@@ -51,7 +53,9 @@ Gambar 3: Pertama berdiri tegak kemudian lebarkan kaki sedikit, tempatkan tangan
 Baca juga: Kunci Jawaban Tema 4 Kelas 3 Halaman 142 145 146 Subtema 4 Kewajiban dan Hakku Sebagai Warga Negara
 
 Kunci Jawaban Halaman 17
+
 ![Kunci jawaban halaman 17](/img/tema-5-kelas-2-halaman-17.jpg "Kunci jawaban halaman 17")
+
 Perhatikan gambar-gambar tersebut! Berikan centang (v) pada gambar yang menunjukkan sila pertama.
 Berikan centang (v) pada gambar yang menunjukkan sila pertama. (Buku Tematik Tema 5 Kelas 2 SD)
 Perhatikan gambar berikut! Gambar-gambar tersebut mencerminkan sila Pancasila. Berikan centang (v) pada gambar yang menunjukkan sila pertama.

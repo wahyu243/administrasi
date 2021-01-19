@@ -33,11 +33,11 @@ Terlihat pada gambar dua orang dewasa dan dua orang lagi masih anak-anak
 
 ### Kunci jawaban halaman 11
 
-1. Apakah kamu melihat adanya perbedaan pada kedua gambar tersebut? Tunjukan perbedaan pada gambar di atas. Tuliskan pada kolom berikut!
+1) Apakah kamu melihat adanya perbedaan pada kedua gambar tersebut? Tunjukan perbedaan pada gambar di atas. Tuliskan pada kolom berikut!
 
 Jawaban : Perbedaan tinggi badan, ukuran tubuh, ukuran pakaian, warna pakaian, dan alas kaki.
 
-2. Tahukah kamu yang dimaksud masa puber? Baik anak laki-laki maupun anak perempuan akan mengalami masa puber.
+2) Tahukah kamu yang dimaksud masa puber? Baik anak laki-laki maupun anak perempuan akan mengalami masa puber.
 
 Apa ciri-ciri anak laki-laki dan perempuan pada masa puber? Tuliskan pada kolom berikut!Masa puber adalah masa berkembangnya manusia dari anak-anak menjadi remaja.
 

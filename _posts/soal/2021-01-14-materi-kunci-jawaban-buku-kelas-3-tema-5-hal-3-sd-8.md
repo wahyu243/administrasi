@@ -118,19 +118,25 @@ Kue B
 **Tulislah lambang pecahan untuk soal di bawah ini.**
 
 1) Berapa bagian pizza yang sudah dimakan Udin?
+
 ![gambar](/img/pizza.jpg "gambar")
  
 2) Siti senang makan buah apel. Ia ingin membaginya pada Lani dan Dayu. Berapa bagiankah buah apel dipotong agar Siti, Lani, dan Dayu mendapat bagian yang sama?
+
 ![gambar](/img/apel.jpg "gambar")
 
 3) Ibu menyediakan satu roti panjang untuk sarapan pagi keluarga. Roti utuh ini dipotong menjadi 4. Setiap anggota keluarga akan mendapat berapa bagian roti?
+
 ![gambar](/img/roti.jpg "gambar")
  
 4) Saat udara panas, makan buah jeruk terasa menyegarkan. Beni ingin membagi jeruknya pada Edo. Dari satu buah jeruk, Beni dan Edo akan mendapat berapa bagian?
+
 ![gambar](/img/jeruk.jpg "gambar")
 
 5) Lani membawa kue bulan ke sekolah. Lani ingin membaginya untuk 4 orang. Satu bagian diberikan untuk Lani, Siti, Udin, dan Beni. Berapa bagian kue kah yang didapatkan setiap teman?
+
 ![gambar](/img/kue-bulan.jpg "gambar")
  
 7) Siti berulang tahun. Dia ingin berbagi martabak manis aneka rasa untuk teman-teman di kelas. Satu loyang martabak dipotong untuk 8 orang. Berapa bagian martabak untuk setiap orang?
+
 ![gambar](/img/martabak.jpg "gambar")
