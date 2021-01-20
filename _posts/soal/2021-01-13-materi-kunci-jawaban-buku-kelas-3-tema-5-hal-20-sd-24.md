@@ -7,6 +7,7 @@ image: kunci-jawaban-buku-guru-siswa.jpg
 redirect_from: 
 - /teori/materi-kunci-jawaban-buku-kelas-5-tema-3-hal-20-sd-24
 - /amp/teori/materi-kunci-jawaban-buku-kelas-5-tema-3-hal-20-sd-24
+- /soal/materi-kunci-jawaban-buku-kelas-5-tema-3-hal-20-sd-24
 tags:
   - referensi
   - kunci-jawaban
