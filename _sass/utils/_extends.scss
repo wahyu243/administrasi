@@ -516,6 +516,7 @@ span.glyphicon.glyphicon-paperclip {
     width: 0;
     height: 0;
   }
+  }
   
   .ads_footer_sticky {
     position: fixed;
@@ -525,3 +526,6 @@ span.glyphicon.glyphicon-paperclip {
     text-align: center;
     z-index: 999999;
 }
+.adslot_1 {width:320px;height:90px}
+@media (min-width:500px) { .adslot_1 { width: 468px; height: 60px; } }
+@media (min-width:800px) { .adslot_1 { width: 728px; height: 90px; } }
