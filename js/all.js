@@ -6088,3 +6088,7 @@ function addLink() {
 	},0);
 }
 document.oncopy = addLink;
+
+$(".ads_footer_sticky .closed").click(function(){
+  $(".ads_footer_sticky").hide();
+});
