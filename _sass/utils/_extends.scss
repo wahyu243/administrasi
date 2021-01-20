@@ -516,3 +516,12 @@ span.glyphicon.glyphicon-paperclip {
     width: 0;
     height: 0;
   }
+  
+  .ads_footer_sticky {
+    position: fixed;
+    left: 0;
+    bottom: 40px;
+    width: 100%;
+    text-align: center;
+    z-index: 999999;
+}
