@@ -3,7 +3,7 @@ title: 'Materi dan Kunci Jawaban Buku Tema 5 Kelas 6 SD Halaman 5'
 description: >-
   Materi dan Kunci Jawaban Halaman 5 Buku Tematik Tema 5 Kelas 6 Subtema 1 Pembelajaran 1 Kurikulum 2013 Buku Revisi 2018.
 last_modified_date: 2021-01-20T20:06:15.908Z
-image: kunci-jawaban-kelas-6-halaman-5.ppg
+image: kunci-jawaban-kelas-6-halaman-5.png
 tags:
   - referensi
   - kunci-jawaban
