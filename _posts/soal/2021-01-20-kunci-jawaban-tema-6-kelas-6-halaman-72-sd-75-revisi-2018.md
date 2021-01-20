@@ -1,7 +1,7 @@
 ---
-title: 'Materi dan Kunci Jawaban Tema 6 Kelas 6 Subtema 2 Halaman 65 s/d 69'
+title: 'Materi dan Kunci Jawaban Tema 6 Kelas 6 Subtema 2 Halaman 72 s/d 75'
 description: >-
-  Materi dan Kunci jawaban dari soal Buku Tematik tema 6 Subtema 2 Pembelajaran 4 kelas 6 SD halaman 65, 66, 67, 68, dan 69 kurikulum 2013 edisi revisi 2018.
+  Materi dan Kunci jawaban dari soal Buku Tematik tema 6 Subtema 2 Pembelajaran 4 kelas 6 SD halaman 72, 73, 74, dan 75 kurikulum 2013 edisi revisi 2018.
 last_modified_date: 2021-01-20T10:06:15.908Z
 image: kunci-jawaban-buku-guru-siswa.jpg
 nama_sumber_1: Tribunnews
