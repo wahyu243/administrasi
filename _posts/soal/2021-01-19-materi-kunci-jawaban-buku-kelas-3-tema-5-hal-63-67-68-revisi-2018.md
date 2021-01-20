@@ -5,7 +5,7 @@ description: >-
 last_modified_date: 2021-01-19T09:20:15.908Z
 image: kunci-jawaban-buku-guru-siswa.jpg
 nama_sumber_1: Tribunnews
-link_sumber_1: https://www.tribunnews.com/pendidikan/2020/11/25/kunci-jawaban-tema-5-kelas-3-sd-halaman-50-51-55-56-buku-tematik-subtema-2-pembelajaran-1
+link_sumber_1: https://www.tribunnews.com/pendidikan/2020/12/04/kunci-jawaban-tema-5-kelas-3-sd-halaman-63-67-68-buku-tematik-subtema-2-pembelajaran-2?page=all.
 tags:
   - referensi
   - kunci-jawaban
@@ -127,8 +127,3 @@ Jawaban:
 
 ![Jawaban Pengaruh Cuaca terhadap kegiatan dirumah](/img/tabel-kegiatan-jawaban.jpg "Jawaban Pengaruh Cuaca terhadap kegiatan dirumah")
 
-
-
-Artikel ini telah tayang di Tribunnews.com dengan judul Kunci Jawaban Tema 5 Kelas 3 SD Halaman 63 67 68 Buku Tematik Subtema 2 Pembelajaran 2, https://www.tribunnews.com/pendidikan/2020/12/04/kunci-jawaban-tema-5-kelas-3-sd-halaman-63-67-68-buku-tematik-subtema-2-pembelajaran-2?page=all.
-Penulis: Sri Juliati
-Editor: Gigih
