@@ -38,6 +38,19 @@ layout: amp
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
+   <link rel="dns-prefetch" href="//d33wubrfki0l68.cloudfront.net">
+   <link rel="dns-prefetch" href="//fonts.googleapis.com">
+   <link rel="dns-prefetch" href="//fonts.gstatic.com">
+   <link rel="dns-prefetch" href="//www.google-analytics.com">
+   <link rel="dns-prefetch" href="//www.googletagmanager.com">
+   <link rel="dns-prefetch" href="//www.googletagservices.com">
+   <link rel="dns-prefetch" href="//adservice.google.com">
+   <link rel="dns-prefetch" href="//pagead2.googlesyndication.com">
+   <link rel="dns-prefetch" href="//tpc.googlesyndication.com">
+   <link rel="dns-prefetch" href="//ad.doubleclick.net">
+   <link rel="dns-prefetch" href="//googleads.g.doubleclick.net">
+   <link rel="dns-prefetch" href="//stats.g.doubleclick.net">
+   <link rel="dns-prefetch" href="//cm.g.doubleclick.net">
  <script async src="https://cdn.ampproject.org/v0.js"></script>
     <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
     <script async custom-element="amp-bind" src="https://cdn.ampproject.org/v0/amp-bind-0.1.js"></script>
@@ -66,7 +79,6 @@ layout: amp
     background-color: #000;
     margin: 6px 0;
 }
-
 button.ap-o-header-main-link.ap-m-nav-link {
     margin-top: -2px;
 }.ap-o-header-main-item {
@@ -152,7 +164,6 @@ a, a:hover {
 	  .social {
     margin: 20px 0 10px;
 }
-
 .social, .three-shade-col ul {
     padding: 0;
     margin: 0;
@@ -174,9 +185,7 @@ font-size:12px;
 }
 	  </style>
     <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
-   
- 
-    <script type="application/ld+json">
+  <script type="application/ld+json">
    { 
    "@context": "https://schema.org", 
  "@type": "Article",
@@ -211,11 +220,8 @@ font-size:12px;
  "description": "{% if page.description %}{{ page.description}}{% else %}{{ page.excerpt }}{% endif %}",
  "articleBody": "{{page.content | strip_html }}"
  }
-	</script>
-
-
-  </head>
-  <body>
+</script>
+</head><body>
 <header class="ap--header " data-amp-bind-class="'ap--header  ' + (mainmenuopen ? 'mainmenuopen' : '')">
   <div class="ap-o-header">
     <a class="ap-o-header-home" href="{{site.url}}">
@@ -230,15 +236,12 @@ font-size:12px;
           <li class="ap-o-header-flyout-item-secondary">
             <a class="ap-o-header-flyout-item-title secondary" href="https://administrasi.net/adm">Administrasi</a>
           </li>
-
           <li class="ap-o-header-flyout-item-secondary">
             <a class="ap-o-header-flyout-item-title secondary" href="https://administrasi.net/artikel">Artikel</a>
           </li>
-
           <li class="ap-o-header-flyout-item-secondary">
             <a class="ap-o-header-flyout-item-title secondary" href="https://administrasi.net/berita">Berita</a>
           </li>
-
           <li class="ap-o-header-flyout-item-secondary">
             <a class="ap-o-header-flyout-item-title secondary" href="https://administrasi.net/bse">Buku</a>
           </li>
@@ -253,13 +256,10 @@ font-size:12px;
           </li>
         </ul>
       </div>
-
     </nav>
   </div>
 </header>
-    
 <main id="primary" class="ap--main entry ap-t-custom-content site-main">
-		
 <article class="entry ap--content">
   <header class="entry-header">
     <!-- .entry-meta -->
@@ -268,13 +268,11 @@ font-size:12px;
 	<a href="{{site.url | replace: "amp",""}}/kontributor/{{ author.slug | slugify }}">{{author.name | replace: 'artipedia','wahyu' | capitalize}}</a> | <time class="entry-date published updated" datetime="{{ page.date | date_to_string }}">{{ page.date | date_to_string }}</time>		</span>
 	</div> 
 	<h1 class="entry-title"><a href="{{ site.url }}{{ page.url | replace: 'amp',''}}" title="{{ page.title | strip_html }}">{{ page.title | strip_html }}</a></h1>
-	  
 	<div class="entry-taxonomies">
 	<span class="category-links term-links">
 	<a class="ap-m-filter-bubble" href="/{{ page.category }}" rel="category tag">{{ page.category | capitalize }}</a>		</span>
   </div><!-- .entry-taxonomies -->
 </header>
-  
 <div class="entry-content">
 <div class="fixed-container">
 <amp-img width="1280" height="720" alt="{{ page.title | strip_html }}" class="img-feat contain" src="/img/{{ page.image | replace: '/img/','' | crop: 'bottom' }}" alt="{{ page.title | strip_html }}" layout="responsive">
@@ -297,7 +295,6 @@ font-size:12px;
 	</amp-ad></div></div>
 <div class="entry-content"><div class="container">
 {{ content | markdownify | amp_images | replace:"<p><amp-img","<amp-img width='600'  height='400' layout='responsive' " | replace:"</p></amp-img","</amp-img" | replace:"</amp-img></p>","</amp-img>"}}
-
 	</div></div>
 <div class="entry-content"><div class="container">
 <amp-ad width="100vw" height="320"
@@ -309,9 +306,6 @@ font-size:12px;
   <div overflow=""></div>
 </amp-ad>
 	</div></div>
-
-
-
 <div class="entry-content"><div class="container">
 <div class="card-body pb-0"><h4 class="text">Lihat {{page.category}} lainnya</h4></div>  
 <ol class="arti">
@@ -384,7 +378,6 @@ font-size:12px;
     </div>
         </div>
 </div>
-	
 	</article>
 	</main>
 	  <footer class="entry-content">
@@ -395,8 +388,6 @@ font-size:12px;
     </a>
       <p>Mari kita bicara! Kunjungi Komunitas Administrasi.Net untuk diskusi tentang posting blog ini.</p>
       <p><a href="https://www.facebook.com/administrasi.net/?modal=admin_todo_tour/" class="button" title="Komunitas Administrasi.Net">Kunjungi Komunitas</a></p>
-		  
-		  
 	</footer>	
     <footer class="main-footer">
         <ul class="social">
@@ -404,17 +395,12 @@ font-size:12px;
             <li><small><a href="https://administrasi.net/doc/kebijakan-privasi-cookie" title="Kebijakan Administrasi.Net">Pusat Kebijakan</a></small></li>
              <li><small><a href="https://administrasi.net/doc/kode-etik" title="Kode Etik">Kode Etik</a></small></li>
         </u>
-        
         <div>{% if site.copyright %} {{ site.copyright }} {% endif %} by <a href="https://theme.administrasi.net/" title="Free Jekyll Themes">Jekyll Theme</a></div>
-
-    
-
     </footer>
 	  <amp-auto-ads
     type="adsense"
     data-ad-client="ca-pub-5439573510495356">
   </amp-auto-ads>
-
 <amp-analytics type="googleanalytics">
   <script type="application/json">
   {
