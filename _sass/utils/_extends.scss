@@ -519,11 +519,11 @@ span.glyphicon.glyphicon-paperclip {
   }
   
   .ads_footer_sticky {
-    position: fixed;
+	position: fixed;
     left: 0;
     bottom: 62px;
     width: 100%;
-    text-align: center;
+    padding: 0 5px;
     z-index: 999999;
 }
 .adslot_1 { display:inline-block; width: 320px; height: 50px; }
