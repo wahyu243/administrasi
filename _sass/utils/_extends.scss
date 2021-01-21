@@ -524,7 +524,7 @@ span.glyphicon.glyphicon-paperclip {
     bottom: 3px;
     width: 100%;
     padding: 0 5px;
-    z-index: 999999;
+    z-index: 9999;
 }
 .adslot_1 { display:inline-block; width: 320px; height: 50px; }
 @media (max-width: 400px) { .adslot_1 { display: none; } }
@@ -532,4 +532,8 @@ span.glyphicon.glyphicon-paperclip {
 @media (min-width:800px) { .adslot_1 { width: 728px; height: 90px; } }
 a.closed.bawah {
     float: none;
+}
+a.tag-link {
+    position: relative;
+    display: inherit;
 }
