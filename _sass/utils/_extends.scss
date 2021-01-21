@@ -526,6 +526,7 @@ span.glyphicon.glyphicon-paperclip {
     text-align: center;
     z-index: 999999;
 }
-.adslot_1 {width:320px;height:90px}
+.adslot_1 { display:inline-block; width: 320px; height: 50px; }
+@media (max-width: 400px) { .adslot_1 { display: none; } }
 @media (min-width:500px) { .adslot_1 { width: 468px; height: 60px; } }
 @media (min-width:800px) { .adslot_1 { width: 728px; height: 90px; } }
