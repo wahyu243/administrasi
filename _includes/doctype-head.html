@@ -13,19 +13,47 @@
 {% endif %}
     <title>{%if page.title %}{{ page.title }} - {{ site.name }}{% else %}{{ site.title }} - {{ site.name }}{% endif %}</title>
 	<meta name="title" content="{%if page.title %}{{ page.title }} - {{ site.name }}{% else %}{{ site.title }}{% endif %}">
- {% if page.layout == 'post' or page.layout == 'page' %}<meta name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ page.excerpt }}{% endif %}">
+ {% if page.layout == 'post' or page.layout == 'news_item' or page.layout == 'page' %}<meta name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ page.excerpt }}{% endif %}">
 	{% endif %}
  
- <link href="//securepubads.g.doubleclick.net" rel="dns-prefetch">
-<link href="//cdn-1.tstatic.net" rel="dns-prefetch">
-<link href="//cdn-2.tstatic.net" rel="dns-prefetch">
-<link href="//cdn-3.tstatic.net" rel="dns-prefetch">
-<link href="//static.criteo.net" rel="dns-prefetch">
-<link href="//bidder.criteo.com" rel="dns-prefetch">
-<link href="//rtax.criteo.com" rel="dns-prefetch">
-<link href="//tpc.googlesyndication.com" rel="dns-prefetch">
-<link href="//cm.g.doubleclick.net" rel="dns-prefetch">
-<link href="//administrasi.net" rel="dns-prefetch">
+<!-- Google CDN -->
+   <link rel="dns-prefetch" href="//ajax.googleapis.com">
+   <link rel="dns-prefetch" href="//ajax.cloudflare.com">
+
+   <!-- Google API -->
+   <link rel="dns-prefetch" href="//apis.google.com">
+
+   <!-- Google Fonts -->
+   <link rel="dns-prefetch" href="//fonts.googleapis.com">
+   <link rel="dns-prefetch" href="//fonts.gstatic.com">
+
+   <!-- Google Analytics -->
+   <link rel="dns-prefetch" href="//www.google-analytics.com">
+
+   <!-- Google Tag Manager -->
+   <link rel="dns-prefetch" href="//www.googletagmanager.com">
+
+   <!-- Google Publisher Tag -->
+   <link rel="dns-prefetch" href="//www.googletagservices.com">
+
+   <!-- Google AdSense -->
+   <link rel="dns-prefetch" href="//adservice.google.com">
+   <link rel="dns-prefetch" href="//pagead2.googlesyndication.com">
+   <link rel="dns-prefetch" href="//tpc.googlesyndication.com">
+   <!-- DoubleClick -->
+   <link rel="dns-prefetch" href="//ad.doubleclick.net">
+   <link rel="dns-prefetch" href="//googleads.g.doubleclick.net">
+   <link rel="dns-prefetch" href="//stats.g.doubleclick.net">
+   <link rel="dns-prefetch" href="//cm.g.doubleclick.net">
+
+   {% if page.layout == 'post' or page.layout == 'news_item' %}
+    <link rel="dns-prefetch" href="//administrasi-net.disqus.com/">
+    <link rel="dns-prefetch" href="//disqus.com">
+    <link rel="dns-prefetch" href="//referrer.disqus.com">
+    <link rel="dns-prefetch" href="//c.disquscdn.com">
+    <link rel="dns-prefetch" href="//realtime.services.disqus.com">
+    {% endif %}
+   <link href="//administrasi.net" rel="dns-prefetch">
  
     <meta property="fb:app_id" content="2023057631120381">
     <meta property="og:locale" content="id">
