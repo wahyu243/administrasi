@@ -1,7 +1,7 @@
 ---
 title: 'Materi dan Kunci Jawaban Kelas 3 Tema 5 SD Halaman 74, 75, 76, 81 Revisi 2018'
 description: >-
-  Materi dan Kunci Jawaban Tema 5 Kelas 3 Halaman 74, 75, 76, 81 Buku Siswa SD Kelas 3 Kurikulum 2018.
+  Materi dan Kunci Jawaban Tema 5 Kelas 3 Halaman 74, 75, 76, 81 Buku Siswa SD Kelas 3 Buku Kurikulum 2013 Revisi 2018.
 last_modified_date: 2021-01-21T20:20:15.908Z
 image: kunci-jawaban-buku-guru-siswa.jpg
 nama_sumber_1: Tribunnews
@@ -105,11 +105,11 @@ Jawaban:
 
 Lalu, bandingkan 2/4 bagian kue cokelat dan 2/3 bagian kue vanila.
 
-![Materi Pecahan Membandingkan](/img/potongan-cokelat-3.jpg "Materi Pecahan Membandingkan")
+![Materi Pecahan Membandingkan](/img/soal-pecahan-3.jpg "Materi Pecahan Membandingkan")
 
 Jawaban:
 
-![Materi Pecahan Membandingkan](/img/potongan-cokelat-3-jawaban.jpg "Materi Pecahan Membandingkan")
+![Materi Pecahan Membandingkan](/img/soal-pecahan-3-jawaban.jpg "Materi Pecahan Membandingkan")
 
 Lalu, bandingkan 3/4 bagian kue cokelat dan 3/3 bagian kue vanila.
 
