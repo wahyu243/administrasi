@@ -480,42 +480,55 @@ span.glyphicon.glyphicon-paperclip {
 .mb-3 h5 {
     font-size: 14px;
 }
-.note {
-      margin: 30px 0;
+
+.card-body.tit h2 {
+    margin-top: 0;
+    margin-bottom: 0;
+    background: #d8d6eb;
+    font-size: 16px;
+}
+
+.card-body.tit h3 {background-color: #e3ecbf;}
+.card-body.tit h4 {background-color: #d7ece7}
+.card-body.tit h5 {background-color: #e3ecbf;}
+.card-body.tit h6 {background-color: #e3ecbf;}
+
+.card-body.tit h2,.card-body.tit h3,.card-body.tit h4,.card-body.tit h5,.card-body.tit h6 {
+     margin: 30px 0;font-size: 16px;
     margin-left: -30px;
+    color: #232323;
+    font-weight: 700;
     padding: 20px 20px 24px;
-    padding-left: 50px;
     -webkit-border-radius: 0 5px 5px 0;
     -moz-border-radius: 0 5px 5px 0;
     border-radius: 0 5px 5px 0;
     position: relative;
-    -webkit-box-shadow: 0 1px 5px rgba(0,0,0,0.3), inset 0 1px 0 rgba(255,255,255,0.2), inset 0 -1px 0 rgba(0,0,0,0.3);
-    -moz-box-shadow: 0 1px 5px rgba(0,0,0,0.3),inset 0 1px 0 rgba(255,255,255,0.2),inset 0 -1px 0 rgba(0,0,0,0.3);
-    box-shadow: 0 1px 5px rgba(0,0,0,0.3), inset 0 1px 0 rgba(255,255,255,0.2), inset 0 -1px 0 rgba(0,0,0,0.3);
-    background-color: #2b8a61;
+    -webkit-box-shadow: 0 1px 5px rgba(0,0,0,.3), inset 0 1px 0 rgba(255,255,255,.2), inset 0 -1px 0 rgba(0,0,0,.3);
+    -moz-box-shadow: 0 1px 5px rgba(0,0,0,.3),inset 0 1px 0 rgba(255,255,255,.2),inset 0 -1px 0 rgba(0,0,0,.3);
+    box-shadow: 0 1px 5px rgba(0,0,0,.3), inset 0 1px 0 rgba(255,255,255,.2), inset 0 -1px 0 rgba(0,0,0,.3);
+    background-color: #e3ecbf;
 }
 
 @media (max-width: 568px) {
-  .note { margin-right: -30px; }.rel {
+  .card-body.tit h2,.card-body.tit h3,.card-body.tit h4,.card-body.tit h5,.card-body.tit h6 { margin-right: -30px; }.rel {
    width: 100% ;}
 }
 
 @media (min-width: 768px) {
-  .note { margin-left: -50px; }
+ .card-body.tit h2,.card-body.tit h3,.card-body.tit h4,.card-body.tit h5,.card-body.tit h6 { margin-left: -32px; }
 }
 
-.note {
-  &:before {
+.card-body.tit h2:before,.card-body.tit h3:before,.card-body.tit h4:before,.card-body.tit h5:before,.card-body.tit h6:before {
     content: "";
     position: absolute;
     top: -10px;
-    left: 0;
-    border-color: transparent #222 #222 transparent;
+    border-color: transparent #b3b3b1 #b3b3b1 transparent;
     border-style: solid;
     border-width: 5px;
+    left: 1px;
     width: 0;
     height: 0;
-  }
+  
   }
   
   .ads_footer_sticky {

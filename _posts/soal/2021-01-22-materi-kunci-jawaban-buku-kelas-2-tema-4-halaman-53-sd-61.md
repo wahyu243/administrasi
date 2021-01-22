@@ -45,15 +45,30 @@ Ayo Berlatih
 Jawablah pertanyaan berikut sesuai hasil musyawarah Dayu dan teman-teman!
 
 1. 	Kegiatan apa yang akan diikuti Dayu dan teman-teman?
-	Jawaban: Lomba kebersihan antarkelas.
+	
+	Jawaban: 
+	
+	Lomba kebersihan antarkelas.
 2.	Apa hasil musyawarah Dayu dan teman-teman?
-	Jawaban: Bergotong-royong dan menyiapkan peralatan membersihkan kelas.
+	
+	Jawaban: 
+	
+	Bergotong-royong dan menyiapkan peralatan membersihkan kelas.
 3.	Bagaimana pendapatmu terhadap hasil musyawarah mereka?
-	Jawaban: Setuju.
+	
+	Jawaban: 
+	
+	Setuju.
 4.	Apa saja peralatan yang perlu mereka siapkan?
-	Jawaban: Kemoceng, serbet, kain pel, dan vas bunga.
+	
+	Jawaban: 
+	
+	Kemoceng, serbet, kain pel, dan vas bunga.
 5. 	Menurutmu, apa manfaat kegiatan yang akan mereka lakukan?
-	Jawaban: Untuk menjaga kebersihan kelas dan sekolah.
+	
+	Jawaban: 
+	
+	Untuk menjaga kebersihan kelas dan sekolah.
 
 ### Kunci Jawaban Halaman 54
 
