@@ -230,7 +230,14 @@ font-size:12px;
     width: 0;
     height: 0;
   
-  }
+  }.ver {
+    position: fixed;
+    bottom: 0;
+    right: 15px;
+    z-index: 9999;
+}
+
+
 	  </style>
     <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
   <script type="application/ld+json">
@@ -446,6 +453,8 @@ font-size:12px;
         </u>
         <div>{% if site.copyright %} {{ site.copyright }} {% endif %} by <a href="https://theme.administrasi.net/" title="Free Jekyll Themes">Jekyll Theme</a></div>
     </footer>
+	<span class="category-links term-links ver">
+	<a class="ap-m-filter-bubble small" title="Buka Versi Normal" href="{{ page.canonical_url | prepend: site.baseurl | prepend: site.url }}">Normal</a></span>
 	  <amp-auto-ads
     type="adsense"
     data-ad-client="ca-pub-5439573510495356">
