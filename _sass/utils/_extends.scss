@@ -484,13 +484,23 @@ span.glyphicon.glyphicon-paperclip {
 .card-body.tit h2 {
     margin-top: 0 !important;
     margin-bottom: 0 !important;
-    background: #e3ecbf;
+    background: #00b5ad;
    }
 
+
+.card-body.tit h3:nth-child(1) {background-color: #c05cf3}
+.card-body.tit h4:nth-child(2) {background-color: #f73c5e}
+.card-body.tit h5:nth-child(3) {background-color: #00b572}
+.card-body.tit h6:nth-child(4) {background-color: #e48d20}
+.card-body.tit h3:nth-child(5) {background-color: #464cff}
+.card-body.tit h4:nth-child(6) {background-color: #af46ff}
+.card-body.tit h5:nth-child(7) {background-color: #ff4646}
+.card-body.tit h6:nth-child(8) {background-color: #f3994b}
+
 .card-body.tit h3 {background-color: #c05cf3;}
-.card-body.tit h4 {background-color: #d7ece7}
-.card-body.tit h5 {background-color: #00b5ad}
-.card-body.tit h6 {background-color: #e3ecbf;}
+.card-body.tit h4 {background-color: #f73c5e}
+.card-body.tit h5 {background-color: #00b572}
+.card-body.tit h6 {background-color: #464cff}
 
 .card-body.tit h2,.card-body.tit h3,.card-body.tit h4,.card-body.tit h5,.card-body.tit h6 {
     margin: 20px 0;font-size: 16px;
