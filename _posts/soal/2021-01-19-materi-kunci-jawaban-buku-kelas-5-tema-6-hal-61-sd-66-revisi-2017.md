@@ -1,7 +1,7 @@
 ---
 title: 'Materi dan Kunci Jawaban Buku Tema 6 Kelas 5 SD Halaman 61 sd 66'
 description: >-
-  Materi dan Kunci Jawaban Tema 6 Kelas 5 Halaman 61, 62, 63, 64, 65, dan 66 Buku Tematik Subtema 1 Pembelajaran 3 Kurikulum revisi 2017.
+  Materi dan Kunci Jawaban Tema 6 Kelas 5 Halaman 61, 62, 63, 64, 65, dan 66 Buku Tematik Subtema 1 Pembelajaran 6 Kurikulum revisi 2017.
 last_modified_date: 2021-01-13T20:06:15.908Z
 image: kunci-jawaban-buku-guru-siswa.jpg
 nama_sumber_1: Tribunnews
