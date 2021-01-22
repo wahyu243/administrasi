@@ -483,9 +483,13 @@ span.glyphicon.glyphicon-paperclip {
 
 .card-body.tit h2 {
     margin-top: 0 !important;
-    margin-bottom: 10 !important;
+    margin-bottom: 0 !important;
     background: #00b5ad;
    }
+
+.card-body.tit h2:nth-child(2) {background-color: #f3994b;margin-bottom: 10px !important;}
+.card-body.tit h2:nth-child(3) {background-color: #af46ff;margin-bottom: 10px !important;}
+.card-body.tit h2:nth-child(4) {background-color: #ff4646;margin-bottom: 10px !important;}
 
 
 .card-body.tit h3:nth-child(1) {background-color: #c05cf3}
