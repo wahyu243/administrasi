@@ -1,7 +1,7 @@
 ---
 title: 'Materi dan Kunci Jawaban Buku Tema 6 Kelas 5 SD Halaman 119 sd 123'
 description: >-
-  Materi dan Kunci Jawaban Tema 6 Kelas 5 Halaman 119, 120, 121, 122, dan halaman 123 Buku Tematik Subtema 2 Pembelajaran 5 Kurikulum revisi 2017.
+  Materi dan Kunci Jawaban Tema 6 Kelas 5 Halaman 119, 120, 121, 122, dan halaman 123 Buku Tematik Subtema 2 Pembelajaran 5 Kurikulum 2013 revisi 2017.
 last_modified_date: 2021-01-22T17:06:15.908Z
 image: kunci-jawaban-buku-guru-siswa.jpg
 nama_sumber_1: Tribunnews
