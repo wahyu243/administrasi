@@ -437,6 +437,10 @@ span.glyphicon.glyphicon-paperclip {
   .dropdown-submenu>a {
     font-size: 12px;
    }
+   
+   img.rounded.lazyload {
+    margin-top: 10px;
+}
 }
 
 .dropdown-submenu>a>.caret {
@@ -483,7 +487,6 @@ span.glyphicon.glyphicon-paperclip {
 
 .card-body.tit h2 {
     margin-top: 0 !important;
-    margin-bottom: 0 !important;
     background: #00b5ad;
    }
 
@@ -586,10 +589,8 @@ img.rounded {
 }
 
 .sumber {
-  font-size: 12px;
-  padding: 5px 10px;
-  background: #f8f9fa;
-  border-radius: 3px;
+    padding: 5px 10px;
+    border-radius: 3px;
 }
 
 .tag-link {
@@ -1355,7 +1356,7 @@ body{background: #f8f9fa;}
 
 .arti li {
     padding: 5px 0;
-    font-size: 93%;
+  
 }
 .arti li:nth-child(2n), .side:nth-child(2n) {
     background-color: rgba(0,0,50,.03);

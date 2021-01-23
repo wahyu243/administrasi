@@ -2,11 +2,11 @@
 title: 'Materi dan Kunci Jawaban Buku Kelas 5 SD Tema 6 Halaman 3 sd 16'
 description: >-
   Materi dan Kunci Jawaban Tema 6 Kelas 5 Halaman 3, 4, 6, 7, 8, 9, 11, 12, 13, 14, 15, dan 16 Buku Tematik Kurikulum 2013 revisi 2017.
-last_modified_date: 2021-01-23T17:06:15.908Z
+last_modified_date: 2021-01-23T10:06:15.908Z
 image: kunci-jawaban-buku-guru-siswa.jpg
-nama_sumber_1: Tribunnews
+nama_sumber_1: Tribunnews 1
 link_sumber_1: https://www.tribunnews.com/pendidikan/2021/01/08/kunci-jawaban-tema-6-kelas-5-sd-halaman-3-4-6-7-8-9-buku-tematik-subtema-1-panas-dan-perpindahannya?page=all
-nama_sumber_2: Tribunnews
+nama_sumber_2: Tribunnews 2
 link_sumber_2: https://www.tribunnews.com/pendidikan/2021/01/11/kunci-jawaban-tema-6-kelas-5-sd-halaman-11-12-13-14-15-16-buku-tematik-subtema-1-suhu-dan-kalor?page=all
 tags:
   - referensi
