@@ -61,25 +61,10 @@ Selain membantu proses fotosintesis, sinar matahari juga merupakan sumber energi
 Jawablah pertanyaan-pertanyaan berikut ini!
 
 1.	Tuliskan informasi yang terdapat pada paragraf pertama!
-	_____________________________________________
-	_____________________________________________
-	_____________________________________________
 2.	Paragraf keberapakah terdapat informasi tentang sumber energi?
-	_____________________________________________
-	_____________________________________________
-	_____________________________________________
 3. 	Apa manfaat energi panas matahari? Tuliskan 3 contoh!
-	_____________________________________________
-	_____________________________________________
-	_____________________________________________
 4. 	Apa yang dihasilkan dari proses fotosintesis?
-	_____________________________________________
-	_____________________________________________
-	_____________________________________________
 5. 	Mengapa matahari disebut sebagai sumber energi terbesar di bumi?
-	_____________________________________________
-	_____________________________________________
-	_____________________________________________
 
 Jawaban:
 
@@ -145,11 +130,3 @@ Jawaban:
 Kalian sudah dapat membedakan mana kegiatan yang lebih lama dan mana yang lebih singkat.
 
 Carilah contoh lainnya!
-
-
-
-Artikel ini telah tayang di Tribunnews.com dengan judul Kunci Jawaban Tema 6 Kelas 3 SD Halaman 4 5 6 9 10 Subtema 1 Pembelajaran 1 Sumber Energi, https://www.tribunnews.com/pendidikan/2021/01/20/kunci-jawaban-tema-6-kelas-3-sd-halaman-4-5-6-9-10-subtema-1-pembelajaran-1-sumber-energi?page=all.
-Penulis: Sri Juliati
-Editor: Tiara Shelavie
-
-
