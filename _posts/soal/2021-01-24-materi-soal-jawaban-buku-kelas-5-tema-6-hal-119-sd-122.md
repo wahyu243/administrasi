@@ -25,14 +25,14 @@ Buku Tematik Kelas 5 Tema 6 ini membahas materi berjudul Panas dan Perpindahanny
 
 ### Kunci jawaban halaman 119-120
 
-> 	Bacalah bacaan berikut ini dengan saksama!
-> 	**Perpindahan Kalor Secara Konduksi**
-> 	
-> 	Bagaimana panas matahari dapat sampai ke bumi? Kalor dari panas matahari tidak dapat berpindah secara konduksi, karena udara yang terdapat dalam atmosfer termasuk konduktor yang paling buruk. Kalor dari matahari pun tidak dapat menghantar secara konveksi karena antara matahari dan bumi terdapat ruang hampa yang tidak menghantarkan kalor. Jadi, kalor dari matahari merambat ke bumi tanpa melalui zat perantara.
+> Bacalah bacaan berikut ini dengan saksama!
+> **Perpindahan Kalor Secara Konduksi**
+> 
+> Bagaimana panas matahari dapat sampai ke bumi? Kalor dari panas matahari tidak dapat berpindah secara konduksi, karena udara yang terdapat dalam atmosfer termasuk konduktor yang paling buruk. Kalor dari matahari pun tidak dapat menghantar secara konveksi karena antara matahari dan bumi terdapat ruang hampa yang tidak menghantarkan kalor. Jadi, kalor dari matahari merambat ke bumi tanpa melalui zat perantara.
 >
->	Proses perpindahan kalor yang tidak memerlukan zat perantara dinamakan radiasi. Dapatkah kamu memberikan contoh lainnya perambatan kalor secara radiasi? Ketika kamu dan teman-temanmu pergi berkemah ke pegunungan, udara di pegunungan sangat dingin. Untuk menghangatkan badan, kamu perlu membuat api unggun. Nah, panas dari api unggun tersebut dapat sampai ke tubuhmu tanpa melalui zat perantara. Perpindahan panas seperti ini dikatakan secara radiasi.
-
->	Pernahkah kamu pergi ke luar rumah pada siang hari yang terik dengan menggunakan baju hitam? Apa yang kamu rasakan? Ketika kamu keluar rumah pada siang hari yang terik dengan menggunakan baju hitam, badanmu akan terasa panas. Hal ini disebabkan warna hitam merupakan penyerap kalor radiasi yang paling baik. Benda-benda berwarna hitam lebih banyak menyerap kalor dan memantulkan sebagian kalor jika dibandingkan dengan benda-benda yang berwarna putih dan berkilap. Sebaliknya, pada malam hari orang yang memakai baju hitam merasa lebih dingin daripada orang yang mengenakan baju putih. Tahukah kamu mengapa hal ini dapat terjadi? Hal tersebut dapat terjadi karena pakaian yang berwarna hitam menyerap kalor yang dikeluarkan tubuh.
+> Proses perpindahan kalor yang tidak memerlukan zat perantara dinamakan radiasi. Dapatkah kamu memberikan contoh lainnya perambatan kalor secara radiasi? Ketika kamu dan teman-temanmu pergi berkemah ke pegunungan, udara di pegunungan sangat dingin. Untuk menghangatkan badan, kamu perlu membuat api unggun. Nah, panas dari api unggun tersebut dapat sampai ke tubuhmu tanpa melalui zat perantara. Perpindahan panas seperti ini dikatakan secara radiasi.
+>
+> Pernahkah kamu pergi ke luar rumah pada siang hari yang terik dengan menggunakan baju hitam? Apa yang kamu rasakan? Ketika kamu keluar rumah pada siang hari yang terik dengan menggunakan baju hitam, badanmu akan terasa panas. Hal ini disebabkan warna hitam merupakan penyerap kalor radiasi yang paling baik. Benda-benda berwarna hitam lebih banyak menyerap kalor dan memantulkan sebagian kalor jika dibandingkan dengan benda-benda yang berwarna putih dan berkilap. Sebaliknya, pada malam hari orang yang memakai baju hitam merasa lebih dingin daripada orang yang mengenakan baju putih. Tahukah kamu mengapa hal ini dapat terjadi? Hal tersebut dapat terjadi karena pakaian yang berwarna hitam menyerap kalor yang dikeluarkan tubuh.
 
 Buatlah daftar hal-hal penting yang kamu temui pada setiap paragraf di dalam bacaan.
 
