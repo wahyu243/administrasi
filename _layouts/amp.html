@@ -473,7 +473,13 @@ h5 {
                 
                     <a href="{{site.baseurl}}{{ post.url }}" class="text-dark">{{ post.title }}</a>
                 </h5>
-   
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    {% for category in post.categories %}
+                    <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/{{ category | replace: 'buku', 'bse' | replace: 'administrasi', 'adm'}}">{{ category }}</a><span class="sep">, </span>
+                    {% endfor %}
+                    </span>
+                </span>
             
             </li>                
         {% endfor %}   
@@ -488,7 +494,13 @@ h5 {
                 
                     <a href="{{site.baseurl}}{{ post.url }}" class="text-dark">{{ post.title }}</a>
                 </h5>
-  
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    {% for category in post.categories %}
+                    <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/{{ category }}">{{ category }}</a><span class="sep">, </span>
+                    {% endfor %}
+                    </span>
+                </span>
            
             </li>                
         {% endfor %}   
@@ -504,7 +516,13 @@ h5 {
                 
                     <a href="{{site.baseurl}}{{ post.url }}" class="text-dark">{{ post.title }}</a>
                 </h5>     
-                
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    {% for category in post.categories %}
+                    <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/{{ category }}">{{ category }}</a><span class="sep">, </span>
+                    {% endfor %}
+                    </span>
+                </span>
             
             </li>                
         {% endfor %}   
@@ -513,7 +531,7 @@ h5 {
 </div> 
 <div class="entry-content"><div class="container">
     <h4 class="font-weight-bold spanborder mb-3"><span>Kategori</span></h4>  
-    <ol>				
+    <ol class="list-featured">				
  {% assign categories_list = site.categories %} {% if categories_list.first[0] == null %} {% for category in categories_list %}
           <li class="mb-3">
              <h5>
@@ -529,9 +547,10 @@ h5 {
             </li>                
         {% endfor %}   {% else %} {% for category in categories_list %}
 	<li class="mb-3">
+            <h5>
                 
 				<a href="{{site.url}}/{{ category[0]  | replace: 'administrasi', 'adm' | replace: 'buku', 'bse'}}" title="{{ category[0] }}">{{ category[0] | capitalize }}</a>
-              
+               </h5> 
                 <span class="d-block text-muted">
                     <span class="catlist">
                     {{ category[1].size }}  </span> Post
