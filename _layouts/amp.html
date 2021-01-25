@@ -145,7 +145,12 @@ button.ap-o-header-main-link.ap-m-nav-link {
     display: inline-block;
 }.social a {
     color: #fff;
-}blockquote{max-width:720px;margin:10px auto 80px;align-self:center;font-family:'Abril Fatface',cursive;position:relative;font-weight:400;border:solid 2px #00b5ad;border-radius:20px;padding:25px}blockquote:after{content:"";position:absolute;border:2px solid #00b5ad;border-radius:0 50px 0 0;width:60px;height:60px;bottom:-60px;left:50px;border-bottom:none;border-left:none;z-index:3}blockquote:before{content:"";position:absolute;width:80px;border:6px solid #fff;bottom:-3px;left:50px;z-index:2}blockquote h4{position:relative;font-size:1.3rem;font-weight:400;line-height:1.2;margin:0;padding-top:15px;z-index:1;margin-left:150px;padding-left:12px}blockquote h4:first-letter{margin-left:-12px}
+}.d-block {
+    display: block;
+}
+.text-muted {
+    color: #777;
+}blockquote{max-width:720px;margin:10px auto 80px;align-self:center;font-family:'Abril Fatface',cursive;position:relative;font-weight:400;border:solid 2px #00b5ad;border-radius:20px;padding:25px}blockquote:after{content:"";position:absolute;border:2px solid #00b5ad;border-radius:0 50px 0 0;width:60px;height:60px;bottom:-62px;left:50px;border-bottom:none;border-left:none;z-index:3}blockquote:before{content:"";position:absolute;width:80px;border:6px solid #fff;bottom:-3px;left:50px;z-index:2}blockquote h4{position:relative;font-size:1.3rem;font-weight:400;line-height:1.2;margin:0;padding-top:15px;z-index:1;margin-left:150px;padding-left:12px}blockquote h4:first-letter{margin-left:-12px}
 a, a:hover {
     transition: all .2s;
     text-decoration: none;
@@ -194,10 +199,8 @@ font-size:12px;
 
 .container h3 {background-color: #e3ecbf;}
 .container h4 {background-color: #d7ece7}
-.container h5 {background-color: #e3ecbf;}
-.container h6 {background-color: #e3ecbf;}
 
-.container h2,.container h3,.container h4,.container h5,.container h6 {
+.container h2,.container h3,.container h4 {
     margin: 20px 0;font-size: 16px;
     
     color: #232323;
@@ -215,12 +218,12 @@ font-size:12px;
 }
 
 @media (max-width: 568px) {
-  .container h2,.container h3,.container h4,.container h5,.container h6 { margin-right: -30px; }.rel {
+  .container h2,.container h3{ margin-right: -30px; }.rel {
    width: 100% ;}
 }
 
 @media (min-width: 768px) {
- .container h2,.container h3,.container h4,.container h5,.container h6 { margin-left: -32px; }
+ .container h2,.container h3{ margin-left: -32px; }
 }
 
 .ver {
@@ -229,8 +232,6 @@ font-size:12px;
     right: 15px;
     z-index: 9999;
 }
-
-
 	  </style>
     <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
   <script type="application/ld+json">
@@ -435,10 +436,10 @@ font-size:12px;
     <ol class="list-featured">				
         {% for post in site.posts limit:5 %}                
             <li class="mb-3">
-            <span>
+            <h5>
                 
                     <a href="{{site.baseurl}}{{ post.url }}" class="text-dark">{{ post.title }}</a>
-                
+                </h5>
                 <span class="d-block text-muted">
                     In <span class="catlist">
                     {% for category in post.categories %}
@@ -446,7 +447,7 @@ font-size:12px;
                     {% endfor %}
                     </span>
                 </span>
-            </span>
+            
             </li>                
         {% endfor %}   
     </ol>
@@ -456,10 +457,10 @@ font-size:12px;
     <ol class="list-featured">				
         {% for post in site.categories.berita limit:5%}                
             <li class="mb-3">
-            <span>
+             <h5>
                 
                     <a href="{{site.baseurl}}{{ post.url }}" class="text-dark">{{ post.title }}</a>
-                
+                </h5>
                 <span class="d-block text-muted">
                     In <span class="catlist">
                     {% for category in post.categories %}
@@ -467,7 +468,7 @@ font-size:12px;
                     {% endfor %}
                     </span>
                 </span>
-            </span>
+           
             </li>                
         {% endfor %}   
     </ol>
@@ -478,10 +479,10 @@ font-size:12px;
     <ol class="list-featured">				
         {% for post in site.categories.buku limit:5%}                
             <li class="mb-3">
-            <span>
+            <h5>
                 
                     <a href="{{site.baseurl}}{{ post.url }}" class="text-dark">{{ post.title }}</a>
-                
+                </h5>     
                 <span class="d-block text-muted">
                     In <span class="catlist">
                     {% for category in post.categories %}
@@ -489,7 +490,7 @@ font-size:12px;
                     {% endfor %}
                     </span>
                 </span>
-            </span>
+            
             </li>                
         {% endfor %}   
     </ol>
@@ -500,10 +501,11 @@ font-size:12px;
     <ol class="list-featured">				
  {% assign categories_list = site.categories %} {% if categories_list.first[0] == null %} {% for category in categories_list %}
           <li class="mb-3">
-            <span>
+             <h5>
                 
+                        
 				<a href="{{site.url}}/{{ category | replace: 'administrasi', 'adm' | replace: 'buku', 'bse'}}" title="{{ category }}">{{ category | capitalize }} </a>
-                
+                </h5>
                 <span class="d-block text-muted">
                     <span class="catlist">
                     {{ site.tags[category].size }}  </span> Post
@@ -512,15 +514,15 @@ font-size:12px;
             </li>                
         {% endfor %}   {% else %} {% for category in categories_list %}
 	<li class="mb-3">
-            <span>
+            <h5>
                 
 				<a href="{{site.url}}/{{ category[0]  | replace: 'administrasi', 'adm' | replace: 'buku', 'bse'}}" title="{{ category[0] }}">{{ category[0] | capitalize }}</a>
-                
+               </h5> 
                 <span class="d-block text-muted">
                     <span class="catlist">
                     {{ category[1].size }}  </span> Post
                 </span>
-            </span>
+          
             </li>     
 	
 	 {% endfor %} {% endif %} {% assign categories_list = nil %}
