@@ -232,6 +232,38 @@ font-size:12px;
     right: 15px;
     z-index: 9999;
 }
+h5{
+    margin-bottom: 10px;
+}
+ol.list-featured li {
+    counter-increment: my-awesome-counter;
+    display: flex;
+    font-size: .8rem;
+}
+ol.list-featured {
+    counter-reset: my-awesome-counter;
+    list-style: none;
+    padding-left: 10px;
+}
+ol.list-featured li:before {
+    content: "0" counter(my-awesome-counter);
+    font-weight: 700;
+    font-size: 2rem;
+    margin-right: .5rem;
+    font-family: Arial;
+    line-height: 1;
+    opacity: .1;
+}.d-block {
+    display: block;
+}
+ h5:first-child {
+    margin-top: 0;
+}.small {
+    font-size: 80%;
+}
+.text-muted {
+    color: #777;
+}
 	  </style>
     <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
   <script type="application/ld+json">
