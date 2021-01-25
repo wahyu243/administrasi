@@ -232,9 +232,6 @@ font-size:12px;
     right: 15px;
     z-index: 9999;
 }
-h5{
-    margin-bottom: 10px;
-}
 ol.list-featured li {
     counter-increment: my-awesome-counter;
     display: flex;
@@ -263,6 +260,10 @@ ol.list-featured li:before {
 }
 .text-muted {
     color: #777;
+}
+h5 {
+    margin-top: 10px;margin-bottom: 10px;
+    font-size: 14px;
 }
 	  </style>
     <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
@@ -472,13 +473,7 @@ ol.list-featured li:before {
                 
                     <a href="{{site.baseurl}}{{ post.url }}" class="text-dark">{{ post.title }}</a>
                 </h5>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    {% for category in post.categories %}
-                    <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/{{ category | replace: 'buku', 'bse' | replace: 'administrasi', 'adm'}}">{{ category }}</a><span class="sep">, </span>
-                    {% endfor %}
-                    </span>
-                </span>
+   
             
             </li>                
         {% endfor %}   
@@ -493,13 +488,7 @@ ol.list-featured li:before {
                 
                     <a href="{{site.baseurl}}{{ post.url }}" class="text-dark">{{ post.title }}</a>
                 </h5>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    {% for category in post.categories %}
-                    <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/{{ category }}">{{ category }}</a><span class="sep">, </span>
-                    {% endfor %}
-                    </span>
-                </span>
+  
            
             </li>                
         {% endfor %}   
@@ -515,13 +504,7 @@ ol.list-featured li:before {
                 
                     <a href="{{site.baseurl}}{{ post.url }}" class="text-dark">{{ post.title }}</a>
                 </h5>     
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    {% for category in post.categories %}
-                    <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/{{ category }}">{{ category }}</a><span class="sep">, </span>
-                    {% endfor %}
-                    </span>
-                </span>
+                
             
             </li>                
         {% endfor %}   
@@ -530,7 +513,7 @@ ol.list-featured li:before {
 </div> 
 <div class="entry-content"><div class="container">
     <h4 class="font-weight-bold spanborder mb-3"><span>Kategori</span></h4>  
-    <ol class="list-featured">				
+    <ol>				
  {% assign categories_list = site.categories %} {% if categories_list.first[0] == null %} {% for category in categories_list %}
           <li class="mb-3">
              <h5>
@@ -546,10 +529,9 @@ ol.list-featured li:before {
             </li>                
         {% endfor %}   {% else %} {% for category in categories_list %}
 	<li class="mb-3">
-            <h5>
                 
 				<a href="{{site.url}}/{{ category[0]  | replace: 'administrasi', 'adm' | replace: 'buku', 'bse'}}" title="{{ category[0] }}">{{ category[0] | capitalize }}</a>
-               </h5> 
+              
                 <span class="d-block text-muted">
                     <span class="catlist">
                     {{ category[1].size }}  </span> Post
