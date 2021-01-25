@@ -1383,3 +1383,57 @@ td, th {
 thead {
     background: lightgoldenrodyellow;
 }
+/* Blockquote main style */
+blockquote {
+    max-width: 720px;
+    margin: 10px auto 80px;
+    align-self: center;
+    font-family: 'Abril Fatface', cursive;
+    position: relative; /* for pseudos */
+    font-weight: normal;
+    border: solid 2px  #00b5ad;
+    border-radius:20px;
+    padding: 25px;
+}
+
+/* Blockquote right double quotes */
+blockquote:after {
+    content:"";
+    position: absolute;
+    border: 2px solid #00b5ad;
+    border-radius: 0 50px 0 0;
+    width: 60px;
+    height: 60px;
+    bottom: -60px;
+    left: 50px;
+    border-bottom: none;
+    border-left: none;
+    z-index: 3;
+}
+
+blockquote:before {
+    content:"";
+    position: absolute;
+    width: 80px;
+    border: 6px solid #ffffff;
+    bottom: -3px;
+    left: 50px;
+    z-index: 2;
+}
+
+blockquote h4 {
+    position: relative;
+    font-size: 1.3rem;
+    font-weight: 400;
+    line-height: 1.2;
+    margin: 0;
+    padding-top: 15px;
+    z-index: 1;
+    margin-left:150px;
+    padding-left:12px;
+}
+
+ 
+blockquote h4:first-letter {
+  margin-left:-12px;
+}

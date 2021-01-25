@@ -26,6 +26,7 @@ Buku Tematik Kelas 5 Tema 6 ini membahas materi berjudul Panas dan Perpindahanny
 ### Kunci jawaban halaman 119-120
 
 > Bacalah bacaan berikut ini dengan saksama!
+> 
 > **Perpindahan Kalor Secara Konduksi**
 > 
 > Bagaimana panas matahari dapat sampai ke bumi? Kalor dari panas matahari tidak dapat berpindah secara konduksi, karena udara yang terdapat dalam atmosfer termasuk konduktor yang paling buruk. Kalor dari matahari pun tidak dapat menghantar secara konveksi karena antara matahari dan bumi terdapat ruang hampa yang tidak menghantarkan kalor. Jadi, kalor dari matahari merambat ke bumi tanpa melalui zat perantara.
