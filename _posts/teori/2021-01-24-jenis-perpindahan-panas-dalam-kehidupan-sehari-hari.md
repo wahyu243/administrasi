@@ -2,16 +2,19 @@
 title: 'Jenis-Jenis Perpindahan Panas dan Contohnya dalam Kehidupan Sehari-hari'
 description: >-
   Jenis-Jenis Perpindahan Panas seperti Konduksi, Konveksi dan Radiasi. Contoh-contoh perpindahan panas berdasarkan jenis perpindahan panas dapat dilihat pada artikel ini.
-image: perpindahan-kalor.jpg
+image: perpindahan-kalor.png
 last_modified_date: 2020-12-24T12:06:15.908Z
 tags:
   - referensi
   - teori
   - panas  
+  - materi
 ---
 
 
-[Administrasi.Net](/ "Administrasi.Net") - Apakah teman-teman sudah pernah belajar mengenai energi panas? Panas atau kalor adalah energi yang bisa berpindah dari satu benda ke benda lain karena perbedaan suhu. Energi panas akan berpindah dari suhu tinggi ke suhu yang lebih rendah.
+[Administrasi.Net](/ "Administrasi.Net") - Apakah Ananda semua sehat? Taukah ananda apa itu energi panas? Apabila Ananda belum mengetahuinya pada kali ini akan kita bahas apa itu **Energi Panas**.
+
+Panas atau kalor adalah energi yang bisa berpindah dari satu benda ke benda lain karena perbedaan suhu. Energi panas akan berpindah dari suhu tinggi ke suhu yang lebih rendah.
 
 Panas bisa memengaruhi suhu zat. Jika suatu zat menyerap panas, maka suhunya akan naik. Berlawanan dengan hal itu, kalau suatu zat melepas panas, maka suhunya akan turun. 
 
