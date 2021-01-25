@@ -132,9 +132,12 @@ Pertanyaan :
 
 **Jawaban**
 
-1. Apa yang kamu rasakan ketika kamu mendekatkan tangan ke nyala api pada jarak 2 cm?
-2. Apa yang kamu rasakan ketika kamu mendekatkan tangan ke nyala api 4 cm?
-3. Apa yang kamu rasakan ketika kamu mendekatkan tangan ke nyala api pada jarak 8 cm?
-4. Bagaimana panas dari nyala api bisa kamu rasakan?
-5. Apakah nama perpindahan panas yang terjadi pada percobaan di atas?
-6. Sebutkan 3 contoh perpindahan panas lain secara radiasi yang terjadi di sekitar kita!
+1. 	Tangan terasa sangat panas
+2. 	Tangan terasa hangat
+3. 	Tangan terasa sedikit hangat
+4. 	Membuat kulit terasa sakit apabila terlalu dekat dengan api
+5. 	Perpindahan panas **radiasi**
+6. 	a. 	Panas matahari yang sampai ke bumi walaupun terhalang ruang hampa yang tidak bisa menghantarkan panas.
+	Panas dari api unggun bisa menghangatkan tubuh.
+	b. 	Pakaian kering karena energi panas matahari
+	c. 	Menetaskan telur unggas dengan lampu
