@@ -6,6 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://administrasi.net" # the name of your domain
 logo_url: svg/logo.svg
 image: https://administrasi.net/img/twitter-card.png
+logo: /img/twitter-card.png
 
 # Hero
 hero: 
