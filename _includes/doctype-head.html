@@ -57,7 +57,7 @@
     <meta property="og:title" content="{%if page.title %}{{ page.title }} - {{ site.name }}{% else %}{{ site.name }}{% endif %}">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:site_name" content="{{ site.name }}">
-    {% if page.layout == 'post' or page.layout == 'page' %}
+    {% if page.layout == 'post' or page.layout == 'news_item' or page.layout == 'page' %}
     <meta property="og:description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ page.excerpt }}{% endif %}">
     <meta property="og:type" content="article">
     <meta property="og:image" content="{{site.url}}/img/{{ page.image | replace: '/img/','' }}" >
