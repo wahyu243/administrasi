@@ -50,7 +50,6 @@ Contoh:
 6. Doni daerah asal Sulawesi
 7. dst
 
-
 ### Kunci jawaban Tema 5 Kelas 3 halaman 14
 
 Tulislah percakapan terkait keadaan cuaca yang kamu alami saat ini.
