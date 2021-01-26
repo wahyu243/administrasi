@@ -54,14 +54,14 @@ Contoh:
 ### Kunci jawaban Tema 5 Kelas 3 halaman 14
 
 Tulislah percakapan terkait keadaan cuaca yang kamu alami saat ini.
+
 ![Halaman 14](/img/tema-5-kelas-3-subtema-1-pembelajaran-2-halaman-14.jpg "Halaman 14")
 
 Jawaban:
 
 ![Jawaban halaman 14](/img/jawaban-tema-5-kelas-3-halaman-14.jpg "Jawaban halaman 14")
 
-
-Ayo Bercerita
+**Ayo Bercerita**
 
 Ceritakan hasil percakapanmu di depan kelas.
 
@@ -73,7 +73,8 @@ Perhatikan volume dan intonasi suara.
 
 Pastikan suaramu terdengar ke seluruh kelas
 
-Ayo Berlatih
+
+**Ayo Berlatih**
 
 Cuaca hari ini masih terlihat cerah. Ayo, kita melakukan aktivitas di luar kelas.
 
