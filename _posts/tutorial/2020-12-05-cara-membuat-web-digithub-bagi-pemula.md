@@ -57,9 +57,9 @@ Selain cara di atas anda juga bisa menambahkan custom domain yang anda miliki pa
 Apabila kolom tersebut tidak ada silahkan anda klik pilih tema dan pilih tema apa saja, kemudian kembali ke halaman pengaturan dan isikan custom domain pada kolom tersebut. 
 
 ## Konfigurasi
-Edit konfigurasi pada file `_config.yml` umumnya akan terlihat seperti ini:
+Edit konfigurasi pada file <code>_config.yml</code> umumnya akan terlihat seperti ini:
 
-```yaml
+<code>
 title: Demo # Judul Blog Anda
 author: Username Github Anda
 email: email-anda@domain.com
@@ -78,10 +78,9 @@ social:
     - https://plus.google.com/+administrasi.net
     - https://github.com/administrasi.net
     - https://keybase.io/administrasi.net
-
 disqus:
   shortname: administrasi.net # to enable comments replace with your_disqus_shortname
-```
+</code>
 
 Setelah menyelesaikan langkah-langkah di atas silahkan cek hasilnya.
 
