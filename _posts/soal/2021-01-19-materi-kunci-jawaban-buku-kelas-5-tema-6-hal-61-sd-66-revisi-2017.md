@@ -22,17 +22,17 @@ tags:
 
 Berikut kunci jawaban Tema 6 Kelas 5 SD Halaman 61, 62, 63, 64, 65, dan 66 Buku Tematik Subtema 1 Pembelajaran 6:
 
-**Tanggung Jawab Warga Negara**
+> **Tanggung Jawab Warga Negara**
+> 
+> Tanggung jawab warga negara terhadap bangsa dan negaranya, dilaksanakan dengan cara melakukan hak dan kewajibannya sebagai warga negara. Pelaksanaan hak dan kewajiban warga negara harus sesuai dengan Undang-Undang dasar Negara Repulik Indonesia Tahun 1945. Apa saja tanggung jawab warga negara Indonesia? Warga Negara Indonesia, antara lain mempunyai tanggung jawab untuk memahami dan mengamalkan nilai-nilai dalam sila-sila Pancasila. Warga Negara Indonesia juga bertanggung jawab untuk menjaga persatuan dan kesatuan bangsa agar tidak terpecah belah.
+> 
+> Sebagai seorang siswa, kamu pun memiliki tanggung jawab. Salah satunya adalah dengan menaati peraturan yang telah ditetapkan, baik oleh sekolah maupun oleh Negara sesuai peranmu sebagain seorang siswa. Peraturan sekolah harus sejalan dengan nilai-nilai yang terkandung di dalam sila-sila dalam Pancasila. Peraturan sekolah juga harus sejalan dengan peraturan dan undangundang yang berlaku di Indonesia.
+> 
+> Seorang siswa hendaknya bertanggung jawab untuk mengamalkan nilai-nilai dalam Pancasila. Nilai sila pertama, Ketuhanan yang Maha Esa, dengan menunjukkan rasa hormat kepada teman-teman yang berbeda keyakinan dan dengan menjalankan kegiatan keagamaan sesuai dengan keyakinannya. Nilai sila kedua, Kemanusiaan yang Adil dan Beradab, dengan menjaga persatuan dan kesatuan dengan menghargai perbedaan yang ada di antara teman.
+> 
+> Nilai sila keempat, Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan, dengan menunjukan sikap mau mendengarkan pendapat teman lain dalam kegiatan pembelajaran dan bekerja sama. Nilai sila kelima, Keadilan Sosial bagi Seluruh Rakyat Indonesia, dengan menaati peraturan sekolah yang menjamin rasa keadilan di sekolah.menunjukkan rasa peduli kepada sesama manusia di mana pun berada. Nilai pada sila ketiga, Persatuan Indonesia, dengan
 
-Tanggung jawab warga negara terhadap bangsa dan negaranya, dilaksanakan dengan cara melakukan hak dan kewajibannya sebagai warga negara. Pelaksanaan hak dan kewajiban warga negara harus sesuai dengan Undang-Undang dasar Negara Repulik Indonesia Tahun 1945. Apa saja tanggung jawab warga negara Indonesia? Warga Negara Indonesia, antara lain mempunyai tanggung jawab untuk memahami dan mengamalkan nilai-nilai dalam sila-sila Pancasila. Warga Negara Indonesia juga bertanggung jawab untuk menjaga persatuan dan kesatuan bangsa agar tidak terpecah belah.
-
-Sebagai seorang siswa, kamu pun memiliki tanggung jawab. Salah satunya adalah dengan menaati peraturan yang telah ditetapkan, baik oleh sekolah maupun oleh Negara sesuai peranmu sebagain seorang siswa. Peraturan sekolah harus sejalan dengan nilai-nilai yang terkandung di dalam sila-sila dalam Pancasila. Peraturan sekolah juga harus sejalan dengan peraturan dan undangundang yang berlaku di Indonesia.
-
-Seorang siswa hendaknya bertanggung jawab untuk mengamalkan nilai-nilai dalam Pancasila. Nilai sila pertama, Ketuhanan yang Maha Esa, dengan menunjukkan rasa hormat kepada teman-teman yang berbeda keyakinan dan dengan menjalankan kegiatan keagamaan sesuai dengan keyakinannya. Nilai sila kedua, Kemanusiaan yang Adil dan Beradab, dengan menjaga persatuan dan kesatuan dengan menghargai perbedaan yang ada di antara teman.
-
-Nilai sila keempat, Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan, dengan menunjukan sikap mau mendengarkan pendapat teman lain dalam kegiatan pembelajaran dan bekerja sama. Nilai sila kelima, Keadilan Sosial bagi Seluruh Rakyat Indonesia, dengan menaati peraturan sekolah yang menjamin rasa keadilan di sekolah.menunjukkan rasa peduli kepada sesama manusia di mana pun berada. Nilai pada sila ketiga, Persatuan Indonesia, dengan
-
-## Kunci jawaban halaman 61
+### Kunci jawaban halaman 61
 
 Ayo Menulis
 
@@ -48,13 +48,16 @@ Kata Kunci Paragraf 1
 
 Tanggung Jawab, Hak, Kewajiban, Warga Negara, Masyarakat
 
-Isi Pragraf 1: Tanggung jawab merupakan keadaan untuk menerima akibat dari perbuatan.
+Isi Pragraf 1: 
+Tanggung jawab merupakan keadaan untuk menerima akibat dari perbuatan.
 Tanggung jawab warga negara terhadap bangsa dan negaranya, dilaksanakan dengan cara melakukan hak dan kewajibannya sebagai warga negara sesuai dengan Undang-Undang dasar Negara Repulik Indonesia Tahun 1945.
 
 Kata Kunci Paragraf 2 :
 Tanggung Jawab Warga Negara, Peraturan, Hak dan Kewajiban
 
-Isi Pragraf 2: Tanggung jawab warga negara dilaksanakan dengan cara melakukan hak dan kewajibannya.
+Isi Pragraf 2: 
+
+Tanggung jawab warga negara dilaksanakan dengan cara melakukan hak dan kewajibannya.
 
 Kata Kunci Paragraf 3
 
@@ -141,7 +144,7 @@ Negara menjamin hak-hak warga negaranya.
 
 Tanggung jawab warga negara terhadap bangsa dan negaranya, dilaksanakan dengan cara melakukan hak dan kewajibannya sesuai dengan Undang-Undang dasar Negara Repulik Indonesia Tahun 1945.
 
-Kunci jawaban halaman 64
+### Kunci jawaban halaman 64
 
 Ayo Berdiskusi
 
