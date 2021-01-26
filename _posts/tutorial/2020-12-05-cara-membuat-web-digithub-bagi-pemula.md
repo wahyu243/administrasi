@@ -15,11 +15,8 @@ Saya asumsikan anda sudah memiliki akun Github.
 
 ### Kenapa Memilih Github
 1. Hosting di Github benar-benar gratis, cocok bagi kita yang memiliki budget paspasan hanya bermodalkan domain yang kita miliki. Bila anda tidak memiliki domain, anda masih bisa membuat blog dengan url bawaan dari github pages anda.
-
 2. Blog yang dihosting diGithub Pages sangat cepat jika dibandingkan dengan CMS lainnya. Inilah alasan mengapa saya memindahkan semua blog saya ke Jekyll (platform blogging di Github).
-
 3. Tidak ada database atau eksekusi back-end di halaman Github. Jadi kemungkinan situs web diretas adalah nol.
-
 4. Memiliki sedikit kesabaran untuk memahami cara kerjanya. Banyak sekali (setidaknya dalam kasus saya), pertama kali saya kesulitan dan tutorial-tutorial yang ada semuanya dalam bahasa inggris sehingga menyulitkan bagi orang seperti saya yang bahasa inggrisnya pas-pasan.
 
 ### Langkah Pertama Mencari Theme/Tema Blog Jekyll
@@ -59,28 +56,46 @@ Apabila kolom tersebut tidak ada silahkan anda klik pilih tema dan pilih tema ap
 ## Konfigurasi
 Edit konfigurasi pada file <code>_config.yml</code> umumnya akan terlihat seperti ini:
 
-<code>
+<pre><code>
 title: Demo # Judul Blog Anda
+
 author: Username Github Anda
+
 email: email-anda@domain.com
+
 description: Deskripsi Blog anda.
+
 baseurl: "/blog" # isi sesuaikan dengan kebutuhan anda contohnya /blog
+
 url: "https://theme.administrasi.net" # Url Blog Anda, e.g. http://example.com
+
 twitter_username: administrasi.net # ganti username twitter anda
+
 github_username:  administrasi.net # ganti dengan username github anda
+
 instagram_username: administrasi.net # ganti dengan username instragram
+
 social:
+
   name: Nama Anda
+  
   links:
     - https://twitter.com/administrasi.net
+	
     - https://www.facebook.com/administrasi.net
+	
     - https://www.linkedin.com/in/administrasi.net
-    - https://plus.google.com/+administrasi.net
-    - https://github.com/administrasi.net
-    - https://keybase.io/administrasi.net
+    
+	- https://plus.google.com/+administrasi.net
+    
+	- https://github.com/administrasi.net
+    
+	- https://keybase.io/administrasi.net
+
 disqus:
+
   shortname: administrasi.net # to enable comments replace with your_disqus_shortname
-</code>
+</code></pre>
 
 Setelah menyelesaikan langkah-langkah di atas silahkan cek hasilnya.
 
