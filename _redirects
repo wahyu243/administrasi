@@ -6,7 +6,4 @@ https://master--administrasi.netlify.app/* https://administrasi.net/:splat 301!
 https://administrasi.net/administrasi/* https://administrasi.net/adm/:splat 301!
 https://administrasi.net/buku/* https://administrasi.net/bse/:splat 301!
 https://administrasi.net/bsd/* https://administrasi.net/bse/:splat 301!
-
-https://administrasi.net/amp/teori/materi-kunci-jawaban-buku-kelas-3-tema-5-hal-3-sd-8 https://administrasi.net/amp/soal/materi-kunci-jawaban-buku-kelas-3-tema-5-hal-3-sd-8
-https://administrasi.net/amp/teori/kunci-jawaban-tema-6-kelas-6-halaman-11-sd-19 https://administrasi.net/amp/soal/kunci-jawaban-tema-6-kelas-6-halaman-11-sd-19
-https://administrasi.net/amp/teori/kunci-jawaban-tema-6-kelas-6-halaman-60-sd-63 https://administrasi.net/amp/soal/kunci-jawaban-tema-6-kelas-6-halaman-60-sd-63
+https://administrasi.net/amp/* https://administrasi.net/:splat 301!
