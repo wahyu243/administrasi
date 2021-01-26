@@ -8,9 +8,6 @@
     <meta name="google-site-verification" content="{{ site.google_verification }}">
     <meta name="msvalidate.01" content="{{ site.bing_verification }}" />
     <link rel="canonical" href="{{ page.url | prepend: site.url }}">
-{% if page.path contains '_posts' or page.layout == 'post' or page.layout == 'news_item'%}
-  <link rel="amphtml" href="{{ page.id | prepend: '/amp' | prepend: site.baseurl | prepend: site.url }}">
-{% endif %}
     <title>{%if page.title %}{{ page.title }} - {{ site.name }}{% else %}{{ site.title }} - {{ site.name }}{% endif %}</title>
 	<meta name="title" content="{%if page.title %}{{ page.title }} - {{ site.name }}{% else %}{{ site.title }}{% endif %}">
  {% if page.layout == 'post' or page.layout == 'news_item' or page.layout == 'page' %}<meta name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ page.excerpt }}{% endif %}">
