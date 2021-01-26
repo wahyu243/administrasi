@@ -56,46 +56,28 @@ Apabila kolom tersebut tidak ada silahkan anda klik pilih tema dan pilih tema ap
 ## Konfigurasi
 Edit konfigurasi pada file <code>_config.yml</code> umumnya akan terlihat seperti ini:
 
-<pre><code>
+```
 title: Demo # Judul Blog Anda
-
 author: Username Github Anda
-
 email: email-anda@domain.com
-
 description: Deskripsi Blog anda.
-
 baseurl: "/blog" # isi sesuaikan dengan kebutuhan anda contohnya /blog
-
 url: "https://theme.administrasi.net" # Url Blog Anda, e.g. http://example.com
-
 twitter_username: administrasi.net # ganti username twitter anda
-
 github_username:  administrasi.net # ganti dengan username github anda
-
 instagram_username: administrasi.net # ganti dengan username instragram
-
 social:
-
   name: Nama Anda
-  
   links:
     - https://twitter.com/administrasi.net
-	
     - https://www.facebook.com/administrasi.net
-	
     - https://www.linkedin.com/in/administrasi.net
-    
 	- https://plus.google.com/+administrasi.net
-    
-	- https://github.com/administrasi.net
-    
-	- https://keybase.io/administrasi.net
-
+ 	- https://github.com/administrasi.net
+   	- https://keybase.io/administrasi.net
 disqus:
-
   shortname: administrasi.net # to enable comments replace with your_disqus_shortname
-</code></pre>
+```
 
 Setelah menyelesaikan langkah-langkah di atas silahkan cek hasilnya.
 
