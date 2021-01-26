@@ -61,8 +61,8 @@ title: Demo # Judul Blog Anda
 author: Username Github Anda
 email: email-anda@domain.com
 description: Deskripsi Blog anda.
-baseurl: "/blog" # isi sesuaikan dengan kebutuhan anda contohnya /blog
-url: "https://theme.administrasi.net" # Url Blog Anda, e.g. http://example.com
+baseurl: /blog # isi sesuaikan dengan kebutuhan anda contohnya /blog
+url: https://theme.administrasi.net # Url Blog Anda, e.g. http://example.com
 twitter_username: administrasi.net # ganti username twitter anda
 github_username:  administrasi.net # ganti dengan username github anda
 instagram_username: administrasi.net # ganti dengan username instragram
