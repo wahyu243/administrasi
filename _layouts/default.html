@@ -53,7 +53,7 @@ function shuffle(array) {
 // DOM ready
 $(function () {
     // select elements
-    var items = $('h3');
+    var items = $('.card-body tit h3');
     var random = shuffle(items).slice(0, 1);
     
     random.wrap('{% include tag-p.html %}');
