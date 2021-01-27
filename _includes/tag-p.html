@@ -20,7 +20,7 @@
     {% endfor %}
 
     {% if sameTagCount >= minCommonTags %}
-     <li><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><span>{{ commonTags | replace:"-"," "}}</span></li>
+     <li><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
      
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
       {% if maxRelatedCounter >= maxRelated %}
