@@ -1384,7 +1384,7 @@ thead {
     background: lightgoldenrodyellow;
 }
 /* Blockquote main style */
-blockquote {
+.terkait, blockquote {
     max-width: 720px;
     margin: 10px auto 80px;
     align-self: center;
@@ -1397,7 +1397,7 @@ blockquote {
 }
 
 /* Blockquote right double quotes */
-blockquote:after {
+blockquote:after,.terkait:after {
     content:"";
     position: absolute;
     border: 2px solid #00b5ad;
@@ -1411,7 +1411,7 @@ blockquote:after {
     z-index: 3;
 }
 
-blockquote:before {
+blockquote:before ,.terkait:before{
     content:"";
     position: absolute;
     width: 80px;
@@ -1421,7 +1421,7 @@ blockquote:before {
     z-index: 2;
 }
 
-blockquote h4 {
+blockquote h4,.terkait span {
     position: relative;
     font-size: 1.3rem;
     font-weight: 400;
@@ -1434,31 +1434,6 @@ blockquote h4 {
 }
 
  
-blockquote h4:first-letter {
+blockquote h4:first-letter,.terkait span:first-letter {
   margin-left:-12px;
 }
-.terkait{position:relative;padding:0;margin:15px auto;width:100%;}
-
-.terkait h4{background:#3498db;padding:8px 12px;margin:0;font-size:15px;font-weight:400;color:#fff;border:1px solid #2e88c5}
-
-.terkait ul{margin:0;padding:0}
-
-.terkait ul li{background:#f6f6f6;position:relative;list-style:none;padding:9px;margin:auto;line-height:1.4em;border:1px solid rgba(0,0,0,0.1);border-bottom:0;transition:all .3s}
-
-.terkait ul li:nth-child(odd){background:#fefefe}
-
-.terkait ul li:last-child{border-bottom:1px solid rgba(0,0,0,0.1)}
-
-.terkait ul li:before{content:'\f138';font-family:fontawesome;position:absolute;margin:0 9px 0 4px;color:#2ecc71;overflow:hidden;transition:all .3s}
-
-.terkait ul li:hover:before{content:'\f138';font-family:fontawesome;-webkit-animation:bounceright .3s alternate ease infinite;animation:bounceright .3s alternate ease infinite}
-
-.terkait a{color:#0383d9;font-size:13px;margin:0 0 0 30px;}
-
-.terkait a:hover{color:#0383d9;text-decoration:underline}
-
-.terkait ul li:nth-child(n+4) {display:none;}
-
-@-webkit-keyframes bounceright{from{-webkit-transform:translateX(0)}to{-webkit-transform:translateX(3px)}}
-
-@keyframes bounceright{from{transform:translateX(0)}to{transform:translateX(3px)}}
