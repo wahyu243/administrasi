@@ -48,7 +48,7 @@ function shuffle(array) {
     return array;
 }
 $(function () {
-    var items = $('main h3');
+    var items = $('main p');
     var random = shuffle(items).slice(0, 2);
     random.after('{% include tag-p.html %}');
 });
