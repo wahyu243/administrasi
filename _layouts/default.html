@@ -32,7 +32,8 @@ layout: compress
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/id_ID/sdk.js#xfbml=1&version=v7.0&appId=502591903662193&autoLogAppEvents=1"></script>
     {% endif %}
 	{% if page.layout == 'post' or page.layout == 'news_item'%}
-	<script>$(document).ready(function() {
+	<script>
+$(document).ready(function() {
   function shuffle(array) {
     var counter = array.length, temp, index;
     while (counter--) {
@@ -44,19 +45,19 @@ layout: compress
     return array;
   }
   $(function() {
-    var item1 = $("main p");
+    var item1 = $('main p');
     var random = shuffle(item1).slice(0, 1);
-    random.after("{% include tag-p.html %}");
+    random.after('{% include tag-p.html %}');
   });
   $(function() {
-    var item2 = $("main p");
+    var item2 = $('main p');
     var random = shuffle(item2).slice(0, 1);
-    random.after("{% include tag-p2.html %}");
+    random.after('{% include tag-p2.html %}');
   });
   $(function() {
-    var item3 = $("main h3");
+    var item3 = $('main h3');
     var random = shuffle(item3).slice(0, 1);
-    random.after("{% include tag-ads.html %}");
+    random.after('{% include tag-ads.html %}');
   });
 });</script>
 <script type="text/javascript">
