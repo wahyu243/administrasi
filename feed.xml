@@ -36,7 +36,7 @@ layout: null
 		<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 		<category><![CDATA[{{post.category | capitalize}}]]></category>
 		<guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-		<description><![CDATA[ <img align="left" hspace="8" src="{%if page.image %}{{ site.url }}/img/{{ page.image | replace: '/img/','' }}{% else %}{{ site.url }}{{ site.logo }}{% endif %}"/> ]]> {% if post.description %}{{ post.description}}{% else %}{{ post.excerpt  | strip_html }}{% endif %}</description>
+		<description><![CDATA[ <img align="left" hspace="8" src="{%if post.image %}{{ site.url }}/img/{{ post.image | replace: '/img/','' }}{% else %}{{ site.url }}{{ site.logo }}{% endif %}"/> ]]> {% if post.description %}{{ post.description}}{% else %}{{ post.excerpt  | strip_html }}{% endif %}</description>
 		</item>   {% endfor %}
 	</channel>
 </rss>
