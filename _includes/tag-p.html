@@ -1,5 +1,7 @@
-<div class="terkait">
-<ol>
+<div class="panel panel-info">
+  <div class="panel-heading">Rekomendasi</div>
+  <div class="panel-body">
+<ul class="list-group">
 {% assign maxRelated = 3 %}
 {% assign minCommonTags =  2 %}
 {% assign maxRelatedCounter = 0 %}
@@ -20,7 +22,7 @@
     {% endfor %}
 
     {% if sameTagCount >= minCommonTags %}
-     <li><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+     <li class="list-group-item"><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
      
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
       {% if maxRelatedCounter >= maxRelated %}
@@ -29,6 +31,7 @@
     {% endif %}
 
   {% endfor %}
-  </ol>
-  <span>Rekomendasi Untuk Anda</span>
+  </ul>
+ 
+</div>
 </div>
