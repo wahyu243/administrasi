@@ -50,7 +50,7 @@ function shuffle(array) {
 $(function () {
     var items = $('main h3');
     var random = shuffle(items).slice(0, 1);
-    random.wrap('<div class="wrapper"> {% include tag-p.html %}</div>');
+    random.wrap('{% include tag-p.html %}');
 });
 
 });
