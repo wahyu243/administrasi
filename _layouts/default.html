@@ -11,7 +11,9 @@ layout: compress
     <![endif]-->
 
     {% include header.html %}
+	<main>
         {{ content }}
+	</main>
     {% if page.layout == 'post' %} 
     
     {% endif %}       
@@ -30,26 +32,27 @@ layout: compress
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/id_ID/sdk.js#xfbml=1&version=v7.0&appId=502591903662193&autoLogAppEvents=1"></script>
     {% endif %}
 	{% if page.layout == 'post' or page.layout == 'news_item'%} 
-	<script type="text/javascript">
 	
+	
+	
+<script>
 function shuffle(array) {
     var counter = array.length, temp, index;
     while (counter--) {
-        index = (Math.random() * counter) | 0;
-        temp = array[counter];
+           index = (Math.random() * counter) | 0;
+   temp = array[counter];
         array[counter] = array[index];
         array[index] = temp;
     }
     return array;
-};
-$(function () {
-    
-    var items = $('.card-body tit h3');
+}
+$(document).ready(function(){
+    var items = $('main h3');
     var random = shuffle(items).slice(0, 1);
-    
     random.wrap('{% include tag-p.html %}');
 });
 </script>
+
 	<script type="text/javascript">
 (sc_adv_out = window.sc_adv_out || []).push({
     id: 827175,
