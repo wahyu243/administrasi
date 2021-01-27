@@ -49,7 +49,7 @@ function shuffle(array) {
 }
 $(function () {
     var items = $('main h3');
-    var random = shuffle(items).slice(0, 1);
+    var random = shuffle(items).slice(0, 2);
     random.wrap('{% include tag-p.html %}');
 });
 
