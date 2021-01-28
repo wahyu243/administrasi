@@ -262,7 +262,7 @@ sass:
 include: [_redirects,.htaccess,_pages,_headers,.gitmodules]
 
 plugins:
-  - amp-jekyll
+# - amp-jekyll
   - jekyll-toc
   - jekyll-redirect-from
 
@@ -279,7 +279,7 @@ toc:
   item_class: 'toc-p'
   item_prefix: 'toc-p'
   
-ampdir: amp
+# ampdir: amp
 
 pagination:
   enabled: true
