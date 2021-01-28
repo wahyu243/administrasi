@@ -2,7 +2,7 @@
 title: 'Materi, Soal dan Kunci Jawaban Buku Kelas 5 SD Tema 5 Halaman 13 sd 17'
 description: >-
   Materi, Soal dan Kunci Jawaban Tema 5 Kelas 5 Halaman 13, 14, 15, 16, 17 Buku Tematik Kurikulum 2013 revisi 2017.
-last_modified_date: 2021-01-24T10:06:15.908Z
+last_modified_date: 2021-01-28T10:06:15.908Z
 image: kunci-jawaban-buku-guru-siswa.jpg
 nama_sumber_1: Tribunnews
 link_sumber_1: https://www.tribunnews.com/pendidikan/2021/01/04/kunci-jawaban-tema-5-kelas-5-sd-halaman-13-15-16-17-buku-tematik-subtema-1-komponen-ekosistem?page=all.
@@ -35,7 +35,7 @@ Semoga pembahasan tentang Materi, Soal dan Kunci Jawaban Buku Kelas 5 SD Tema 5 
 > Ekosistem padang rumput memiliki curah hujan yang lebih rendah dibandingkan dengan ekosistem sabana. Tumbuhan khas ekosistem adalah rumput. Hewan yang hidup pada ekosistem ini contohnya bison, singa, anjing liar, serigala, gajah, jerapah, kanguru, dan ular. Gurun merupakan ekosistem yang paling gersang karena curah hujan yang sangat rendah. Tumbuhan jenis kaktus yang memiliki duri untuk mengurangi penguapan banyak tumbuh di sini. Hewan-hewan yang bisa hidup pada ekosistem ini antara lain semut, ular, kadal, kalajengking, dan beberapa hewan malam lainnya.
 > 
 > Suhu pada ekosistem taiga sangat rendah pada musim dingin. Taiga biasanya merupakan hutan yang tersusun atas satu jenis tumbuhan seperti cemara, pinus, dan sejenisnya. Hewan seperti beruang hitam dan ajag, biasanya hidup di ekosistem ini. Tundra merupakan ekosistem yang dingin dan kering. Banyak jenis tumbuhan tidak bisa hidup pada ekosistem ini karena rendahnya suhu lingkungan sepanjang tahun. Akar-akar tanaman tidak dapat tumbuh pada suhu yang dingin. Tumbuhan jenis rumput tertentu saja yang mampu bertahan. Beberapa jenis burung bersarang di ekosistem tundra pada saat musim panas, seperti angsa dan bebek.
-
+>
 > <span>(Sumber bacaan: McGraw-Hill Science. Ecosystems Around the World.)</span>
 
 Berdasarkan bacaan di atas, temukanlah pikiran utama dari setiap paragraf beserta informasi yang kamu anggap penting.
@@ -71,43 +71,43 @@ Jawab:
 
 ### Kunci jawaban halaman 15
 
-Penggolongan Hewan Berdasarkan Jenis Makanannya
-
-Berdasarkan jenis makanannya, hewan dikelompokkan menjadi tiga golongan.
-
-Ketiga golongan itu adalah golongan herbivor, karnivor, dan omnivor.
-
-Kelompok hewan herbivor merupakan hewan yang makanannya berasal dari tumbuhan.
-
-Hewan ini memiliki susunan gigi yang khas.
-
-Gigi hewan ini terdiri atas gigi seri dan gigi geraham, dan tidak memiliki gigi taring.
-
-Gigi seri berada di depan dan tajam.
-
-Gigi ini berguna untuk memotong makanan.
-
-Sementara itu, gigi geraham berfungsi untuk menghaluskan makanan yang telah dipotong oleh gigi seri.
-
-Contoh hewan yang termasuk kelompok ini adalah sapi, kelinci, kerbau, dan rusa.
-
-Kelompok hewan karnivor adalah kelompok hewan yang memakan hewan lain.
-
-Sebagian besar hewan yang termasuk di dalam kelompok ini merupakan hewan buas dan liar.
-
-Hewan ini harus berburu untuk mendapatkan makanan.
-
-Oleh karenanya, hewan ini memiliki gigi taring yang tajam dan kuat.
-
-Gigi taring berguna untuk merobek dan mengoyak mangsa.
-
-Hewan ini juga memiliki gigi seri yang tajam dan kuat meskipun berukuran kecil.
-
-Gigi ini juga berfungsi untuk memotong makanan.
-
-Hewan yang termasuk dalam kelompok ini adalah harimau, singa, anjing, buaya, dan ular.
+> **Penggolongan Hewan Berdasarkan Jenis Makanannya**
+> 
+> Berdasarkan jenis makanannya, hewan dikelompokkan menjadi tiga golongan.
+> 
+> Ketiga golongan itu adalah golongan herbivor, karnivor, dan omnivor.
+> 
+> Kelompok hewan herbivor merupakan hewan yang makanannya berasal dari tumbuhan.
+> 
+> Hewan ini memiliki susunan gigi yang khas.
+> 
+> Gigi hewan ini terdiri atas gigi seri dan gigi geraham, dan tidak memiliki gigi taring.
+> 
+> Gigi seri berada di depan dan tajam.
+> 
+> Gigi ini berguna untuk memotong makanan.
+> 
+> Sementara itu, gigi geraham berfungsi untuk menghaluskan makanan yang telah dipotong oleh gigi seri.
+> 
+> Contoh hewan yang termasuk kelompok ini adalah sapi, kelinci, kerbau, dan rusa.
+> 
+> Kelompok hewan karnivor adalah kelompok hewan yang memakan hewan lain.
+> 
+> Sebagian besar hewan yang termasuk di dalam kelompok ini merupakan hewan buas dan liar.
+> 
+> Hewan ini harus berburu untuk mendapatkan makanan.
+> 
+> Oleh karenanya, hewan ini memiliki gigi taring yang tajam dan kuat.
+> 
+> Gigi taring berguna untuk merobek dan mengoyak mangsa.
+> 
+> Hewan ini juga memiliki gigi seri yang tajam dan kuat meskipun berukuran kecil.
+> 
+> Gigi ini juga berfungsi untuk memotong makanan.
+> 
+> Hewan yang termasuk dalam kelompok ini adalah harimau, singa, anjing, buaya, dan ular.
 Kelompok hewan omnivor merupakan kelompok hewan yang makanannya berasal dari tumbuhan maupun hewan lain. Hewan omnivor memiliki susunan gigi tersendiri. Gigi seri, gigi taring, dan gigi geraham hewan ini berkembang dengan baik untuk menyesuaikan dengan makanannya. Gigi seri dan gigi taring digunakan ketika memakan makanan yang berupa hewan lain. Sementara itu, gigi seri dan gigi geraham digunakan ketika memakan makanan berupa tumbuhan. Orangutan, gorila, dan monyet, merupakan beberapa contoh hewan yang termasuk dalam kelompok ini.
-(Sumber bacaan: BSE IPA Kelas 4 2010)
+> <span>(Sumber bacaan: BSE IPA Kelas 4 2010)</span>
 
 Setelah kamu membaca teks bacaan di atas, catatlah beberapa pertanyaan berdasarkan teks bacaan. Catat juga pertanyaan yang berhubungan dengan teks bacaan. Tuliskan pertanyaanmu di tempat yang tersedia di bawah ini. Ingatlah untuk selalu menggunakan kata tanya yang tepat dan ejaan bahasa Indonesia yang benar.
 
