@@ -107,6 +107,7 @@ Jawab:
 > 
 > Hewan yang termasuk dalam kelompok ini adalah harimau, singa, anjing, buaya, dan ular.
 Kelompok hewan omnivor merupakan kelompok hewan yang makanannya berasal dari tumbuhan maupun hewan lain. Hewan omnivor memiliki susunan gigi tersendiri. Gigi seri, gigi taring, dan gigi geraham hewan ini berkembang dengan baik untuk menyesuaikan dengan makanannya. Gigi seri dan gigi taring digunakan ketika memakan makanan yang berupa hewan lain. Sementara itu, gigi seri dan gigi geraham digunakan ketika memakan makanan berupa tumbuhan. Orangutan, gorila, dan monyet, merupakan beberapa contoh hewan yang termasuk dalam kelompok ini.
+> 
 > <span>(Sumber bacaan: BSE IPA Kelas 4 2010)</span>
 
 Setelah kamu membaca teks bacaan di atas, catatlah beberapa pertanyaan berdasarkan teks bacaan. Catat juga pertanyaan yang berhubungan dengan teks bacaan. Tuliskan pertanyaanmu di tempat yang tersedia di bawah ini. Ingatlah untuk selalu menggunakan kata tanya yang tepat dan ejaan bahasa Indonesia yang benar.
