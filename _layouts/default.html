@@ -52,7 +52,7 @@ $(document).ready(function() {
   $(function() {
     var item3 = $('main h3');
     var random = shuffle(item3).slice(0, 1);
-    random.insertBefore('{% include tag-ads.html %}');
+    random.before('{% include tag-ads.html %}');
   });
 });</script>
 <script type="text/javascript">
