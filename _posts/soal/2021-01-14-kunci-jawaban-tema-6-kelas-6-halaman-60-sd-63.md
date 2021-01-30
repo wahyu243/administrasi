@@ -17,7 +17,9 @@ tags:
 ---
 
 
-[Administrasi.Net](https://administrasi.net "Administrasi.Net") - Pada kesempatan kali ini, membagikan materi dan kunci jawaban dari soal Buku Tematik tema 6 kelas 6 SD halaman 60, 61, 62, dan 63 kurikulum 2013 edisi revisi 2018.
+[Administrasi.Net](https://administrasi.net "Administrasi.Net") - Hai Bunda, pada kesempatan kali ini topik yang dibahas yaitu tentang **materi dan kunci jawaban dari soal Buku Tematik tema 6 kelas 6 SD halaman 60, 61, 62, dan 63** yang dikutip dari Buku Guru dan Siswa serta beberapa sumber lainnya:
+
+Semoga pembahasan tentang **Materi, Soal dan Kunci Jawaban Buku Buku Tematik 6 kelas 6 SD halaman 60, 61, 62, dan 63** ini dapat membantu Bunda dan Ananda dalam merevisi soal yang telah ananda jawab sebelumnya. 
 
 ### Kunci jawaban Tema 6 Kelas 6 halaman 60 dan 61
 

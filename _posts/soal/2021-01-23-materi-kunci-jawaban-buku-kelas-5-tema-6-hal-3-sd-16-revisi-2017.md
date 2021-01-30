@@ -177,7 +177,8 @@ Perhatikan gambar:
 	Energi panas matahari dapat menyebabkan peristiwa perubahan di alam yang mudah kita lihat dan amati.
 
 ### Kunci jawaban halaman 11-12
-	Agar dapat menjawab pertanyaan soal pada halaman 11-12 Ananda sebaiknya membaca teks berikut!
+
+Agar dapat menjawab pertanyaan soal pada halaman 11-12 Ananda sebaiknya membaca teks berikut!
 
 **Perbedaan Suhu dan Panas**
 

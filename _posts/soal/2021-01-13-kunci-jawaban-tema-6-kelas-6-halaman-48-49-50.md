@@ -2,7 +2,7 @@
 title: 'Materi dan Kunci Jawaban Kelas 6 Tema 6 Halaman 47 s/d 51'
 description: >-
   Materi dan Kunci Jawaban Tema 6 Kelas 6 Halaman 47, 48, 49, 50, dan 51 Buku Tematik SD / MI Subtema 1 Pembelajaran 2 Revisi 2018.
-last_modified_date: 2021-01-13T17:06:15.908Z
+last_modified_date: 2021-01-29T20:06:15.908Z
 image: kunci-jawaban-buku-guru-siswa.jpg
 redirect_from: 
 - /teori/kunci-jawaban-tema-6-kelas-6-halaman-48-49-50
@@ -13,38 +13,33 @@ tags:
   - materi
   - kelas-6
   - tema-6
+  - subtema-1
+  -	pembelajaran-2
   - kunci-jawaban-kelas-6
 ---
 
 
-[Administrasi.Net](https://administrasi.net "Administrasi.Net") - Selama masa belajar dari rumah kunci jawaban sebagai panduan dalam alternatif belajar buku tematik siswa.
+[Administrasi.Net](https://administrasi.net "Administrasi.Net") - Hallo Bunda, tetap semangat membimbing anaknya ya!.. 
 
-Berikut kunci jawaban buku tematik yang bisa dijadikan pedoman dalam belajar bagi siswa dan orang tua mengoreksi hasil belajar.
+Pada kesempatan ini **materi, soal, dan kunci jawaban** yang akan dibahas adalah **materi, soal, dan kunci jawaban kelas 6 tema 6** Subtema 2 berjudul Membangun Masyarakat Sejahtera.
 
-Kunci jawaban kali ini membahasan tema 6 kelas 6 SD / MI halaman 47, 48, 49, 50, dan 51 dari buku tematik kurikulum 2013 edisi revisi 2018.
+Melalui postingan ini, diharapkan Bunda atau Ananda dapat terbantu dalam mengoreksi jawaban soal yang sudah ananda kerjakan. 
 
-Diketahui Tema 6 berjudul Menuju Masyarakat Sejahtera pada Subtema 2 berjudul Membangun Masyarakat Sejahtera.
+Berikut kunci jawaban Buku Tematik Tema 6 Kelas 6 pembelajaran 1 Subtema 2 halaman 47, 48, 49, dan 50 yang dikutip dari Buku Guru dan Siswa serta beberapa sumber:
 
-Kunci jawaban ini ditujukan kepada orang tua atau wali sebagai pedoman untuk mengoreksi hasil belajar anak.
-
-Diharapkan sebelum melihat kunci jawaban, siswa harus terlebih dahulu menjawabnya setiap soal sendiri.
-Setelah itu, gunakan artikel ini untuk mengoreksi hasil pekerjaan siswa.
-
-Berikut kunci jawaban Buku Tematik Tema 6 Kelas 6 pembelajaran 1 Subtema 2 halaman 47, 48, 49, dan 50 yang Tribunnews.com kutip dari Buku Guru dan Siswa serta beberapa sumber:
-
-## Kunci Jawaban Halaman 47
-
-### Hak sebagai Warga Negara Indonesia
-
-Hak adalah sesuatu yang mutlak menjadi milik seseorang atau sesuatu yang seharusnya diterima seseorang. Hak warga negara Indonesia ditentukan dalam pasal-pasal Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. Berdasarkan ketentuan dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 hak warga negara Indonesia banyak bentuknya. Berikut beberapa bentuk hak warga negara Indonesia.
-
-Setiap warga negara Indonesia berhak mendapatkan perlindungan hukum. Hak ini dapat diperoleh warga negara Indonesia salah satunya dalam bentuk perlindungan hukum saat menjadi saksi dalam perkara hukum. Perlindungan hukum juga bisa diberikan atas hak kekayaan intelektual seseorang seperti hak cipta. sebagai contoh, hak cipta dalam penerbitan buku. Biasanya yang diberikan hak cipta atas isi buku adalah penulis atau penerbit.
-
-Selain itu, setiap warga negara Indonesia berhak atas pekerjaan dan penghidupan yang layak. Hak ini seperti yang telah diperoleh ibu-ibu PKK di tempat tinggal Siti melalui pelatihan membatik. Melalui pelatihan membatik diharapkan masyarakat khususnya ibu-ibu PKK bisa menciptakan lapangan pekerjaan demi meningkatkan kesejahteraan keluarga dan masyarakat.
-
-Satu lagi hak warga negara yang tidak kalah pentingnya untuk mencapai tujuan nasional Indonesia yaitu hak memperoleh pendidikan dan pengajaran. Pemenuhan hak warga negara Indonesia ini dapat mencerdaskan kehidupan bangsa yang merupakan salah satu tujuan nasional Indonesia.
-
-Masih banyak hak warga negara Indonesia lainnya yang ditetapkan dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. Beberapa di antaranya adalah memiliki kedudukan yang sama di mata hukum dan di dalam pemerintahan, kebebasan memilih dan memeluk serta menjalankan agama dan kepercayaan yang diyakini, mempertahankan wilayah Negara Kesatuan Indonesia dari serangan musuh, serta kebebasan berserikat, berkumpul, dan mengeluarkan pendapat secara lisan dan tulisan sesuai undang-undang yang berlaku. Penuhilah hakmu secara seimbang dengan cara melaksanakan kewajiban sebagai warga negara Indonesia.
+### Kunci Jawaban Halaman 47
+Untuk menjawab soal pada halaman 47 Ananda sebaiknya membaca teks bacaan dibawah ini!
+> Hak sebagai Warga Negara Indonesia
+> 
+> Hak adalah sesuatu yang mutlak menjadi milik seseorang atau sesuatu yang seharusnya diterima seseorang. Hak warga negara Indonesia ditentukan dalam pasal-pasal Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. Berdasarkan ketentuan dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 hak warga negara Indonesia banyak bentuknya. Berikut beberapa bentuk hak warga negara Indonesia.
+> 
+> Setiap warga negara Indonesia berhak mendapatkan perlindungan hukum. Hak ini dapat diperoleh warga negara Indonesia salah satunya dalam bentuk perlindungan hukum saat menjadi saksi dalam perkara hukum. Perlindungan hukum juga bisa diberikan atas hak kekayaan intelektual seseorang seperti hak cipta. sebagai contoh, hak cipta dalam penerbitan buku. Biasanya yang diberikan hak cipta atas isi buku adalah penulis atau penerbit.
+> 
+> Selain itu, setiap warga negara Indonesia berhak atas pekerjaan dan penghidupan yang layak. Hak ini seperti yang telah diperoleh ibu-ibu PKK di tempat tinggal Siti melalui pelatihan membatik. Melalui pelatihan membatik diharapkan masyarakat khususnya ibu-ibu PKK bisa menciptakan lapangan pekerjaan demi meningkatkan kesejahteraan keluarga dan masyarakat.
+> 
+> Satu lagi hak warga negara yang tidak kalah pentingnya untuk mencapai tujuan nasional Indonesia yaitu hak memperoleh pendidikan dan pengajaran. Pemenuhan hak warga negara Indonesia ini dapat mencerdaskan kehidupan bangsa yang merupakan salah satu tujuan nasional Indonesia.
+> 
+> Masih banyak hak warga negara Indonesia lainnya yang ditetapkan dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. Beberapa di antaranya adalah memiliki kedudukan yang sama di mata hukum dan di dalam pemerintahan, kebebasan memilih dan memeluk serta menjalankan agama dan kepercayaan yang diyakini, mempertahankan wilayah Negara Kesatuan Indonesia dari serangan musuh, serta kebebasan berserikat, berkumpul, dan mengeluarkan pendapat secara lisan dan tulisan sesuai undang-undang yang berlaku. Penuhilah hakmu secara seimbang dengan cara melaksanakan kewajiban sebagai warga negara Indonesia.
 
 **Jawaban**
 
@@ -75,7 +70,7 @@ Jawaban:
 
 ![Kunci jawaban halaman 47](/img/kunci-jawaban-tema-6-kelas-6-halaman-47.jpg "Kunci jawaban halaman 50")
 
-Kunci jawaban halaman 48
+### Kunci jawaban halaman 48
 
 Kamu telah mengetahui beberapa hak warga negara Indonesia. Hak-hak warga negara Indonesia tersebut ditetapkan dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
 
@@ -130,19 +125,19 @@ Tuliskan perilaku-perilaku warga negara Indonesia yang mencerminkan sikap cinta 
 
 Jawaban :
 
-Cinta tanah air
+**Cinta tanah air**
 
 1. Melestarikan budaya bangsa
 2. Menjaga kelestarian lingkungan
 3. Rajin belajar
 
-Membina persatuan dan kesatuan
+**Membina persatuan dan kesatuan**
 
 1. Berteman dengan siapa saja
 2. Mau mempelajari kesenian dari daerah lain.
 3. Menolong siapa saja tanpa membedakan suku
 
-Rela Berkorban
+**Rela Berkorban**
 
 1. Bersedia menolong dengan tenaga
 2. Bersedia menolong dengan pikiran
@@ -150,7 +145,7 @@ Rela Berkorban
 
 ### Kunci Jawaban Halaman 51
 
-Perilaku yang Mencerminkan Sikap Mempertahankan Kemerdekaan NKRI.
+**Perilaku yang Mencerminkan Sikap Mempertahankan Kemerdekaan NKRI.**
 
 Jawaban :
 
@@ -159,7 +154,7 @@ Jawaban :
 3.  Mau berteman dengan teman di daerah lain
 4.  Mencegah pencemaran lingkungan
 
-Hak-hak Masyarakat sebagai Warga Negara Indonesia yang Sudah Terpenuhi.
+**Hak-hak Masyarakat sebagai Warga Negara Indonesia yang Sudah Terpenuhi.**
 
 Jawaban :
 

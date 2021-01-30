@@ -2,7 +2,7 @@
 title: 'Materi dan Kunci Jawaban Kelas 6 Tema 6 Subtema 1 Pembelajaran 5'
 description: >-
   Materi dan kunci jawaban soal yang ada dalam pembelajaran 5 halaman 29, 30, 31, 32, 33, 34 dan 35 kurikulum 2013 edisi revisi 2018.
-last_modified_date: 2021-01-13T17:06:15.908Z
+last_modified_date: 2021-01-29T20:06:15.908Z
 image: kunci-jawaban-buku-guru-siswa.jpg
 redirect_from: 
 - /teori/kunci-jawaban-kelas-6-tema-6-subtema-1-pembelajaran-5
@@ -17,11 +17,13 @@ tags:
 ---
 
 
-[Administrasi.Net](https://administrasi.net "Administrasi.Net") - Kali ini akan membagikan unci jawaban soal yang ada dalam pembelajaran 5 halaman 29, 30, 31, 32, 33, 34 dan 35 kurikulum 2013 edisi revisi 2018.
+[Administrasi.Net](https://administrasi.net "Administrasi.Net") - Salam Bunda, Bagaiamana kegiatan belajar Ananda dirumah? semoga Ananda dapat belajar dengan baik tanpa terpengaruh pandemi covid 19 kali ini. 
 
-Kunci jawaban ini ditujukan kepada orang tua atau wali sebagai pedoman untuk mengoreksi hasil belajar anak.
+Pada kali ini akan membagikan kunci jawaban soal yang ada dalam pembelajaran 5 halaman 29, 30, 31, 32, 33, 34 dan 35 kurikulum 2013 edisi revisi 2018.
 
-Berikut ini kunci jawaban Buku Tematik Tema 6 Kelas 6 pembelajaran 5 Subtema 1 halaman 29, 33, dan 34 yang dikutip dari Buku Guru dan Siswa serta beberapa sumber.
+Kunci jawaban ini ditujukan kepada Bunda atau Ananda sebagai pedoman untuk mengoreksi hasil belajar.
+
+Kunci jawaban Buku Tematik **Tema 6 Kelas 6 pembelajaran 5 Subtema 1 halaman 29, 33, dan 34** yang dikutip dari Buku Guru dan Siswa **kelas 6 tema 6** serta beberapa sumber.
 
 ## Kunci jawaban Tema 6 Kelas 6 halaman 29
 
@@ -45,46 +47,47 @@ Poster memiliki ciri-ciri di antaranya:
 
 
 ## Kunci jawaban Tema 6 Kelas 6 halaman 33 dan 34
+Untuk menjawan soal yang pada halaman 33 dan 34, Bunda atau Ananda sebaiknya membaca cerita di bawah ini yang berjudul *Jadi Akitivis Peduli Lingkungan, Bocah ini Kumpulkan 650 Kg Koran Bekas*
 
-Jadi Aktivis Peduli Lingkungan, Bocah Ini Kumpulkan 650 Kg Koran Bekas
-
-Peduli dengan lingkungan bisa dilakukan siapa saja, tidak terkecuali anak-anak. Seperti yang dilakukan Flavian Abe Sam, bocah 11 tahun di Abu Dhabi yang telah mengumpulkan lebih dari 650 kilogram koran bekas dan 60 telepon genggam tak terpakai untuk didaur ulang. "Kita semua harus melakukan apa yang kita bisa untuk menjaga lingkungan. Sebuah perbuatan kecil bisa berdampak besar," ujar bocah yang masih duduk di bangku kelas 6 sekolah dasar itu.
-
-Apa yang dilakukan Sam itu sebagai bagian dari gerakan daur ulang yang diprakarsai Kelompok Lingkungan Emirat (EEG) dalam kampanye ‘Recycle, Reforest, Repeat’. Sam yang tercatat sebagai siswa di Sekolah Dasar Al Wathba di Abu Dhabi, memulai keikutsertaannya dalam gerakan itu dengan menyumbang 450 kg koran bekas. Kemudian kembali lagi dengan 200 kg koran bekas lainnya.
-
-Sam, dikutip dari Gulfnews, mulai tertarik pada gerakan lingkungan di usia enam tahun saat dirinya mengikuti kegiatan serupa di sekolah. Setelahnya, Sam mulai kerap mengikuti kampanye lingkungan seperti mengumpulkan kertas dan kaleng bekas, serta penghijauan. Sam bahkan mendatangi sejumlah toko elektronik untuk mengumpulkan telepon genggam tak terpakai. "Aku pernah membaca tentang telepon genggam bekas yang harus dibuang secara khusus karena mengandung racun," ujarnya.
+> Jadi Aktivis Peduli Lingkungan, Bocah Ini Kumpulkan 650 Kg Koran Bekas
+> 
+> Peduli dengan lingkungan bisa dilakukan siapa saja, tidak terkecuali anak-anak. Seperti yang dilakukan Flavian Abe Sam, bocah 11 tahun di Abu Dhabi yang telah mengumpulkan lebih dari 650 kilogram koran bekas dan 60 telepon genggam tak terpakai untuk didaur ulang. "Kita semua harus melakukan apa yang kita bisa untuk menjaga lingkungan. Sebuah perbuatan kecil bisa berdampak besar," ujar bocah yang masih duduk di bangku kelas 6 sekolah dasar itu.
+> 
+> Apa yang dilakukan Sam itu sebagai bagian dari gerakan daur ulang yang diprakarsai Kelompok Lingkungan Emirat (EEG) dalam kampanye ‘Recycle, Reforest, Repeat’. Sam yang tercatat sebagai siswa di Sekolah Dasar Al Wathba di Abu Dhabi, memulai keikutsertaannya dalam gerakan itu dengan menyumbang 450 kg koran bekas. Kemudian kembali lagi dengan 200 kg koran bekas lainnya.
+> 
+> Sam, dikutip dari Gulfnews, mulai tertarik pada gerakan lingkungan di usia enam tahun saat dirinya mengikuti kegiatan serupa di sekolah. Setelahnya, Sam mulai kerap mengikuti kampanye lingkungan seperti mengumpulkan kertas dan kaleng bekas, serta penghijauan. Sam bahkan mendatangi sejumlah toko elektronik untuk mengumpulkan telepon genggam tak terpakai. "Aku pernah membaca tentang telepon genggam bekas yang harus dibuang secara khusus karena mengandung racun," ujarnya.
 
 ### Ayo Berlatih
 
 Jawablah pertanyaan-pertanyaan berikut. Tuliskan pada kolom yang telah tersedia!
 
-1. Apa judul bacaan di atas?
+1.	Apa judul bacaan di atas?
+	
+	Jawaban:
 
-Jawaban:
+	Jadi Aktivis Peduli Lingkungan, Bocah Ini Kumpulkan 650 Kg Koran Bekas.
 
-Jadi Aktivis Peduli Lingkungan, Bocah Ini Kumpulkan 650 Kg Koran Bekas.
+2. 	Apa kata kunci pada judul bacaan di atas? Sebutkan dua kata kunci pada judul bacaan di atas!
+	
+	Jawaban:
+	
+	- Aktivis lingkungan
 
-2. Apa kata kunci pada judul bacaan di atas? Sebutkan dua kata kunci pada judul bacaan di atas!
+	- Koran bekas
 
-Jawaban:
+3. 	Apa informasi dari bacaan berdasarkan kata kunci?
 
-- Aktivis lingkungan
+	Jawaban:
 
-- Koran bekas
+	Flavian Abe Sam merupakan anak yang peduli terhadap lingkungan. Ia mengumpulkan dan mendaur ulang lebih dari 650 kg koran dan 60 telepon genggam tak terpakai.
 
-3. Apa informasi dari bacaan berdasarkan kata kunci?
+	Sejak usia 6 tahun, ia tertarik pada gerakan lingkungan. Ia kemudian sering mengikuti kampanye lingkungan.
 
-Jawaban:
+4. 	Apakah isi bacaan dalam teks sama dengan isi informasi sesuai kata kunci berdasarkan perkiraanmu?
 
-Flavian Abe Sam merupakan anak yang peduli terhadap lingkungan. Ia mengumpulkan dan mendaur ulang lebih dari 650 kg koran dan 60 telepon genggam tak terpakai.
+	Jawaban:
 
-Sejak usia 6 tahun, ia tertarik pada gerakan lingkungan. Ia kemudian sering mengikuti kampanye lingkungan.
-
-4. Apakah isi bacaan dalam teks sama dengan isi informasi sesuai kata kunci berdasarkan perkiraanmu?
-
-Jawbaan:
-
-Iya sama
+	Iya sama
 
 
 ### Ayo Renungkan
