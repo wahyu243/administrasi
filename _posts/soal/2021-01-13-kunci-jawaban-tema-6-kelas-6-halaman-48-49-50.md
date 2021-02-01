@@ -1,8 +1,7 @@
 ---
 title: 'Materi dan Kunci Jawaban Kelas 6 Tema 6 Halaman 47 s/d 51'
-description: >-
-  Materi dan Kunci Jawaban Tema 6 Kelas 6 Halaman 47, 48, 49, 50, dan 51 Buku Tematik SD / MI Subtema 1 Pembelajaran 2 Revisi 2018.
-last_modified_date: 2021-01-29T20:06:15.908Z
+description: 'Materi dan Kunci Jawaban Tema 6 Kelas 6 Halaman 47, 48, 49, 50, dan 51 Buku Tematik SD / MI Subtema 1 Pembelajaran 2 Revisi 2018.'
+last_modified_date: 2021-01-29 T20:06:15.908Z
 image: kunci-jawaban-buku-guru-siswa.jpg
 redirect_from: 
 - /teori/kunci-jawaban-tema-6-kelas-6-halaman-48-49-50
@@ -28,6 +27,7 @@ Melalui postingan ini, diharapkan Bunda atau Ananda dapat terbantu dalam mengore
 Berikut kunci jawaban Buku Tematik Tema 6 Kelas 6 pembelajaran 1 Subtema 2 halaman 47, 48, 49, dan 50 yang dikutip dari Buku Guru dan Siswa serta beberapa sumber:
 
 ### Kunci Jawaban Halaman 47
+
 Untuk menjawab soal pada halaman 47 Ananda sebaiknya membaca teks bacaan dibawah ini!
 > Hak sebagai Warga Negara Indonesia
 > 
