@@ -12,11 +12,11 @@ tags:
   - materi
   - kelas-4
   - tema-7
-  - kunci-jawaban-kelas-7
+  - kunci-jawaban-kelas-4
   - subtema-1
 ---
 
-[Administrasi.Net](https://administrasi.net "Administrasi.Net") - Hai Bunda, pada kesempatan kali ini topik yang dibahas yaitu tentang Materi dan Kunci jawaban Buku Tematik Tema 7 kelas 5 SD Halaman 2, 3, 4, 5, 6, 7, 8, 10, 11 yang dikutip dari Buku Guru dan Siswa serta beberapa sumber lainnya:
+[Administrasi.Net](https://administrasi.net "Administrasi.Net") - Hai Bunda, pada kesempatan kali ini topik yang dibahas yaitu tentang Materi dan Kunci jawaban Buku Tematik Tema 7 Kelas 4 SD Halaman 2, 3, 4, 5, 6, 7, 8, 10, 11 yang dikutip dari Buku Guru dan Siswa serta beberapa sumber lainnya:
 
 Buku Tematik Kelas 4 Tema 7 ini mempelajari materi berjudul **Indahnya Keragaman di Negeriku** dengan Subtema 1 **Keragaman Suku Bangsa dan Agama di Negeriku**.
 
