@@ -1,6 +1,7 @@
 ---
 title: 'Materi dan Kunci Jawaban Kelas 6 Tema 6 Halaman 47 s/d 51'
-description: 'Materi dan Kunci Jawaban Tema 6 Kelas 6 Halaman 47, 48, 49, 50, dan 51 Buku Tematik SD / MI Subtema 1 Pembelajaran 2 Revisi 2018.'
+description: >-
+  Materi dan Kunci Jawaban Tema 6 Kelas 6 Halaman 47, 48, 49, 50, dan 51 Buku Tematik SD / MI Subtema 1 Pembelajaran 2 Revisi 2018.'
 last_modified_date: 2021-01-29 T20:06:15.908Z
 image: kunci-jawaban-buku-guru-siswa.jpg
 redirect_from: 
