@@ -1,12 +1,12 @@
 ---
-title: 'Materi dan Kunci Jawaban Kelas 6 Tema 6 Halaman 47 s/d 51'
-description: >-
-  Materi dan Kunci Jawaban Tema 6 Kelas 6 Halaman 47, 48, 49, 50, dan 51 Buku Tematik SD / MI Subtema 1 Pembelajaran 2 Revisi 2018.'
-last_modified_date: 2021-01-29 T20:06:15.908Z
+title: Materi dan Kunci Jawaban Kelas 6 Tema 6 Halaman 47 s/d 51
+description: Materi dan Kunci Jawaban Tema 6 Kelas 6 Halaman 47, 48, 49, 50, dan
+  51 Buku Tematik SD / MI Subtema 1 Pembelajaran 2 Revisi 2018.'
 image: kunci-jawaban-buku-guru-siswa.jpg
-redirect_from: 
-- /teori/kunci-jawaban-tema-6-kelas-6-halaman-48-49-50
-- /amp/teori/kunci-jawaban-tema-6-kelas-6-halaman-48-49-50
+last_modified_date: 2021-02-01T13:43:18.370Z
+redirect_from:
+  - /teori/kunci-jawaban-tema-6-kelas-6-halaman-48-49-50
+  - /amp/teori/kunci-jawaban-tema-6-kelas-6-halaman-48-49-50
 tags:
   - referensi
   - kunci-jawaban
@@ -14,7 +14,7 @@ tags:
   - kelas-6
   - tema-6
   - subtema-1
-  -	pembelajaran-2
+  - pembelajaran-2
   - kunci-jawaban-kelas-6
 ---
 
@@ -150,7 +150,7 @@ Jawaban :
 
 Jawaban :
 
-1. 	Ikut serta menjaga keamanan desa
+1.  Ikut serta menjaga keamanan desa
 2.  Ikut serta saat kerja bakti
 3.  Mau berteman dengan teman di daerah lain
 4.  Mencegah pencemaran lingkungan
@@ -159,7 +159,7 @@ Jawaban :
 
 Jawaban :
 
-1. 	Mendapatkan pendidikan
-2. 	Memperoleh pelayanan masyarakat
+1.  Mendapatkan pendidikan
+2.  Memperoleh pelayanan masyarakat
 3.  Mendapatkan perlindungan dari gangguan keamanan
 4.  Memilih dan dipilih menjadi aparat desa
