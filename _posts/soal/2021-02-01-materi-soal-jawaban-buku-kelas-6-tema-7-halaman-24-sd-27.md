@@ -1,5 +1,5 @@
 ---
-title: 'Materi, Soal dan Kunci Jawaban Buku Kelas 6 SD Tema 7 Halaman 13 sd 17'
+title: 'Materi, Soal dan Kunci Jawaban Buku Kelas 6 SD Tema 7 Halaman 24 sd 29'
 description: >-
   Materi, Soal dan Kunci Jawaban Tema 7 Kelas 6 Halaman 24, 25, 26, 27, 28, 29 Buku Tematik Kurikulum 2013 Subtema 1 Pembelajaran 1.
 last_modified_date: 2021-02-01T10:06:15.908Z
