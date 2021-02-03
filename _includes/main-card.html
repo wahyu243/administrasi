@@ -1,7 +1,7 @@
 <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="{{site.baseurl}}{{post.url}}" title="{{ post.title }}">{{ post.title }}</a>
+	<a class="text-dark" href="{{site.url}}{{post.url}}" title="{{ post.title }}">{{ post.title }}</a>
 	</h2>
 	<p class="excerpt">
 	   {% if post.description %}<p>{{ post.description }}</p>{% else %} {{ post.excerpt  | strip_html | strip_newlines | truncate: 186}} {% endif %}
