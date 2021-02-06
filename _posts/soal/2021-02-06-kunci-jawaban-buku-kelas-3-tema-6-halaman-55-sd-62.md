@@ -134,21 +134,25 @@ Kebetulan ada pekerjaan rumah yang harus dikerjakan. Lani mengerjakan PR dengan 
 
 Jawablah pertanyaan-pertanyaan berikut sesuai cerita di atas!
 
-1. Pukul berapa Lani selesai latihan menari di rumahnya? Tunjukkan dengan jarum jam!
+1. 	Pukul berapa Lani selesai latihan menari di rumahnya? Tunjukkan dengan jarum jam!
 
-![Gambar Jam](/img/gambar-jam.jpg "Gambar Jam") 
+	![Gambar Jam](/img/gambar-jam.jpg "Gambar Jam") 
 
-Jawaban:
+	Jawaban:
 
-![Jawaban Gambar Jam](/img/jawaban-gambar-jam.jpg "Jawaban Gambar Jam") 
+	![Jawaban Gambar Jam](/img/jawaban-gambar-jam.jpg "Jawaban Gambar Jam") 
+	
+	Lani selesai latihan menari di rumahnya pukul 14.00.
 
-Lani selesai latihan menari di rumahnya pukul 14.00.
+2. 	Berapa lama Lani tidur siang?
 
-2. Berapa lama Lani tidur siang?
+	Jawaban: 
+	
+	Lani tidur siang selama dua jam.
 
-Jawaban: Lani tidur siang selama dua jam.
+3. 	Berapa lama Lani mengerjakan pekerjaan rumah?
 
-3. Berapa lama Lani mengerjakan pekerjaan rumah?
-
-Jawaban: Lani mengerjakan pekerjaan rumah selama 1 jam 30 menit.
+	Jawaban: 
+	
+	Lani mengerjakan pekerjaan rumah selama 1 jam 30 menit.
  
