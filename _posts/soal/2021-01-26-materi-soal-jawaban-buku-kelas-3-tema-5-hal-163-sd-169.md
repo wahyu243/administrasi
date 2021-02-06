@@ -17,7 +17,7 @@ tags:
   - pembelajaran-6
 ---
 
-[Administrasi.Net](https://administrasi.net "Administrasi.Net") - Hai Bunda, pada kesempatan kali ini topik yang dibahas yaitu tentang Materi dan Kunci jawaban Buku Tematik Tema 5 kelas 5 SD Halaman 163, 164, 165, 166, 167, 168, 169, dan 170 yang dikutip dari Buku Guru dan Siswa serta beberapa sumber lainnya:
+[Administrasi.Net](https://administrasi.net "Administrasi.Net") - Hai Bunda, pada kesempatan kali ini topik yang dibahas yaitu tentang **Materi dan Kunci jawaban Buku Tematik Tema 5 kelas 3 SD Halaman 163, 164, 165, 166, 167, 168, 169, dan 170** yang dikutip dari Buku Guru dan Siswa serta beberapa sumber lainnya:
 
 Semoga Materi, Soal dan Kunci Jawaban Buku Kelas 3 SD Tema 5 Subtema 3 Pembelajaran Halaman 163 s/d 169 dapat membantu Bunda atau Ananda dalam belajar dirumah. 
 
