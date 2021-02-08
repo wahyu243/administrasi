@@ -13,6 +13,7 @@ tags:
   - buku-siswa
   - tematik
   - revisi-2017
+  - buku-siswa-kelas-2
   - download
 ---
 

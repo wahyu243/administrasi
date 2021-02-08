@@ -17,7 +17,7 @@ tags:
   - tunagrahita
   - tematik
   - downloa
-  - buku-siswa-sdlb-kelas-1
+  - buku-siswa-kelas-1-sdlb
 ---
 * TOC
 {:toc}

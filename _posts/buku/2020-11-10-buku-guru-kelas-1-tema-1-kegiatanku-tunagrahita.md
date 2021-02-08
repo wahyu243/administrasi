@@ -17,7 +17,7 @@ tags:
   - tunagrahita
   - tematik
   - download
-  - buku-guru-sdlb-kelas-1
+  - buku-guru-kelas-1-sdlb
 ---
 
 **Buku guru Kelas 1 <abbr title="Sekolah Dasar Luar Biasa">SDLB</abbr> Tema 3 Kegiatanku** ini diperuntukkan bagi guru sebagai penunjang pembelajaran.

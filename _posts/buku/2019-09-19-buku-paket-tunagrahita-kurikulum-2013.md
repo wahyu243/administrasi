@@ -20,6 +20,7 @@ tags:
   - tematik
   - download
   - tunagrahita
+  - buku-paket-tunagrahita
 ---
 
 [Administrasi.Net](/ "Administrasi.Net") - Buku yang dibagikan kali ini adalah **Buku Tematik Terpadu Pendidikan Khusus Kurikulum 2013** mulai buku guru sampai buku siswa yang dapat dijadikan sebagai penunjang pembelajaran di kelas.

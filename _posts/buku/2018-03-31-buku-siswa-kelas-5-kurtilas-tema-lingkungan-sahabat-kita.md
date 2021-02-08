@@ -6,6 +6,8 @@ last_modified_date: 2020-05-15T09:51:17.380Z
 tags:
   - buku
   - pendidikan
+  - buku-siswa-kelas-5
+  - buku-siswa-kelas-5-tema-8
   - kelas-5
   - tematik
   - revisi-2017

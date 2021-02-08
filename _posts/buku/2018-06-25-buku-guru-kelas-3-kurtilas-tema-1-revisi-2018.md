@@ -2,7 +2,7 @@
 title: "Buku Guru Kelas 3 Tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup Revisi 2018"
 date: "2018-06-25 11:48:09"
 description: Download Buku Guru kelas 3 tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup Revisi 2018 Kurikulum 2013 merupakan buku paket pelajaran dengan model tematik kurikulum 2013 revisi 2018.
-tags: [buku,pendidikan,sd,guru,buku-guru,kelas-3,revisi-2018,tematik, download]
+tags: [buku,pendidikan,sd,guru,buku-guru,kelas-3,revisi-2018,tematik, download,buku-guru-kelas-3]
 published: true
 ---
 

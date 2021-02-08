@@ -16,7 +16,7 @@ tags:
   - tematik
   - download
   - autis
-  - buku-siswa-sdlb-kelas-2
+  - buku-siswa-kelas-2-sdlb
 ---
 
 **Buku siswa Kelas 2 <abbr title="Sekolah Dasar Luar Biasa">SDLB</abbr> Tema 1** ini diperuntukkan bagi siswa autis sebagai penunjang pembelajaran.

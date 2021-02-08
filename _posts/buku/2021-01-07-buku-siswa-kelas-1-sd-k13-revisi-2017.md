@@ -3,7 +3,7 @@ title: "Buku Siswa Kelas 1 SD Kurikulum 2013 Revisi 2017"
 date: "2021-01-07 03:48:09"
 description: Download Buku Siswa Kelas 1 SD Kurikulum 2013 Revisi 2017 sebagai panduan penggunaan buku siswa, penunjang bagi Siswa dalam melaksanakan pembelajaran dikelas.
 image: download-buku-sekolah-elektronik.jpg
-tags: [buku-siswa-sd-kelas-1,pendidikan,sd,siswa,buku-siswa,kelas-1,tematik,revisi-2017,download]
+tags: [buku-siswa-sd-kelas-1,pendidikan,sd,siswa,buku-siswa,kelas-1,tematik,revisi-2017,download,buku-siswa-kelas-1]
 published: true
 ---
 

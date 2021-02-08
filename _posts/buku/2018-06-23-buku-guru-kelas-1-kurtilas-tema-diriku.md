@@ -2,7 +2,7 @@
 title: "Buku Guru Kelas 1 Tema Diriku Kurikulum 2013"
 date: "2019-09-29 03:48:09"
 description: Download Buku guru kelas 1 tema 1 Diriku merupakan buku paket kurikulum 2013 revisi 2017 sebagai panduan penggunaan buku siswa, penunjang bagi guru dalam melaksanakan pembelajaran dikelas.
-tags: [buku,pendidikan,sd,guru,buku-guru,kelas-1,tematik,revisi-2017,download]
+tags: [buku,pendidikan,sd,guru,buku-guru,kelas-1,tematik,revisi-2017,download,buku-guru-kelas-1]
 published: true
 ---
 

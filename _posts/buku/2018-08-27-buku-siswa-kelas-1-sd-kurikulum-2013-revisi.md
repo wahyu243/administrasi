@@ -16,6 +16,7 @@ tags:
   - kelas-1
   - tematik
   - download
+  - buku-siswa-kelas-1
 ---
 
 ## Pendahuluan

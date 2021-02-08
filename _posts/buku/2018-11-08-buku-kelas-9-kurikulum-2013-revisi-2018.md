@@ -10,6 +10,8 @@ tags:
   - kurikulum-2013
   - revisi-2018
   - download
+  - buku-siswa-kelas-9
+  - buku-guru-kelas-9
 ---
 
 [Administrasi.Net](/ "Administrasi.Net") - Pada kesempatan ini kami akan berbagi buku teks pelajaran K13 untuk **kelas 9 SMP/MTs** yang terdiri dari **buku pegangan guru** dan **buku siswa**. 

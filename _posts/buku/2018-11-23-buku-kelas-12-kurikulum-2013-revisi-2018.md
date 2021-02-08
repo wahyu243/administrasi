@@ -14,6 +14,8 @@ tags:
   - revisi-2018
   - kelas-12
   - download
+  - buku-siswa-kelas-12
+  - buku-guru-kelas-12
 ---
 * TOC
 {:toc}

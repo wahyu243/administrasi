@@ -16,7 +16,7 @@ tags:
   - kelas-3
   - tematik
   - download
-  - buku-siswa-sdlb-kelas-3
+  - buku-siswa-kelas-3-sdlb
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Buku Siswa Kelas 3 Tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup Revisi 2018"
 date: '2018-06-25 03:48:09'
 description: Download Buku siswa kelas 3 tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup Revisi 2018 merupakan buku paket tematik kurikulum 2013 revisi 2018.
-tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-3,revisi-2018,tematik,download]
+tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-3,revisi-2018,tematik,download,buku-siswa-kelas-3]
 published: true
 ---
 

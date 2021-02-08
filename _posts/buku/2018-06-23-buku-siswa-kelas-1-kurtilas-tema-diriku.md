@@ -2,7 +2,7 @@
 title: "Buku Siswa Kelas 1 Tema Diriku Kurikulum 2013"
 date: "2018-06-24 03:48:09"
 description: Download Buku siswa kelas 1 tema 1 Diriku, buku paket tematik kurikulum 2013 revisi 2017 penunjang dalam melaksanakan aktivitas pembelajaran dikelas.
-tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-1,tematik,revisi-2017,download]
+tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-1,tematik,revisi-2017,download,buku-siswa-kelas-1]
 published: true
 ---
 

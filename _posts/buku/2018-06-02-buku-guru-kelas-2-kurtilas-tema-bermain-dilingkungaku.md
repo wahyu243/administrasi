@@ -9,6 +9,8 @@ tags:
   - guru
   - buku-guru
   - kelas-2
+  - buku-guru-kelas-2
+  - buku-guru-kelas-2-tema-2
   - tematik
   - revisi-2017
   - download
