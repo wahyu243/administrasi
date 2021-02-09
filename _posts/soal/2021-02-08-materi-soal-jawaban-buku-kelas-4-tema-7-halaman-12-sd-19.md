@@ -1,11 +1,11 @@
 ---
-title: 'Materi, Soal dan Kunci Jawaban Buku Kelas 4 SD Tema 7 Halaman 13 sd 17'
+title: 'Soal dan Kunci Jawaban Buku Kelas 4 SD Tema 7 Halaman 12 sd 19'
 description: >-
-  Materi, Soal dan Kunci Jawaban Tema 7 Kelas 4 Halaman 2, 3, 4, 5, 6, 7, 8, 10, 11 Buku Tematik Kurikulum 2013 Subtema 1 Pembelajaran 1.
-last_modified_date: 2021-02-01T10:06:15.908Z
+  Materi, Soal dan Kunci Jawaban Tema 7 Kelas 4 Halaman 12, 1, 14, 15, 16, 17, 18, 19 Buku Tematik Kurikulum 2013.
+last_modified_date: 2021-02-08T10:06:15.908Z
 image: kunci-jawaban-buku-guru-siswa.jpg
 nama_sumber_1: Tribunnews
-link_sumber_1: https://www.tribunnews.com/pendidikan/2021/02/01/kunci-jawaban-tema-7-kelas-4-sd-halaman-2-3-4-5-6-7-8-10-11-buku-tematik-subtema-1?page=all
+link_sumber_1: https://www.tribunnews.com/pendidikan/2021/02/09/kunci-jawaban-tema-7-kelas-4-halaman-12-13-14-15-16-17-18-19-buku-tematik-subtema-1-pembelajaran-2?page=all.
 tags:
   - referensi
   - kunci-jawaban
@@ -16,164 +16,172 @@ tags:
   - subtema-1
 ---
 
-[Administrasi.Net](https://administrasi.net "Administrasi.Net") - Hai Bunda, pada kesempatan kali ini topik yang dibahas yaitu tentang Materi dan Kunci jawaban Buku Tematik Tema 7 Kelas 4 SD Halaman 2, 3, 4, 5, 6, 7, 8, 10, 11 yang dikutip dari Buku Guru dan Siswa serta beberapa sumber lainnya:
+[Administrasi.Net](https://administrasi.net "Administrasi.Net") - Hai Bunda, pada kesempatan kali ini topik yang dibahas yaitu tentang Materi dan Kunci jawaban Buku Tematik Tema 7 Kelas 4 SD Halaman 12, 1, 14, 15, 16, 17, 18, 19 yang dikutip dari Buku Guru dan Siswa serta beberapa sumber lainnya:
 
 Buku Tematik Kelas 4 Tema 7 ini mempelajari materi berjudul **Indahnya Keragaman di Negeriku** dengan Subtema 1 **Keragaman Suku Bangsa dan Agama di Negeriku**.
 
-Semoga pembahasan tentang Materi, Soal dan Kunci Jawaban Buku Kelas 4 SD Tema 7 Halaman 13 sd 17 ini dapat membantu Bunda dan Ananda dalam merevisi soal yang telah ananda jawab sebelumnya. 
+Semoga pembahasan tentang Materi, Soal dan Kunci Jawaban Buku Kelas 4 SD Tema 7 Halaman 12, 1, 14, 15, 16, 17, 18, 19 ini dapat membantu Bunda dan Ananda dalam merevisi soal yang telah ananda jawab sebelumnya. 
 
-Inilah kunci jawaban Buku Tematik halaman 2, 3, 4, 5, 6, 7, 8, 10, dan 11 Kelas 4 SD Tema 7 Subtema 1 Pembelajaran 1.
+Inilah kunci jawaban Tema 7 untuk kelas 4 SD/MI subtema 1 pembelajaran 2 halaman 12, 13, 14, 15, 16, 17, 18, dan 19.
 
-> Suku Bangsa di Indonesia
-> 
-> Sejak dahulu kala bangsa Indonesia hidup dalam keragaman. Kalimat Bhinneka Tunggal Ika pada lambang negara Garuda Pancasila bukan cuma slogan.
-> 
-> Penduduk Indonesia terdiri atas beragam suku bangsa, agama, bahasa, adat, dan budaya tetapi semua dapat hidup rukun berdampingan.
-> 
-> Berdasarkan hasil sensus Badan Pusat Statistik (BPS) tahun 2010, bangsa Indonesia terdiri atas 1.331 suku. Berdasarkan sensus itu pula, suku bangsa terbesar adalah Suku Jawa yang meliputi 40,2 persen dari penduduk Indonesia.
-> 
-> Suku Jawa ini merupakan gabungan dari suku-suku bangsa di Pulau Jawa, yaitu: Jawa, Osing, Tengger, Samin, Bawean, Naga, dan suku-suku lainnya. Suku yang paling sedikit jumlahnya adalah Suku Nias dengan jumlah 1.041.925 jiwa atau hanya 0,44 persen dari jumlah penduduk Indonesia.
-> 
-> Namun, suku-suku Papua yang terdiri atas 466 suku, jumlahnya hanya 2.693.630 jiwa atau 1,14 persen
-dari jumlah penduduk Indonesia. Sedangkan etnis Tionghoa jumlahnya 2.832.510 jiwa atau 1,2 persen penduduk Indonesia.
+### Ayo Mengamati (Halaman 12)
 
-### Kunci Jawaban Halaman 2 - 3
+Salah satu lagu terkenal dari Papua adalah "Apuse." Lirik lagu "Apuse" menceritakan kisah perpisahan seseorang dengan kakek dan neneknya. Si cucu ini akan merantau ke negeri seberang. Perhatikan notasi lagu "Apuse" berikut. Dengarkan gurumu menyanyikan lagu ini.
 
-Bentuklah kelompok bersama 4-5 temanmu. Bacalah dalam hati teks ”Suku Bangsa di Indonesia”.
+![Lagu Apuse](img/lagu-apuse.jpg "Lagu Apuse") 
+ 
+### Ayo Bernyanyi (Halaman 13)
 
-1. 	Adakah kata sulit yang kalian temukan pada bacaan tersebut?
-	
-	Jika ada, tuliskan lalu carilah artinya. Tuliskan dalam bentuk tabel seperti berikut.
-	
-	![Gambar di Halaman 2 Buku Tematik Tema 7 Kelas 4 SD](/img/tabel-di-halaman-2-buku-tematik-kelas-4-sd-tema-7.jpg "Gambar di Halaman 2 Buku Tematik Tema 7 Kelas 4 SD")
+Bapak/Ibu gurumu telah memberi contoh menyanyikan lagu "Apuse." Cobalah menyanyikan bersama teman-temanmu, lalu nyanyikan sendiri secara bergantian.
 
+### Ayo Berdiskusi (Halaman 13-14)
+
+Kamu telah menyanyikan lagu "Apuse." Diskusikan jawaban pertanyaanpertanyaan berikut bersama teman sebangkumu.
+
+1. 	Dapatkah kamu rasakan naik turunnya nada pada lagu "Apuse?"
 	
 	Jawaban:
+	
+	Kita dapat merasakan naik turunnya nada pada lagu Apuse dengan mengacu pada perbedaan posisi not balok pada paranada atau perbedaan angka yang digunakan pada notasi angka.
 
-	Kata Sulit: Slogan
+2. 	Pada bagian mana lagu dinyanyikan dengan nada tinggi?
+	
+	Jawaban: Bagian lagu dinyanyikan dengan nada tinggi (ditandai dengan huruf miring/italic)
+	
+	Apuse kokon dao
+	
+	Yarabe soren doreri
+	
+	Wuf lenso bani nema baki pase
 
-	Artinya: Kalimat pendek yang menarik dan mudah diingat.
+	Apuse kokon dao
 
-	Kata Sulit: Sensus
+	Yarabe soren doreri
 
-	Artinya: Penghitungan jumlah penduduk, ekonomi, dan sebagainya yang dilakukan oleh pemerintah dalam jangka waktu tertentu.
+	Wuf lenso bani nema baki pase
+	
+	Arafabye aswarakwar
 
-	Kata Sulit: Etnis
+	Arafabye aswarakwar
+	
+3. 	Pada bagian mana lagu dinyanyikan dengan nada rendah?
+	
+	Jawaban: Bagian lagu dinyanyikan dengan nada rendah (ditandai dengan huruf miring/italic)
+	
+	Apuse kokon dao
 
-	Artinya: Etnis adalah penggolongan manusia berdasarkan kepercayaan, nilai, kebiasaan, adat istiadat, norma bahasa, sejarah, geografis, dan hubungan kekerabatan.
+	Yarabe soren doreri
 
-2. 	Ada berapa paragraf pada teks “Suku Bangsa di Indonesia”? Tuliskan pokok pikiran dari setiap paragraf.
+	Wuf lenso bani nema baki pase
+
+	Apuse kokon dao
+
+	Yarabe soren doreri
+	
+	Wuf lenso bani nema baki pase
+	
+	Arafabye aswarakwar
+	
+	Arafabye aswarakwar
+
+4. 	Tuliskan syair lagu "Apuse", lalu berikan tanda sesuai naik turunnya nada pada setiap suku kata lagu tersebut. Berikan tanda dengan menarik garis naik, rata, atau turun.
+
+	Contoh:
+
+	![Soal Tangga Nada](img/soal-tangga-nada.jpg "Soal Tangga Nada")
+	
+	Jawaban:
+
+	![Soal Tangga Nada](img/soal-tangga-nada-jawaban.jpg "Soal Tangga Nada")
+	
+### Ayo Bercerita (Halaman 14)
+
+	Ceritakan hasil diskusimu kepada teman-teman sekelasmu. Lakukan bergantian dengan kelompok lain.
 
 	Jawaban:
 
-	Pokok pikiran paragraf 1:
+	Lagu Apuse merupakan lagu daerah yang berasal dari Papua. Lagu ini menceritakan tentang perpisahan cucu dengan kakek-neneknya. Si cucu ingin merantau ke luar daerah.
 
-	Penduduk Indonesia terdiri atas beragam suku bangsa, agama, bahasa, adat, dan budaya.
+	Saat menyanyikan lagu Apuse, kita dapat merasakan naik turunnya nada dengan mengacu pada perbedaan posisi not balok pada paranada atau perbedaan angka yang digunakan pada notasi angka.
 
-	Pokok pikiran paragraf 2:
+	Siti, Edo, Dayu, dan teman-teman menyanyikan lagu "Apuse" sambil menggerakkan kaki dan tangan. Mereka melangkah ke kanan, ke kiri, ke depan, lalu ke belakang sambil menggerakkan tangan. Gerakan mereka melibatkan otot kaki dan tangan.
+	
+	![Menari](img/gerakan-menari.jpg "Menari")
 
-	Berdasarkan hasil sensus tahun 2010 bangsa Indonesia terdiri atas 1.331 suku.
+	Gerakan melangkahkan kaki juga termasuk gaya otot. Melangkahkan kaki menyebabkan tubuh berpindah tempat.
 
-### Kunci Jawaban Halaman 4
+### Ayo Mencoba (Halaman 15-16)
 
-	Apakah di daerahmu masih dijumpai alat transportasi seperti pada gambar di atas?
+	Lakukan kegiatan ini dengan teman sebangkumu.
 
-	Coba, ceritakan kepada teman-temanmu. Apakah teman-temanmu juga menjumpai jenis alat transportasi seperti yang kamu sebutkan?
+1. Siapkan beberapa buah buku, lalu ajaklah teman sebangkumu untuk bertukar buku.
+2. Catatlah kegiatan-kegiatan yang kamu lakukan ketika melakukan proses penukaran buku.
+3. Tuliskan hasil kegiatan yang kamu lakukan.
+4. Gaya apa yang digunakan dalam kegiatan penukaran buku ini?
 
-	Perhatikan lagi gambar bendi, pedati sapi, dan pedati kerbau. Dapatkah kamu melihat persamaan dari ketiga alat transportasi tradisional tersebut?
+	![Menukar Buku](img/menukar-buku.jpg "Menukur Buku")
+ 
+	Aktivitas bertukar buku merupakan salah satu contoh pemanfaatan gaya otot. Dengan memanfaatkan gaya otot, kita dapat memindahkan benda-benda ringan dengan mudah. Gaya otot sangat bermanfaat dalam kehidupan sehari-hari.
 
-	Ada banyak persamaan, salah satunya adalah ketiga alat transportasi tersebut menggunakan binatang yang sama-sama menarik beban berupa bendi atau pedati.
+### Ayo Berdiskusi (Halaman 16-17)
 
-	Apa yang terjadi saat kuda menarik bendi?
+Tuliskan contoh-contoh pemanfaatan gaya otot dalam kehidupan sehari-hari. Tuliskan dalam bentuk tabel seperti berikut ini. Diskusikan dengan temanteman sekelompokmu, lalu bacakan hasilnya di depan Bapak/Ibu guru dan kelompok-kelompok lain.
 
-	Jawaban:
+![Tabel](img/tabel.jpg "Tabel")
+ 
+Jawaban:
 
-	Bendi akan bergerak karena mendapat gaya yang diberikan oleh kuda.
+![Tabel Gerakan](img/tabel-gerakan.jpg "Tabel Gerakan")
 
-	Apa yang terjadi saat kerbau atau kuda menarik pedati?
+![Tabel Gerakan](img/tabel-gerakan-2.jpg "Tabel Gerakan")
 
-	Jawaban:
+Bersama teman kelompokmu, bacalah lagi teks "Suku Bangsa di Indonesia" pada halaman 1.
 
-	Pedati akan bergerak karena adanya gaya yang diberikan oleh kerbau,
+Pengetahuan-pengetahuan apa yang kalian dapatkan dari teks tersebut?
 
-### Kunci Jawaban Halaman 5
+Bedakan pengetahuan yang sudah kalian ketahui sebelum membaca teks dan pengetahuan baru yang kalian dapatkan setelah membaca teks. Tuliskan dalam bentuk tabel sebagai berikut.
 
-	Lakukan kegiatan-kegiatan sederhana berikut.
-
-1. 	Dorong meja belajarmu pelan-pelan hingga bergeser sedikit, lalu tarik ke posisi semula.
-2. 	Angkat tas sekolahmu, lalu letakkan lagi ke posisi semula.
-3. 	Ambil selembar kertas tak terpakai, lalu lipat atau remaslah kertas tersebut.
-
-	Dari kegiatan tersebut, isilah tabel berikut.
+![Tabel Suku Bangsa](img/tabel-suku-bangsa.jpg "Tabel Suku Bangsa")
 
 Jawaban:
 
-Aktivitas yang dilakukan: Mendorong meja
+![Jawaban Tabel Suku Bangsa](img/tabel-suku-bangsa.jpg "Jawaban Tabel Suku Bangsa")
+ 
+### Ayo Bercerita (Halaman 17)
 
-Hasil: Meja bergeser
+Bacakan hasil diskusi kelompokmu di depan Bapak/Ibu guru dan teman-temanmu. Lakukan bergantian dengan kelompok lain. Bandingkan hasil diskusi setiap kelompok. Apa yang dapat kamu simpulkan?
 
-Aktivitas yang dilakukan: Menarik meja
+Sejak dahulu kala, bangsa Indonesia hidup dalam keragaman. Penduduk Indonesia terdiri atas beragam suku bangsa, agama, bahasa, adat, dan budaya. Namun, semuanya dapat hidup rukun berdampingan.
 
-Hasil: Meja bergeser
+Berdasarkan hasil sensus Badan Pusat Statistik (BPS) pada 2010, bangsa Indonesia terdiri dari 1.331 suku. Suku Jawa adalah suku bangsa terbesar di Indonesia dan meliputi 40,2 persen.
 
-Aktivitas yang dilakukan: Mengangkat tas
+Sementara suku yang paling sedikit jumlahnya adalah Suku Nias dengan jumlah hanya 0,44 persen. Ada pula suku Papua yang terdiri atas 466 suku atau 1,14 persen dari jumlah penduduk Indonesia. Sementara etnis Tionghoa jumlahnya 1,2 persen penduduk Indonesia.
 
-Hasil: Tas bergerak
+### Ayo Renungkan (Halaman 18-19)
 
-Aktivitas yang dilakukan: Menurunkan tas
+- 	Apa yang kamu ketahui tentang gaya otot?
+	
+	Jawaban: Gaya otot adalah gaya yang dihasilkan oleh otot makhluk hidup, baik manusia atau hewan.
 
-Hasil: Tas bergerak
+- 	Bagaimana membedakan nada tinggi dan nada rendah pada lagu?
 
-Aktivitas yang dilakukan: Meremas kertas
+	Jawaban: Kita dapat merasakan naik turunnya nada pada lagu dengan melihat perbedaan posisi not balok pada paranada.
 
-Hasil: Kertas berubah bentuk
+### Kerjasama dengan Orang Tua (Halaman 19)
 
-Baca juga: Cita-cita Frederich Silaban, Kunci Jawaban Halaman 129 Buku Tematik Tema 6 Kelas 4 SD Subtema 3
+	Diskusikan dengan orang tuamu manfaat gaya otot dalam kehidupan keluargamu sehari-hari.
 
-Baca juga: Kunci Jawaban Tema 6 Kelas 4 SD Halaman 146 147 148 149 150 Subtema 3 Giat Berusaha Meraih Cita-Cita
+Manfaat gaya otot dalam kehidupan sehari-hari:
 
-### Kunci Jawaban Halaman 6
-
-Kamu telah mengetahui pengertian gaya. Sekarang, perhatikan gambargambar berikut. Lalu, jawablah pertanyaan pada setiap gambar.
-
-![Gambar di Halaman 6 Buku Tematik Tema 7 Kelas 4 SD](/img/kunci-jawaban-halaman-6-buku-tematik-kelas-4-sd-tema-7.jpg "Gambar di Halaman 6 Buku Tematik Tema 7 Kelas 4 SD")
-
-Jawaban:
-
-1. Mobil pada gambar dapat bergerak karena didorong menggunakan kekuatan otot.
-2. Lampu dapat menyala karena ada aliran listrik.
-3. Jarum dapat menempel karena tarikan gaya magnet.
-4. Buah jatuh dari pohon karena tarikan dari bumi
-5. Kursi mudah dipindahkan karena menggunakan roda. Roda dapat menghilangkan gaya gesek kaki kursi dengan lantai.
-
-![Gambar di Halaman 7 Buku Tematik Tema 7 Kelas 4 SD](/img/gambar-di-halaman-7-buku-tematik-tema-7-kelas-4-sd.jpg "Gambar di Halaman 7 Buku Tematik Tema 7 Kelas 4 SD")
-
-### Kunci Jawaban Halaman 8
-
-Diskusikan jawaban pertanyaan-pertanyaan berikut dengan kelompokmu.
-
-1. 	Apa yang dimaksud gaya otot?
-2. 	Perhatikan gambar contoh-contoh gaya otot di depan. Apa pengaruh gaya otot terhadap benda yang dikenai gaya pada setiap gambar?
-Jawaban:
-
-1. 	Gaya otot adalah gaya yang dihasilkan oleh otot makhluk hidup, baik manusia atau hewan.
-2. 	Pengaruh gaya otot terhadap benda: benda berpindah tempat atau berubah bentuk.
-
-### Kunci Jawaban Halaman 10 - 11
-
-Apa yang kamu pelajari pada hari ini?
+1. __________________________________________________
+2. __________________________________________________
+3. __________________________________________________
 
 Jawaban:
 
-Hari ini saya belajar tentang suku bangsa, macam-macam gaya dan pengaruhnya terhadap benda.
+Manfaat gaya otot dalam kehidupan sehari-hari:
 
-Berapa banyak suku bangsa di Indonesia?
-
-Jawaban:
-
-Berdasarkan hasil sensus Badan Pusat Statistik (BPS) tahun 2010, bangsa Indonesia terdiri atas 1.331 suku.
-
-Kerja Sama dengan Orang Tua
-
-Bertanyalah kepada ayah dan ibumu, asal suku bangsa mereka masing-masing.
-
+1. Untuk memudahkan pekerjaan.
+2. Menghasilkan gerakan.
+3. Melakukan kegiatan sehari-hari.
+4. Melatih tubuh
