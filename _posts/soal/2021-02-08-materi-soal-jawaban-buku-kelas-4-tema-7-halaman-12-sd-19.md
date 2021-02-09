@@ -96,31 +96,30 @@ Kamu telah menyanyikan lagu "Apuse." Diskusikan jawaban pertanyaanpertanyaan ber
 	
 ### Ayo Bercerita (Halaman 14)
 
-	Ceritakan hasil diskusimu kepada teman-teman sekelasmu. Lakukan bergantian dengan kelompok lain.
+Ceritakan hasil diskusimu kepada teman-teman sekelasmu. Lakukan bergantian dengan kelompok lain.
+\
+Jawaban:
 
-	Jawaban:
+Lagu Apuse merupakan lagu daerah yang berasal dari Papua. Lagu ini menceritakan tentang perpisahan cucu dengan kakek-neneknya. Si cucu ingin merantau ke luar daerah.
 
-	Lagu Apuse merupakan lagu daerah yang berasal dari Papua. Lagu ini menceritakan tentang perpisahan cucu dengan kakek-neneknya. Si cucu ingin merantau ke luar daerah.
+Saat menyanyikan lagu Apuse, kita dapat merasakan naik turunnya nada dengan mengacu pada perbedaan posisi not balok pada paranada atau perbedaan angka yang digunakan pada notasi angka.
 
-	Saat menyanyikan lagu Apuse, kita dapat merasakan naik turunnya nada dengan mengacu pada perbedaan posisi not balok pada paranada atau perbedaan angka yang digunakan pada notasi angka.
-
-	Siti, Edo, Dayu, dan teman-teman menyanyikan lagu "Apuse" sambil menggerakkan kaki dan tangan. Mereka melangkah ke kanan, ke kiri, ke depan, lalu ke belakang sambil menggerakkan tangan. Gerakan mereka melibatkan otot kaki dan tangan.
+Siti, Edo, Dayu, dan teman-teman menyanyikan lagu "Apuse" sambil menggerakkan kaki dan tangan. Mereka melangkah ke kanan, ke kiri, ke depan, lalu ke belakang sambil menggerakkan tangan. Gerakan mereka melibatkan otot kaki dan tangan.
 	
-	![Menari](/img/gerakan-menari.jpg "Menari")
+![Menari](/img/gerakan-menari.jpg "Menari")
 
-	Gerakan melangkahkan kaki juga termasuk gaya otot. Melangkahkan kaki menyebabkan tubuh berpindah tempat.
+Gerakan melangkahkan kaki juga termasuk gaya otot. Melangkahkan kaki menyebabkan tubuh berpindah tempat.
 
 ### Ayo Mencoba (Halaman 15-16)
 
-	Lakukan kegiatan ini dengan teman sebangkumu.
+Lakukan kegiatan ini dengan teman sebangkumu.
 
-1. Siapkan beberapa buah buku, lalu ajaklah teman sebangkumu untuk bertukar buku.
-2. Catatlah kegiatan-kegiatan yang kamu lakukan ketika melakukan proses penukaran buku.
-3. Tuliskan hasil kegiatan yang kamu lakukan.
-4. Gaya apa yang digunakan dalam kegiatan penukaran buku ini?
-
+1. 	Siapkan beberapa buah buku, lalu ajaklah teman sebangkumu untuk bertukar buku.
+2. 	Catatlah kegiatan-kegiatan yang kamu lakukan ketika melakukan proses penukaran buku.
+3. 	Tuliskan hasil kegiatan yang kamu lakukan.
+4. 	Gaya apa yang digunakan dalam kegiatan penukaran buku ini?
 	![Menukar Buku](/img/menukar-buku.jpg "Menukur Buku")
- 
+	
 	Aktivitas bertukar buku merupakan salah satu contoh pemanfaatan gaya otot. Dengan memanfaatkan gaya otot, kita dapat memindahkan benda-benda ringan dengan mudah. Gaya otot sangat bermanfaat dalam kehidupan sehari-hari.
 
 ### Ayo Berdiskusi (Halaman 16-17)
