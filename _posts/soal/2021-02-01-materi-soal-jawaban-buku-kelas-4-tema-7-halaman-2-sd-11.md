@@ -128,10 +128,6 @@ Aktivitas yang dilakukan: Meremas kertas
 
 Hasil: Kertas berubah bentuk
 
-Baca juga: Cita-cita Frederich Silaban, Kunci Jawaban Halaman 129 Buku Tematik Tema 6 Kelas 4 SD Subtema 3
-
-Baca juga: Kunci Jawaban Tema 6 Kelas 4 SD Halaman 146 147 148 149 150 Subtema 3 Giat Berusaha Meraih Cita-Cita
-
 ### Kunci Jawaban Halaman 6
 
 Kamu telah mengetahui pengertian gaya. Sekarang, perhatikan gambargambar berikut. Lalu, jawablah pertanyaan pada setiap gambar.

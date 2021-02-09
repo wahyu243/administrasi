@@ -28,7 +28,7 @@ Inilah kunci jawaban Tema 7 untuk kelas 4 SD/MI subtema 1 pembelajaran 2 halaman
 
 Salah satu lagu terkenal dari Papua adalah "Apuse." Lirik lagu "Apuse" menceritakan kisah perpisahan seseorang dengan kakek dan neneknya. Si cucu ini akan merantau ke negeri seberang. Perhatikan notasi lagu "Apuse" berikut. Dengarkan gurumu menyanyikan lagu ini.
 
-![Lagu Apuse](img/lagu-apuse.jpg "Lagu Apuse") 
+![Lagu Apuse](/img/lagu-apuse.jpg "Lagu Apuse") 
  
 ### Ayo Bernyanyi (Halaman 13)
 
@@ -88,11 +88,11 @@ Kamu telah menyanyikan lagu "Apuse." Diskusikan jawaban pertanyaanpertanyaan ber
 
 	Contoh:
 
-	![Soal Tangga Nada](img/soal-tangga-nada.jpg "Soal Tangga Nada")
+	![Soal Tangga Nada](/img/soal-tangga-nada.jpg "Soal Tangga Nada")
 	
 	Jawaban:
 
-	![Soal Tangga Nada](img/soal-tangga-nada-jawaban.jpg "Soal Tangga Nada")
+	![Soal Tangga Nada](/img/soal-tangga-nada-jawaban.jpg "Soal Tangga Nada")
 	
 ### Ayo Bercerita (Halaman 14)
 
@@ -106,7 +106,7 @@ Kamu telah menyanyikan lagu "Apuse." Diskusikan jawaban pertanyaanpertanyaan ber
 
 	Siti, Edo, Dayu, dan teman-teman menyanyikan lagu "Apuse" sambil menggerakkan kaki dan tangan. Mereka melangkah ke kanan, ke kiri, ke depan, lalu ke belakang sambil menggerakkan tangan. Gerakan mereka melibatkan otot kaki dan tangan.
 	
-	![Menari](img/gerakan-menari.jpg "Menari")
+	![Menari](/img/gerakan-menari.jpg "Menari")
 
 	Gerakan melangkahkan kaki juga termasuk gaya otot. Melangkahkan kaki menyebabkan tubuh berpindah tempat.
 
@@ -119,7 +119,7 @@ Kamu telah menyanyikan lagu "Apuse." Diskusikan jawaban pertanyaanpertanyaan ber
 3. Tuliskan hasil kegiatan yang kamu lakukan.
 4. Gaya apa yang digunakan dalam kegiatan penukaran buku ini?
 
-	![Menukar Buku](img/menukar-buku.jpg "Menukur Buku")
+	![Menukar Buku](/img/menukar-buku.jpg "Menukur Buku")
  
 	Aktivitas bertukar buku merupakan salah satu contoh pemanfaatan gaya otot. Dengan memanfaatkan gaya otot, kita dapat memindahkan benda-benda ringan dengan mudah. Gaya otot sangat bermanfaat dalam kehidupan sehari-hari.
 
@@ -127,13 +127,13 @@ Kamu telah menyanyikan lagu "Apuse." Diskusikan jawaban pertanyaanpertanyaan ber
 
 Tuliskan contoh-contoh pemanfaatan gaya otot dalam kehidupan sehari-hari. Tuliskan dalam bentuk tabel seperti berikut ini. Diskusikan dengan temanteman sekelompokmu, lalu bacakan hasilnya di depan Bapak/Ibu guru dan kelompok-kelompok lain.
 
-![Tabel](img/tabel.jpg "Tabel")
+![Tabel](/img/tabel.jpg "Tabel")
  
 Jawaban:
 
-![Tabel Gerakan](img/tabel-gerakan.jpg "Tabel Gerakan")
+![Tabel Gerakan](/img/tabel-gerakan.jpg "Tabel Gerakan")
 
-![Tabel Gerakan](img/tabel-gerakan-2.jpg "Tabel Gerakan")
+![Tabel Gerakan](/img/tabel-gerakan-2.jpg "Tabel Gerakan")
 
 Bersama teman kelompokmu, bacalah lagi teks "Suku Bangsa di Indonesia" pada halaman 1.
 
@@ -141,11 +141,11 @@ Pengetahuan-pengetahuan apa yang kalian dapatkan dari teks tersebut?
 
 Bedakan pengetahuan yang sudah kalian ketahui sebelum membaca teks dan pengetahuan baru yang kalian dapatkan setelah membaca teks. Tuliskan dalam bentuk tabel sebagai berikut.
 
-![Tabel Suku Bangsa](img/tabel-suku-bangsa.jpg "Tabel Suku Bangsa")
+![Tabel Suku Bangsa](/img/tabel-suku-bangsa.jpg "Tabel Suku Bangsa")
 
 Jawaban:
 
-![Jawaban Tabel Suku Bangsa](img/tabel-suku-bangsa.jpg "Jawaban Tabel Suku Bangsa")
+![Jawaban Tabel Suku Bangsa](/img/tabel-suku-bangsa.jpg "Jawaban Tabel Suku Bangsa")
  
 ### Ayo Bercerita (Halaman 17)
 
