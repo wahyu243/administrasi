@@ -3,7 +3,6 @@ layout: post
 title: Buku Guru Tunagrahita Kelas 2 Tema 1 Anggota Keluargaku
 description: Buku Guru Tunagrahita Kelas 2 Tema 1 Kurikulum 2013, Download buku
   Kelas 2 Tema 1 Anggota Keluargaku bagi tunagrahita
-image: /img/buku-siswa-tunagrahita-kelas-3-tema-6.png
 last_modified_date: 2020-12-19T03:47:20.398Z
 tags:
   - buku
