@@ -30,7 +30,7 @@ Bagi anda guru yang mengajar atau siswa yang duduk di **Kelas 2 C (Tunagrahita)*
 
 |Uraian|Keterangan|
 | --- | --- |
-|Buku|<a href="/bse/buku-guru-tunagrahita-kelas-2-tema-3-keluargaku-besarku" title="Buku Guru Kelas 2 Tema 4 Pengalaman Masa Kecil SDLB Tunagrahita"><strong>Buku Guru Kelas 2 Tema 4 Pengalaman Masa Kecil SDLB Tunagrahita</strong></a>|
+|Buku|<a href="/bse/buku-guru-tunagrahita-kelas-2-tema-4-pengalaman-masa-kecil" title="Buku Guru Kelas 2 Tema 4 Pengalaman Masa Kecil SDLB Tunagrahita"><strong>Buku Guru Kelas 2 Tema 4 Pengalaman Masa Kecil SDLB Tunagrahita</strong></a>|
 |Jenis|<a href="/bse" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SDLB|

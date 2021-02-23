@@ -51,4 +51,4 @@ Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda
 ## Download Buku
 **Download Buku Kurikulum 2013 Bagi Tunagrahita Kelas 2 Tema 3 Keluarga Besarku**:
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1H6Mn8qq8NsuW5Um7P1RoVUkZAndXhsaO" rel="nofollow" target="_blank" title="Download Buku Guru Tunagrahita Kelas 2 Tema Keluarga Besarku">Download</a>
-<a class="button demo" href="https://drive.google.com/file/d/1H6Mn8qq8NsuW5Um7P1RoVUkZAndXhsaO/view" rel="nofollow" target="_blank" title="Download Buku Guru Tunagrahita Kelas 2 Tema Keluarga Besarku">Demo</a></p>
+<a class="button demo" href="https://drive.google.com/file/d/1H6Mn8qq8NsuW5Um7P1RoVUkZAndXhsaO/view" rel="nofollow" target="_blank" title="Download Buku Guru Tunagrahita Kelas 2 Tema Keluarga Besarku">Baca</a></p>
