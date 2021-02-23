@@ -8,13 +8,13 @@ tags:
   - pendidikan
   - sdlb
   - tunagrahita
-  - siswa
-  - buku-siswa
+  - guru
+  - buku-guru
   - revisi-2015
   - kelas-2
   - tematik
   - download
-  - buku-siswa-kelas-2-sdlb
+  - buku-guru-kelas-2-sdlb
 ---
 
 * TOC
@@ -37,6 +37,7 @@ Bagi anda guru yang mengajar atau siswa yang duduk di **Kelas 2 C (Tunagrahita)*
 |Model|Tematik|
 |Satuan Pendidikan|SDLB|
 |Kelas|2 (dua)|
+|Tema|Anggota Keluargaku|
 |Penulis| Ratna Djuwita Rini, M.Pd, Drs. Julius Juih,Dra. A Fachrany N|
 |Penerbit|Pusat Kurikulum dan Perbukuan, Balitbang, Kemdikbud|
 |Jumlah Halaman|N/A|
