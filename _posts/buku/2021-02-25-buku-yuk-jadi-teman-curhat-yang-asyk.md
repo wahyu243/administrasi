@@ -35,4 +35,5 @@ Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda
 ## Download Buku
 **Download / Baca Buku Yuk Jadi Teman Curhat Yang Asik**:
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1YFV2ukj1I8lZ4MFRdGQxfUMrxlbYrMz5" rel="nofollow" target="_blank" title="Download Buku Yuk Jadi Teman Curhat Yang Asik">Download</a>
-<a class="button demo" href="https://drive.google.com/file/d/1YFV2ukj1I8lZ4MFRdGQxfUMrxlbYrMz5/view" rel="nofollow" target="_blank" title="Baca Buku Yuk Jadi Teman Curhat Yang Asik">Baca</a></p>
+<a class="button demo open-dialog
+" href="https://drive.google.com/file/d/1YFV2ukj1I8lZ4MFRdGQxfUMrxlbYrMz5/view" rel="nofollow" target="_blank" title="Baca Buku Yuk Jadi Teman Curhat Yang Asik">Baca</a></p>
