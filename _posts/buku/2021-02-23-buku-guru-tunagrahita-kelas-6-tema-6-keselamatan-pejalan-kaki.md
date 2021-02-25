@@ -51,4 +51,4 @@ Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda
 ## Download Buku
 **Download Buku Kurikulum 2013 Bagi Tunagrahita Kelas 6 Tema 7 Keselamatan Pejalan Kaki**:
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1Ph1OQLjR2q6jT0vYwlaGy6nNElQIr6xS" rel="nofollow" target="_blank" title="Download Buku Guru Tunagrahita Kelas 6 Tema Keselamatan Pejalan Kaki">Download</a>
-<a class="button demo" href="https://drive.google.com/file/d/1Ph1OQLjR2q6jT0vYwlaGy6nNElQIr6xS/view" rel="nofollow" target="_blank" title="Download Buku Guru Tunagrahita Kelas 6 Tema Keselamatan Pejalan Kaki">Baca</a></p>
+<a class="button demo open-dialog" href="https://drive.google.com/file/d/1Ph1OQLjR2q6jT0vYwlaGy6nNElQIr6xS/view" rel="nofollow" target="_blank" title="Download Buku Guru Tunagrahita Kelas 6 Tema Keselamatan Pejalan Kaki">Baca</a></p>
