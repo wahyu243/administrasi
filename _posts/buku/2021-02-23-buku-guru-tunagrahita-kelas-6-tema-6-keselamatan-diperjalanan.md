@@ -51,4 +51,4 @@ Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda
 ## Download Buku
 **Download Buku Kurikulum 2013 Bagi Tunagrahita Kelas 6 Tema 6 Keselamatan diperjalanan**:
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1KZKMUneDb-gPp-iur_8OG7u8FkF2TVi8" rel="nofollow" target="_blank" title="Download Buku Guru Tunagrahita Kelas 6 Tema Keselamatan diperjalanan">Download</a>
-<a class="button demo" href="https://drive.google.com/file/d/1KZKMUneDb-gPp-iur_8OG7u8FkF2TVi8/view" rel="nofollow" target="_blank" title="Download Buku Guru Tunagrahita Kelas 6 Tema Keselamatan diperjalanan">Baca</a></p>
+<a class="button demo open-dialog" href="https://drive.google.com/file/d/1KZKMUneDb-gPp-iur_8OG7u8FkF2TVi8/view" rel="nofollow" target="_blank" title="Download Buku Guru Tunagrahita Kelas 6 Tema Keselamatan diperjalanan">Baca</a></p>
