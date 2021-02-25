@@ -51,4 +51,4 @@ Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda
 ## Download Buku
 **Download Buku Kurikulum 2013 Bagi Tunagrahita Kelas 3 Tema 3 Benda Hidup dan Benda Tak Hidup Disekitarku**:
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=11QArBv731sWhiQtwOdsXPZ29t36Kwfqs" rel="nofollow" target="_blank" title="Download Buku Guru Tunagrahita Kelas 3 Tema Benda Hidup dan Benda Tak Hidup Disekitarku">Download</a>
-<a class="button demo open-dialog" href="https://drive.google.com/file/d/11QArBv731sWhiQtwOdsXPZ29t36Kwfqs/view" rel="nofollow" target="_blank" title="Download Buku Guru Tunagrahita Kelas 3 Tema Benda Hidup dan Benda Tak Hidup Disekitarku">Baca</a></p>
+<a class="button demo open-dialog" href="https://drive.google.com/file/d/11QArBv731sWhiQtwOdsXPZ29t36Kwfqs/preview" rel="nofollow" target="_blank" title="Download Buku Guru Tunagrahita Kelas 3 Tema Benda Hidup dan Benda Tak Hidup Disekitarku">Baca</a></p>

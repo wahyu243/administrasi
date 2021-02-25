@@ -36,4 +36,4 @@ Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda
 ## Download Buku
 **Download / Baca Buku Mendampingi Anak Belajar Dirumah**:
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1xGLOsfOJ5fiLN4ZTrUMugwgG7TD3YXYm" rel="nofollow" target="_blank" title="Download Buku Mendampingi Anak Belajar Dirumah">Download</a>
-<a class="button demo open-dialog" href="https://drive.google.com/file/d/1xGLOsfOJ5fiLN4ZTrUMugwgG7TD3YXYm/view" rel="nofollow" target="_blank" title="Baca Buku Mendampingi Anak Belajar Dirumah">Baca</a></p>
+<a class="button demo open-dialog" href="https://drive.google.com/file/d/1xGLOsfOJ5fiLN4ZTrUMugwgG7TD3YXYm/preview" rel="nofollow" target="_blank" title="Baca Buku Mendampingi Anak Belajar Dirumah">Baca</a></p>

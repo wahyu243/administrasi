@@ -51,4 +51,4 @@ Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda
 ## Download Buku
 **Download Buku Kurikulum 2013 Bagi Tunagrahita Kelas 6 Tema 5 Keselamatan Dirumah**:
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1kGwAs_L_f6bWBGSW9p1v26_1ZtoisNV1" rel="nofollow" target="_blank" title="Download Buku Guru Tunagrahita Kelas 6 Tema Keselamatan Dirumah">Download</a>
-<a class="button demo open-dialog" href="https://drive.google.com/file/d/1kGwAs_L_f6bWBGSW9p1v26_1ZtoisNV1/view" rel="nofollow" target="_blank" title="Download Buku Guru Tunagrahita Kelas 6 Tema Keselamatan Dirumah">Baca</a></p>
+<a class="button demo open-dialog" href="https://drive.google.com/file/d/1kGwAs_L_f6bWBGSW9p1v26_1ZtoisNV1/preview" rel="nofollow" target="_blank" title="Download Buku Guru Tunagrahita Kelas 6 Tema Keselamatan Dirumah">Baca</a></p>

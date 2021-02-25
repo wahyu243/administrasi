@@ -29,4 +29,4 @@ Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda
 ## Download Buku
 **Download / Baca Buku Pintar Cerdas Mengasuh Anak**:
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1j_4jWLLIGV_8p34_jfcG4BT5yTWEH2jR" rel="nofollow" target="_blank" title="Download Buku Pintar Cerdas Mengasuh Anak">Download</a>
-<a class="button demo open-dialog" href="https://drive.google.com/file/d/1j_4jWLLIGV_8p34_jfcG4BT5yTWEH2jR/view" rel="nofollow" target="_blank" title="Baca Buku Pintar Cerdas Mengasuh Anak">Baca</a></p>
+<a class="button demo open-dialog" href="https://drive.google.com/file/d/1j_4jWLLIGV_8p34_jfcG4BT5yTWEH2jR/preview" rel="nofollow" target="_blank" title="Baca Buku Pintar Cerdas Mengasuh Anak">Baca</a></p>

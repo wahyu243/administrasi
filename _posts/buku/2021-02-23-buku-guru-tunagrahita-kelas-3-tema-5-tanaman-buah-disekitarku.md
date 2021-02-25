@@ -51,4 +51,4 @@ Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda
 ## Download Buku
 **Download Buku Kurikulum 2013 Bagi Tunagrahita Kelas 3 Tema 5 Tanaman Buah di Sekitarku**:
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1kulNG8Iqo7xAtjBPLlIQvAVX7oOueLIc" rel="nofollow" target="_blank" title="Download Buku Guru Tunagrahita Kelas 3 Tema Tanaman Buah di Sekitarku">Download</a>
-<a class="button demo open-dialog" href="https://drive.google.com/file/d/1kulNG8Iqo7xAtjBPLlIQvAVX7oOueLIc/view" rel="nofollow" target="_blank" title="Download Buku Guru Tunagrahita Kelas 3 Tema Tanaman Buah di Sekitarku">Baca</a></p>
+<a class="button demo open-dialog" href="https://drive.google.com/file/d/1kulNG8Iqo7xAtjBPLlIQvAVX7oOueLIc/preview" rel="nofollow" target="_blank" title="Download Buku Guru Tunagrahita Kelas 3 Tema Tanaman Buah di Sekitarku">Baca</a></p>

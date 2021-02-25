@@ -35,4 +35,4 @@ Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda
 ## Download Buku
 **Download / Baca Buku Pengasuhan Positif**:
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1lB9BK0mgBgVCqmWKcbkdVeC50QZzMebq" rel="nofollow" target="_blank" title="Download Buku Pengasuhan Positif">Download</a>
-<a class="button demo open-dialog" href="https://drive.google.com/file/d/1lB9BK0mgBgVCqmWKcbkdVeC50QZzMebq/view" rel="nofollow" target="_blank" title="Baca Buku Pengasuhan Positif">Baca</a></p>
+<a class="button demo open-dialog" href="https://drive.google.com/file/d/1lB9BK0mgBgVCqmWKcbkdVeC50QZzMebq/preview" rel="nofollow" target="_blank" title="Baca Buku Pengasuhan Positif">Baca</a></p>

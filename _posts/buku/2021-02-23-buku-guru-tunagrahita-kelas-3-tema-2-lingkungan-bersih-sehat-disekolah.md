@@ -51,4 +51,4 @@ Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda
 ## Download Buku
 **Download Buku Kurikulum 2013 Bagi Tunagrahita Kelas 3 Tema 2 Lingkungan Bersih dan Sehat Disekolah**:
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1bSLzzzxQvbCXVfmm2ZDzbVfSgTbv85Dz" rel="nofollow" target="_blank" title="Download Buku Guru Tunagrahita Kelas 3 Tema Lingkungan Bersih dan Sehat Disekolah">Download</a>
-<a class="button demo open-dialog" href="https://drive.google.com/file/d/1bSLzzzxQvbCXVfmm2ZDzbVfSgTbv85Dz/view" rel="nofollow" target="_blank" title="Download Buku Guru Tunagrahita Kelas 3 Tema Lingkungan Bersih dan Sehat Disekolah">Baca</a></p>
+<a class="button demo open-dialog" href="https://drive.google.com/file/d/1bSLzzzxQvbCXVfmm2ZDzbVfSgTbv85Dz/preview" rel="nofollow" target="_blank" title="Download Buku Guru Tunagrahita Kelas 3 Tema Lingkungan Bersih dan Sehat Disekolah">Baca</a></p>

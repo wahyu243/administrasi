@@ -51,4 +51,4 @@ Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda
 ## Download Buku
 **Download Buku Kurikulum 2013 Bagi Tunagrahita Kelas 2 Tema 2 Kegiatan Keluargaku**:
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1WoIa1pFWUwa7NISiU0UXY5dQb1ZExFsi" rel="nofollow" target="_blank" title="Download Buku Guru Tunagrahita Kelas 2 Tema Kegiatan Keluargaku">Download</a>
-<a class="button demo open-dialog" href="https://drive.google.com/file/d/1WoIa1pFWUwa7NISiU0UXY5dQb1ZExFsi/view" rel="nofollow" target="_blank" title="Download Buku Guru Tunagrahita Kelas 2 Tema Kegiatan Keluargaku">Baca</a></p>
+<a class="button demo open-dialog" href="https://drive.google.com/file/d/1WoIa1pFWUwa7NISiU0UXY5dQb1ZExFsi/preview" rel="nofollow" target="_blank" title="Download Buku Guru Tunagrahita Kelas 2 Tema Kegiatan Keluargaku">Baca</a></p>
