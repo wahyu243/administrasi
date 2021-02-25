@@ -26,7 +26,7 @@ pagination:
     <a class="text-dark" href="{{site.baseurl}}{{latest_post.url}}">{{ latest_post.title }}</a>
     </h2>
     <p class="excerpt">
-        {{ latest_post.excerpt | strip_html | strip_newlines | truncate: 180 }}
+        {{ latest_post.description | strip_html | strip_newlines | truncate: 180 }}
     </p>
     <div>
         <small class="d-block text-muted">
