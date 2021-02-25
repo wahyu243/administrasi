@@ -35,4 +35,4 @@ Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda
 ## Download Buku
 **Download / Baca Buku Taman Mimpi di Gubuk Pelangi**:
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1VWIwpdK9D03AHblwcMf8MDuX3dHP3Czk" rel="nofollow" target="_blank" title="Download Buku Taman Mimpi di Gubuk Pelangi">Download</a>
-<a class="button demo" href="https://drive.google.com/file/d/1VWIwpdK9D03AHblwcMf8MDuX3dHP3Czk/view" rel="nofollow" target="_blank" title="Baca Buku Taman Mimpi di Gubuk Pelangi">Baca</a></p>
+<a class="button demo open-dialog" href="https://drive.google.com/file/d/1VWIwpdK9D03AHblwcMf8MDuX3dHP3Czk/view" rel="nofollow" target="_blank" title="Baca Buku Taman Mimpi di Gubuk Pelangi">Baca</a></p>
