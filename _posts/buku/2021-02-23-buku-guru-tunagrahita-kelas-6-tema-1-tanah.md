@@ -51,4 +51,4 @@ Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda
 ## Download Buku
 **Download Buku Kurikulum 2013 Bagi Tunagrahita Kelas 6 Tema 1 Tanah**:
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1h9n3zet9aybzpPQFXR0FvUrSJP8xK1Bd" rel="nofollow" target="_blank" title="Download Buku Guru Tunagrahita Kelas 6 Tema Tanah">Download</a>
-<a class="button demo" href="https://drive.google.com/file/d/1h9n3zet9aybzpPQFXR0FvUrSJP8xK1Bd/view" rel="nofollow" target="_blank" title="Download Buku Guru Tunagrahita Kelas 6 Tema Tanah">Baca</a></p>
+<a class="button demo open-dialog" href="https://drive.google.com/file/d/1h9n3zet9aybzpPQFXR0FvUrSJP8xK1Bd/view" rel="nofollow" target="_blank" title="Download Buku Guru Tunagrahita Kelas 6 Tema Tanah">Baca</a></p>
