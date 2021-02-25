@@ -51,4 +51,4 @@ Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda
 ## Download Buku
 **Download Buku Kurikulum 2013 Bagi Tunagrahita Kelas 2 Tema 4 Pengalaman Masa Kecil**:
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1cX9pbkgFCKjyRZLhIFSrcNPTd17JrHlO" rel="nofollow" target="_blank" title="Download Buku Guru Tunagrahita Kelas 2 Tema Pengalaman Masa Kecil">Download</a>
-<a class="button demo" href="https://drive.google.com/file/d/1cX9pbkgFCKjyRZLhIFSrcNPTd17JrHlO/view" rel="nofollow" target="_blank" title="Download Buku Guru Tunagrahita Kelas 2 Tema Pengalaman Masa Kecil">Demo</a></p>
+<a class="button demo open-dialog" href="https://drive.google.com/file/d/1cX9pbkgFCKjyRZLhIFSrcNPTd17JrHlO/view" rel="nofollow" target="_blank" title="Download Buku Guru Tunagrahita Kelas 2 Tema Pengalaman Masa Kecil">Demo</a></p>
