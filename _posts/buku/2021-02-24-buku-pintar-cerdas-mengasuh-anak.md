@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pintar Cerdas Mengasuh Anak
+title: Buku Pintar Cerdas Mengasuh Anak
 description: Buku Pintar Cerdas Mengasuh Anak, berisi kutipan tips, cara dan langkah mengasuh serta mendidik anak dari narasumber terpilih 
 image: buku-pintar-mengasuh-anak.png
 last_modified_date: 2020-02-24T03:47:20.398Z

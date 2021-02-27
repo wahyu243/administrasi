@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stop Perundungan
+title: Buku Stop Perundungan
 description: Buku Stop Perundungan merupakan buku yang ditunjukkan untuk pembaca usia remaja. Download dan Baca buku parenting Stop Perundungan.
 image: stop-perundungan.png
 last_modified_date: 2020-02-26T09:47:20.398Z
