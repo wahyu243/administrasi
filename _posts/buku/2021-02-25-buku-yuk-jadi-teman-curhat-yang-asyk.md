@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Yuk Jadi Teman Curhat Yang Asik
+title: Buku Yuk Jadi Teman Curhat Yang Asik
 description: Buku Yuk Jadi Teman Curhat Yang Asik merupakan buku yang bagi pendidik yang dapat dijadikan referensi pengembangan model dukungan psikologi awal bagai anak dan remaja. Download dan Baca buku parenting Yuk Jadi Teman Curhat Yang Asik.
 image: yuk-jadi-teman-curhat.png
-last_modified_date: 2020-02-25T09:47:20.398Z
+last_modified_date: 2021-02-25T09:47:20.398Z
 tags:
   - buku
   - pendidikan

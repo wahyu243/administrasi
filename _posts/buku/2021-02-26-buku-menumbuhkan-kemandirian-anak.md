@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Menumbuhkan Kemandirian Pada Anak
+title: Buku Menumbuhkan Kemandirian Pada Anak
 description: Buku Menumbuhkan Kemandirian Pada Anak merupakan buku pegangan orang tua yang dipersiapkan Pemerintah dalam upaya meningkatkan partisipasi pendidikan anak, baik di satuan pendidikan maupun di rumah.
 image: menumbuhkan-kemandirian-anak.png
 last_modified_date: 2020-02-26T09:47:20.398Z
