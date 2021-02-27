@@ -42,6 +42,7 @@ Untuk menjawab pertanyaan pada halaman 54 s/d 56 ananda sebaiknya membaca teks d
 > Perubahan energi juga terjadi di dalam tubuh. Makanan merupakan sumber energi kimia di dalam tubuh. Makanan tersebut diolah menjadi sarisari makanan. Sari-sari makanan diubah menjadi energi. Karena energi inilah seluruh bagian tubuh dapat bekerja.
 > 
 > Mata, mulut, tangan, dan kaki dapat bekerja karena adanya energi. Begitu pula bagian-bagian tubuh lainnya.
+>
 > ![Gambar makan Administrasi.net](/img/gambar-makan-administrasi-net.jpg "Gambar makan Administrasi.net")
 
 #### Jawablah pertanyaan-pertanyaan berikut ini!
