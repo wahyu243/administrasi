@@ -377,6 +377,9 @@ h5 {
 	</amp-ad></div></div>
 <div class="entry-content"><div class="container">
 {{ content | markdownify | amp_images | replace:"<p><amp-img","<amp-img width='600'  height='400' layout='responsive' " | replace:"</p></amp-img","</amp-img" | replace:"</amp-img></p>","</amp-img>"}}
+
+<div class="mt-3"><p>Demikian artikel berjudul <b><a href="{{ site.url }}{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></b> ini, semoga dapat bermanfaat bagi anda semua. Perlu anda ketahui apabila menurut anda artikel ini perlu perbaikan, anda semua bisa mengeditnya di bawah ini. Bergabunglah bersama kami menjadi penulis di <b><a href="https://administrasi.net" title="Administrasi.Net">Administrasi.Net</a></b></p></div>
+
 	</div></div>
 <div class="entry-content"><div class="container">
 <amp-ad width="100vw" height="320"
@@ -581,7 +584,7 @@ h5 {
         <div>{% if site.copyright %} {{ site.copyright }} {% endif %} by <a href="https://theme.administrasi.net/" title="Free Jekyll Themes">Jekyll Theme</a></div>
     </footer>
 	<span class="category-links term-links ver">
-	<a class="ap-m-filter-bubble small" title="Buka Versi Normal" href="{{ page.canonical_url | prepend: site.baseurl | prepend: site.url }}">Normal</a></span>
+	<a class="ap-m-filter-bubble small" title="Buka Versi Normal" href="{{ page.canonical_url | prepend: site.baseurl | prepend: site.url }}">Non AMP</a></span>
 	  <amp-auto-ads
     type="adsense"
     data-ad-client="ca-pub-5439573510495356">

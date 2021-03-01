@@ -82,8 +82,6 @@ Konflik tersebut dapat memicu perpecahan bangsa.
 
 Oleh sebab itu, lebih baik kita bersikap saling menghargai dan memahami keragaman dalam masyarakat Indonesia.
 
-Baca juga: Kunci Jawaban Tematik Tema 7 Kelas 6 SD Halaman 105, 106, 107, 109, dan 111 Subtema 3 Pembelajaran 1
-
 ### AYO RENUNGKAN
 
 Apa yang kamu pelajari hari ini?
