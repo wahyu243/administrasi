@@ -3,6 +3,7 @@ layout: post
 title: Buku Guru Tunagrahita Kelas 6 Tema 5 Keselamatan Dirumah
 description: Buku Guru Tunagrahita Kelas 6 Tema 5 Kurikulum 2013, Download buku Kelas 6 Tema 5 Keselamatan Dirumah bagi tunagrahita
 last_modified_date: 2021-02-23T03:47:20.398Z
+image: buku-sdlb.png
 tags:
   - buku
   - pendidikan

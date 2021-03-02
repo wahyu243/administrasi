@@ -3,6 +3,7 @@ layout: post
 title: Buku Guru Tunagrahita Kelas 9 Tema 2 Terminal, Stasiun, Pelabuhan, Bandar Udara
 description: Buku Guru Tunagrahita Kelas 9 Tema 2 Kurikulum 2013, Download buku Kelas 9 Tema 2 Terminal, Stasiun, Pelabuhan, Bandar Udara bagi tunagrahita
 last_modified_date: 2021-03-01T03:47:20.398Z
+image: buku-smplb.png
 tags:
   - buku
   - pendidikan
