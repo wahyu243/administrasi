@@ -30,7 +30,7 @@ Bagi anda guru yang mengajar atau siswa yang duduk di **Kelas 9 C (Tunagrahita)*
 
 |Uraian|Keterangan|
 | --- | --- |
-|Buku|<a href="/bse/buku-guru-tunagrahita-kelas-9-tema-2-terminal" title="Buku Guru Kelas 9 Tema 4 Teknologi Pangan SMPLB Tunagrahita"><strong>Buku Guru Kelas 9 Tema 4 Teknologi Pangan SDLB Tunagrahita</strong></a>|
+|Buku|<a href="/bse/buku-guru-tunagrahita-kelas-9-tema-2-teknologi-pangan" title="Buku Guru Kelas 9 Tema 4 Teknologi Pangan SMPLB Tunagrahita"><strong>Buku Guru Kelas 9 Tema 4 Teknologi Pangan SDLB Tunagrahita</strong></a>|
 |Jenis|<a href="/bse" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SMPLB|
