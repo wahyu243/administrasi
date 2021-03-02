@@ -3,7 +3,7 @@ layout: perkategori
 title: Buku Siswa Kelas 3
 permalink: /bse/siswa/kelas-3
 description: Halaman ini berisi kumpulan Sekolah Elektronik (BSE) Buku Siswa Satuan Pendidikan SD Kelas 3.
-image: /img/buku guru dan siswa.jpg
+image: /img/buku-sd.png
 pagination: 
   enabled: true
   collection: posts

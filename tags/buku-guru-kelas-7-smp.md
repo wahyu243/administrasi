@@ -1,9 +1,9 @@
 ---
 layout: perkategori
-title: Buku Guru Kelas 7
+title: Buku Guru Kelas 7 SMP
 permalink: /bse/guru/kelas-7
 description: Halaman ini berisi kumpulan Buku Sekolah Elektronik (BSE) Buku Guru Satuan Pendidikan SMP Kelas 7.
-image: /img/buku guru dan siswa.jpg
+image: /img/buku-smp.png
 pagination: 
   enabled: true
   collection: posts

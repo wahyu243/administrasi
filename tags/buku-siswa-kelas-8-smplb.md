@@ -3,7 +3,7 @@ layout: perkategori
 title: Buku Siswa Kelas 8 SMPLB
 permalink: /bse/siswa/slb/kelas-8
 description: Halaman ini berisi kumpulan Sekolah Elektronik (BSE) Buku Siswa Satuan Pendidikan SMPLB Kelas 8.
-image: /img/buku guru dan siswa.jpg
+image: /img/buku-smplb.png
 pagination: 
   enabled: true
   collection: posts

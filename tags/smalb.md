@@ -3,7 +3,7 @@ layout: perkategori
 title: Buku SMALB
 permalink: /bse/smalb
 description: Halaman ini berisi kumpulan Buku Sekolah Elektronik (BSE) Satuan Pendidikan Sekolah Menengah Atas (SMA) Luar Biasa terdiri dari buku guru dan siswa berkebutuhan khusus
-image: /img/buku guru dan siswa.jpg
+image: /img/buku-smalb.png
 pagination: 
   enabled: true
   collection: posts
