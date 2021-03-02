@@ -28,7 +28,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	{% include sticky.html %}
     <div id='kotak-dialog' class="no-print"><h5 class='title'>Tunggu hingga dokumen muncul<a class='closed' href='#'><i aria-hidden='true' class='glyphicon glyphicon-remove'></i></a></h5><div class='isi-dialog'><div id='iframeContainer'></div></div></div><div id='dialog-overlay'></div>
     {% include svg-defs.svg %}
-		{% if page.layout == 'post' or page.layout == 'news_item'%}
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>  
+	{% if page.layout == 'post' or page.layout == 'news_item'%}
 	<script>
 $(document).ready(function() {
   function shuffle(array) {
@@ -53,7 +54,6 @@ $(document).ready(function() {
   });
 });</script>
     {% endif %}
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>  
     <script src="{{ site.baseurl }}/js/all.js"></script>
     {% if page.layout == 'post' or page.layout == 'page' or page.layout == 'news_item' or page.layout == 'perkategori' %} 
     {% include disqus.html %}
