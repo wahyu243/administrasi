@@ -8,7 +8,15 @@ tags:
   - buku
   - pendidikan
   - parenting
+  - orang-tua
 ---
+
+[Administrasi.Net](https://administrasi.net "Administrasi.Net") - Setiap Ayah dan Bunda memiliki cara tersendiri dalam mengasuh anaknya, termasuk cara pola asuh. Namun, terkadang ada orang tua yang tidak menyadari pola asuh seperti apa yang sebenarnya diterapkan, padahal pola asuh adalah bagian terpenting dalam pembentukan tingkah laku dan kecerdasan anak.
+
+Diera digital ini, terdapat berbagai tips dan kiat bagi bunda dalam menerapkan pola asuh yang tepat bagi anak, salah satunya adalah buku yang dibagikan di bawan ini.
+
+Semoga **Buku Pengasuhan Positif** ini dapat membantu dan bermanfaat bagi bunda.
+
 
 ### Detail Buku
 
