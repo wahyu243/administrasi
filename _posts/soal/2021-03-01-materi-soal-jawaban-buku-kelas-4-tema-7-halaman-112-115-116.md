@@ -1,5 +1,5 @@
 ---
-title: 'Soal dan Kunci Jawaban Buku Kelas 4 SD Tema 7 Halaman 12 sd 19'
+title: 'Soal dan Kunci Jawaban Buku Kelas 4 SD Tema 7 Halaman 112, 115, dan 116'
 description: >-
   Materi, Soal dan Kunci Jawaban Tema 7 Indahnya Keragaman di Negeriku Kelas 4 Halaman 112, 115, dan 116 Buku Tematik Kurikulum 2013.
 last_modified_date: 2021-03-01T10:06:15.908Z

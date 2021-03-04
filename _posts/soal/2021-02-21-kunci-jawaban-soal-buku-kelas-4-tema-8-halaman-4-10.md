@@ -2,7 +2,7 @@
 title: 'Kunci Jawaban Soal Buku Kelas 4 SD Tema 8 Halaman 4 s/d 10'
 description: >-
   Materi, Soal dan Kunci Jawaban Tema 8 Kelas 4 Halaman 4, 5, 8, 9, dan 10 Buku Tematik Kurikulum 2013.
-last_modified_date: 2021-02-17T10:06:15.908Z
+last_modified_date: 2021-02-21T10:06:15.908Z
 image: kunci-jawaban-buku-guru-siswa.jpg
 nama_sumber_1: Tribunnews
 link_sumber_1: https://www.tribunnews.com/pendidikan/2021/02/20/kunci-jawaban-tema-8-kelas-4-sd-halaman-4-5-8-9-10-ciri-ciri-cerita-fiksi?page=all.
