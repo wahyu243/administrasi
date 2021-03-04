@@ -18,9 +18,6 @@ tags:
   - buku-guru-kelas-2-sdlb
 ---
 
-* TOC
-{:toc}
-
 **Buku Guru Kelas 2 <abbr title="Sekolah Dasar Luar Biasa">SDLB</abbr> Tema 1** ini diperuntukkan bagi guru yang memberikan layanan pendidikan/mengajar anak tunagrahita sebagai penunjang pembelajaran.
 
 [Anak tunagrahita](/teori/tunagrahita "Apa itu Tunagrahita") memiliki kecerdasan di bawah rata-rata anak normal pada umumnya, sehingga keberadaan **buku paket tematik** ini sangatlah berguna bagi guru sebagai panduan dalam menyusun program pembelajaran.

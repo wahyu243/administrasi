@@ -17,7 +17,7 @@ tags:
   - kelas-1
   - tematik
   - download
-  - buku-siswa-sdlb-kelas-1
+  - buku-siswa-kelas-1-sdlb
 ---
 
 **Buku siswa Kelas 1 <abbr title="Sekolah Dasar Luar Biasa">SDLB</abbr> C Tema 2 Kegemaranku** ini diperuntukkan bagi siswa sebagai penunjang pembelajaran.

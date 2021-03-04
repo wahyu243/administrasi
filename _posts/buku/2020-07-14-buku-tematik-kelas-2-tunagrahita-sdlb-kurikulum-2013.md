@@ -17,6 +17,7 @@ tags:
   - tunagrahita
   - sdlb
   - buku-siswa-kelas-2-sdlb
+  - buku-guru-kelas-2-sdlb
 ---
 [Tunagrahita](https://administrasi.net/teori/tunagrahita 'Pengertian Tunagrahita') adalah istilah umum yang digunakan untuk kondisi seseorang yang mengalami hambatan fungsi intelektual atau kecerdasan yang terganggu sehingga menyebabkan permasalahan-permasalahan yang harus dihadapinya selama masa perkembangannya. Berdasarkan tingkat gangguannya Tunagrahita dibagi menjadi 4 yaitu tunagrahita ringan, tunagrahita sedang, tunagrahita berat, dan tunagrahita sangat berat. 
 
