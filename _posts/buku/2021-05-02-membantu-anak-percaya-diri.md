@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Buku Membantu Anak Percaya Diri
-description: Buku Membantu Anak Percaya Diri merupakan buku tips trik membantu menumbuhkan rasa peraya diri anak.
+description: Buku Membantu Anak Percaya Diri merupakan buku tips trik membantu
+  menumbuhkan rasa peraya diri anak.
 image: membantu-anak-percaya-diri.png
 last_modified_date: 2020-05-02T09:47:20.398Z
 tags:
@@ -52,5 +53,6 @@ Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda
   
 ## Download Buku
 **Download / Baca Buku Membantu Anak Percaya Diri**:
+
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1C3inQbGnAdC5YR1qVfjOc208Khq_LA-K" rel="nofollow" target="_blank" title="Download Buku Membantu Anak Percaya Diri">Download</a>
 <a class="button demo open-dialog" href="https://drive.google.com/file/d/1C3inQbGnAdC5YR1qVfjOc208Khq_LA-K/preview" rel="nofollow" target="_blank" title="Baca Buku Membantu Anak Percaya Diri">Baca Online</a></p>
