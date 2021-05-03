@@ -4,7 +4,7 @@ title: Buku Membantu Anak Percaya Diri
 description: Buku Membantu Anak Percaya Diri merupakan buku tips trik membantu
   menumbuhkan rasa peraya diri anak.
 image: membantu-anak-percaya-diri.png
-last_modified_date: 2020-05-02T09:47:20.398Z
+last_modified_date: 2021-05-03T02:46:18.656Z
 tags:
   - buku
   - pendidikan
