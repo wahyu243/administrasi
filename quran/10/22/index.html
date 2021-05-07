@@ -5,10 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="index, follow">
-    <meta name="google-site-verification" content="{{ site.google_verification }}">
-    <meta name="msvalidate.01" content="{{ site.bing_verification }}" />
-    <link rel="canonical" href="{{ page.url | prepend: site.url }}">
-	<title>Terjemahan dan Tafsir Quran surah Yunus ayat 22 dalam Bahasa Indonesia</title>
+  	<title>Terjemahan dan Tafsir Quran surah Yunus ayat 22 dalam Bahasa Indonesia</title>
 	
  
 <!-- Google CDN -->
@@ -54,7 +51,6 @@
     <meta property="fb:app_id" content="2023057631120381">
     <meta property="og:locale" content="id">
     <meta property="og:title" content="Terjemahan dan Tafsir Quran surah Yunus ayat 22 dalam Bahasa Indonesia">
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:site_name" content="Administrasi.Net">
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -909,7 +905,7 @@ function applyClickForBookmark()
 function playAudioMurottal(surahNumber, ayahNumber, audioButton)
 {
     var reciterName = document.getElementById('murottal-reciter').value;
-    var baseMurottalUrl = 'https://quran.administrasi.net/murottal/' + reciterName + '/';
+    var baseMurottalUrl = 'https://administrasi.net/murottal/' + reciterName + '/';
     var murottalFile = (parseInt(surahNumber) * 1000 + parseInt(ayahNumber)).toString();
     murottalFile = murottalFile.padStart(6, '0') + '.mp3';
 
