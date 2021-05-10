@@ -1,0 +1,3 @@
+[submodule "quran"]
+	path = quran
+	url = https://github.com/administrasinet/quran
