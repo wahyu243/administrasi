@@ -456,22 +456,6 @@ collections:
         widget: "string"
         required: false
       - {label: "Tags", name: "tags", widget: "list"}
-      - label: "Nama Sumber 1"
-        name: "nama_sumber_1"
-        widget: "string"
-        required: false
-      - label: "Link Sumber 1"
-        name: "link_sumber_1"
-        widget: "string"
-        required: false
-      - label: "Nama Sumber 2"
-        name: "nama_sumber_2"
-        widget: "string"
-        required: false
-      - label: "Link Sumber 2"
-        name: "link_sumber_2"
-        widget: "string"
-        required: false
       - label: "Sumber video"
         name: "name_video_source"
         widget: "string"
@@ -480,6 +464,7 @@ collections:
         name: "link_video"
         widget: "string"
         required: false
+     - {label: "Video Description", name: "video_description", widget: "string"}
       - label: "Sumber Gambar"
         name: "name_img_source"
         widget: "string"
