@@ -473,6 +473,7 @@ collections:
         name: "link_img"
         widget: "string"
         required: false
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "tutorial"
     label: "Tutorial"
     folder: "_posts/tutorial"
