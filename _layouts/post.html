@@ -18,6 +18,13 @@ pagination:
                     {% if page.description %}<p>{{ page.description }}</p>{% endif %}
                     {% include ads-artikel.html %}
                     {% toc %}
+		{% if page.link_video %}
+			<div class="video-container">
+    <iframe title="{{ page.name_video_source }}" src="{{ page.link_video }}" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+				{{ page.video_description }}
+</div>
+{% endif %}
                     {{ content }} 
 				    {% include tag.html %}
                 </div>
