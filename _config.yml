@@ -212,6 +212,22 @@ defaults:
     breadcrumbs:
       - label: "Infografis"
         url: /infografis/
+- scope:
+    path: _posts/video
+    type: posts
+  values:
+    layout: post
+    category: video
+    csymb: video
+    image: twitter-card.png
+    author: wahyu
+    avatar: /img/you.jpg
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "Video"
+        url: /video/
 
 # Contact form
 api_token: 2a824f5cb9d63ff7e9d555cf5d7551fe
