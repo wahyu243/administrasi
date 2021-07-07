@@ -586,7 +586,7 @@ collections:
         name: "link_video"
         widget: "string"
         required: false
-     - {label: "Video Description", name: "video_description", widget: "string"}
+      - {label: "Video Description", name: "video_description", widget: "string"}
       - label: "Sumber Gambar"
         name: "name_img_source"
         widget: "string"
@@ -595,7 +595,6 @@ collections:
         name: "link_img"
         widget: "string"
         required: false
-      - {label: "Body", name: "body", widget: "markdown"}
   - name: "panduan"
     label: "Panduan"
     folder: "_pages/doc"
