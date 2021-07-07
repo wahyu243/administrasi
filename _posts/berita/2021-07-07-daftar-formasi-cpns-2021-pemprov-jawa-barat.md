@@ -3,6 +3,7 @@ layout: post
 title: Daftar Formasi CPNS 2021 Pemprov Jawa Barat
 description: Daftar Formasi CPNS 2021 Pemprov Jawa Barat, Sejumlah PPPK 2021
   yang Jadi Prioritas, Jadwal Seleksi
+image: http://bkd.jabarprov.go.id/uploads/media/upload-gambar-pendukung/GAMBARNA.jpeg
 last_modified_date: 2021-07-07T12:12:33.191Z
 tags:
   - cpns
