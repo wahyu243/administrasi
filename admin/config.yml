@@ -436,44 +436,6 @@ collections:
         widget: "string"
         required: false
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "video"
-    label: "Video"
-    folder: "_posts/video"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    identifier_field: name
-    fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Description", name: "description", widget: "string"}
-      - label: "Image"
-        name: "image"
-        widget: "image"
-        required: true
-      - {label: "Date", name: "date", widget: "datetime"}
-      - label: "Author"
-        name: "author"
-        widget: "string"
-        required: false
-      - {label: "Tags", name: "tags", widget: "list"}
-      - label: "Sumber video"
-        name: "name_video_source"
-        widget: "string"
-        required: false
-      - label: "Link video"
-        name: "link_video"
-        widget: "string"
-        required: false
-     - {label: "Video Description", name: "video_description", widget: "string"}
-      - label: "Sumber Gambar"
-        name: "name_img_source"
-        widget: "string"
-        required: false
-      - label: "Link Gambar"
-        name: "link_img"
-        widget: "string"
-        required: false
-      - {label: "Body", name: "body", widget: "markdown"}
   - name: "tutorial"
     label: "Tutorial"
     folder: "_posts/tutorial"
@@ -587,6 +549,44 @@ collections:
         name: "link_sumber_4"
         widget: "string"
         required: false
+      - label: "Sumber Gambar"
+        name: "name_img_source"
+        widget: "string"
+        required: false
+      - label: "Link Gambar"
+        name: "link_img"
+        widget: "string"
+        required: false
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "video"
+    label: "Video"
+    folder: "_posts/video"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    identifier_field: name
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        required: true
+      - {label: "Date", name: "date", widget: "datetime"}
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        required: false
+      - {label: "Tags", name: "tags", widget: "list"}
+      - label: "Sumber video"
+        name: "name_video_source"
+        widget: "string"
+        required: false
+      - label: "Link video"
+        name: "link_video"
+        widget: "string"
+        required: false
+     - {label: "Video Description", name: "video_description", widget: "string"}
       - label: "Sumber Gambar"
         name: "name_img_source"
         widget: "string"
