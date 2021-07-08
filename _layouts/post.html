@@ -20,8 +20,11 @@ pagination:
                     {% toc %}
 		{% if page.link_video %}
 			<div class="video-container">
-    <iframe title="{{ page.name_video_source }}" src="{{ page.link_video }}" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
+				<video id="scenario-1" class="video-js vjs-default-skin vjs-big-play-centered" controls
+ preload="auto" width="640" height="480" data-setup='{}'>
+  <source src="{{ page.link_video }}" type='video/mp4'>
+</video>
+   
 				{{ page.video_description }}
 </div>
 {% endif %}
