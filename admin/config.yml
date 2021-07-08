@@ -37,30 +37,6 @@ collections:
         name: "link_sumber_1"
         widget: "string"
         required: false
-      - label: "Nama Sumber 2"
-        name: "nama_sumber_2"
-        widget: "string"
-        required: false
-      - label: "Link Sumber 2"
-        name: "link_sumber_2"
-        widget: "string"
-        required: false
-      - label: "Nama Sumber 3"
-        name: "nama_sumber_3"
-        widget: "string"
-        required: false
-      - label: "Link Sumber 3"
-        name: "link_sumber_3"
-        widget: "string"
-        required: false
-      - label: "Nama Sumber 4"
-        name: "nama_sumber_4"
-        widget: "string"
-        required: false
-      - label: "Link Sumber 4"
-        name: "link_sumber_4"
-        widget: "string"
-        required: false
       - label: "Sumber Gambar"
         name: "name_img_source"
         widget: "string"
@@ -96,30 +72,6 @@ collections:
         required: false
       - label: "Link Sumber 1"
         name: "link_sumber_1"
-        widget: "string"
-        required: false
-      - label: "Nama Sumber 2"
-        name: "nama_sumber_2"
-        widget: "string"
-        required: false
-      - label: "Link Sumber 2"
-        name: "link_sumber_2"
-        widget: "string"
-        required: false
-      - label: "Nama Sumber 3"
-        name: "nama_sumber_3"
-        widget: "string"
-        required: false
-      - label: "Link Sumber 3"
-        name: "link_sumber_3"
-        widget: "string"
-        required: false
-      - label: "Nama Sumber 4"
-        name: "nama_sumber_4"
-        widget: "string"
-        required: false
-      - label: "Link Sumber 4"
-        name: "link_sumber_4"
         widget: "string"
         required: false
       - label: "Sumber Gambar"
@@ -159,30 +111,6 @@ collections:
         name: "link_sumber_1"
         widget: "string"
         required: false
-      - label: "Nama Sumber 2"
-        name: "nama_sumber_2"
-        widget: "string"
-        required: false
-      - label: "Link Sumber 2"
-        name: "link_sumber_2"
-        widget: "string"
-        required: false
-      - label: "Nama Sumber 3"
-        name: "nama_sumber_3"
-        widget: "string"
-        required: false
-      - label: "Link Sumber 3"
-        name: "link_sumber_3"
-        widget: "string"
-        required: false
-      - label: "Nama Sumber 4"
-        name: "nama_sumber_4"
-        widget: "string"
-        required: false
-      - label: "Link Sumber 4"
-        name: "link_sumber_4"
-        widget: "string"
-        required: false
       - label: "Sumber Gambar"
         name: "name_img_source"
         widget: "string"
@@ -217,30 +145,6 @@ collections:
         required: false
       - label: "Link Sumber 1"
         name: "link_sumber_1"
-        widget: "string"
-        required: false
-      - label: "Nama Sumber 2"
-        name: "nama_sumber_2"
-        widget: "string"
-        required: false
-      - label: "Link Sumber 2"
-        name: "link_sumber_2"
-        widget: "string"
-        required: false
-      - label: "Nama Sumber 3"
-        name: "nama_sumber_3"
-        widget: "string"
-        required: false
-      - label: "Link Sumber 3"
-        name: "link_sumber_3"
-        widget: "string"
-        required: false
-      - label: "Nama Sumber 4"
-        name: "nama_sumber_4"
-        widget: "string"
-        required: false
-      - label: "Link Sumber 4"
-        name: "link_sumber_4"
         widget: "string"
         required: false
       - label: "Sumber Gambar"
@@ -281,30 +185,6 @@ collections:
         name: "link_sumber_1"
         widget: "string"
         required: false
-      - label: "Nama Sumber 2"
-        name: "nama_sumber_2"
-        widget: "string"
-        required: false
-      - label: "Link Sumber 2"
-        name: "link_sumber_2"
-        widget: "string"
-        required: false
-      - label: "Nama Sumber 3"
-        name: "nama_sumber_3"
-        widget: "string"
-        required: false
-      - label: "Link Sumber 3"
-        name: "link_sumber_3"
-        widget: "string"
-        required: false
-      - label: "Nama Sumber 4"
-        name: "nama_sumber_4"
-        widget: "string"
-        required: false
-      - label: "Link Sumber 4"
-        name: "link_sumber_4"
-        widget: "string"
-        required: false
       - label: "Sumber Gambar"
         name: "name_img_source"
         widget: "string"
@@ -333,6 +213,7 @@ collections:
         name: "author"
         widget: "string"
         required: false
+      - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
       - label: "Nama Sumber 1"
         name: "nama_sumber_1"
@@ -340,30 +221,6 @@ collections:
         required: false
       - label: "Link Sumber 1"
         name: "link_sumber_1"
-        widget: "string"
-        required: false
-      - label: "Nama Sumber 2"
-        name: "nama_sumber_2"
-        widget: "string"
-        required: false
-      - label: "Link Sumber 2"
-        name: "link_sumber_2"
-        widget: "string"
-        required: false
-      - label: "Nama Sumber 3"
-        name: "nama_sumber_3"
-        widget: "string"
-        required: false
-      - label: "Link Sumber 3"
-        name: "link_sumber_3"
-        widget: "string"
-        required: false
-      - label: "Nama Sumber 4"
-        name: "nama_sumber_4"
-        widget: "string"
-        required: false
-      - label: "Link Sumber 4"
-        name: "link_sumber_4"
         widget: "string"
         required: false
       - label: "Sumber Gambar"
@@ -374,7 +231,6 @@ collections:
         name: "link_img"
         widget: "string"
         required: false
-      - {label: "Body", name: "body", widget: "markdown"}
   - name: "infografis"
     label: "Infografis"
     folder: "_posts/infografis"
@@ -394,6 +250,7 @@ collections:
         name: "author"
         widget: "string"
         required: false
+      - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
       - label: "Nama Sumber 1"
         name: "nama_sumber_1"
@@ -401,30 +258,6 @@ collections:
         required: false
       - label: "Link Sumber 1"
         name: "link_sumber_1"
-        widget: "string"
-        required: false
-      - label: "Nama Sumber 2"
-        name: "nama_sumber_2"
-        widget: "string"
-        required: false
-      - label: "Link Sumber 2"
-        name: "link_sumber_2"
-        widget: "string"
-        required: false
-      - label: "Nama Sumber 3"
-        name: "nama_sumber_3"
-        widget: "string"
-        required: false
-      - label: "Link Sumber 3"
-        name: "link_sumber_3"
-        widget: "string"
-        required: false
-      - label: "Nama Sumber 4"
-        name: "nama_sumber_4"
-        widget: "string"
-        required: false
-      - label: "Link Sumber 4"
-        name: "link_sumber_4"
         widget: "string"
         required: false
       - label: "Sumber Gambar"
@@ -435,7 +268,6 @@ collections:
         name: "link_img"
         widget: "string"
         required: false
-      - {label: "Body", name: "body", widget: "markdown"}
   - name: "tutorial"
     label: "Tutorial"
     folder: "_posts/tutorial"
@@ -455,6 +287,7 @@ collections:
         name: "author"
         widget: "string"
         required: false
+      - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
       - label: "Nama Sumber 1"
         name: "nama_sumber_1"
@@ -462,30 +295,6 @@ collections:
         required: false
       - label: "Link Sumber 1"
         name: "link_sumber_1"
-        widget: "string"
-        required: false
-      - label: "Nama Sumber 2"
-        name: "nama_sumber_2"
-        widget: "string"
-        required: false
-      - label: "Link Sumber 2"
-        name: "link_sumber_2"
-        widget: "string"
-        required: false
-      - label: "Nama Sumber 3"
-        name: "nama_sumber_3"
-        widget: "string"
-        required: false
-      - label: "Link Sumber 3"
-        name: "link_sumber_3"
-        widget: "string"
-        required: false
-      - label: "Nama Sumber 4"
-        name: "nama_sumber_4"
-        widget: "string"
-        required: false
-      - label: "Link Sumber 4"
-        name: "link_sumber_4"
         widget: "string"
         required: false
       - label: "Sumber Gambar"
@@ -496,7 +305,6 @@ collections:
         name: "link_img"
         widget: "string"
         required: false
-      - {label: "Body", name: "body", widget: "markdown"}
   - name: "teori"
     label: "Teori"
     folder: "_posts/teori"
@@ -516,6 +324,7 @@ collections:
         name: "author"
         widget: "string"
         required: false
+      - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
       - label: "Nama Sumber 1"
         name: "nama_sumber_1"
@@ -523,30 +332,6 @@ collections:
         required: false
       - label: "Link Sumber 1"
         name: "link_sumber_1"
-        widget: "string"
-        required: false
-      - label: "Nama Sumber 2"
-        name: "nama_sumber_2"
-        widget: "string"
-        required: false
-      - label: "Link Sumber 2"
-        name: "link_sumber_2"
-        widget: "string"
-        required: false
-      - label: "Nama Sumber 3"
-        name: "nama_sumber_3"
-        widget: "string"
-        required: false
-      - label: "Link Sumber 3"
-        name: "link_sumber_3"
-        widget: "string"
-        required: false
-      - label: "Nama Sumber 4"
-        name: "nama_sumber_4"
-        widget: "string"
-        required: false
-      - label: "Link Sumber 4"
-        name: "link_sumber_4"
         widget: "string"
         required: false
       - label: "Sumber Gambar"
@@ -557,7 +342,6 @@ collections:
         name: "link_img"
         widget: "string"
         required: false
-      - {label: "Body", name: "body", widget: "markdown"}
   - name: "video"
     label: "Video"
     folder: "_posts/video"
@@ -577,24 +361,16 @@ collections:
         name: "author"
         widget: "string"
         required: false
-      - {label: "Tags", name: "tags", widget: "list"}
-      - label: "Sumber video"
+      - label: "Judul video"
         name: "name_video_source"
         widget: "string"
         required: false
       - label: "Link video"
         name: "link_video"
         widget: "string"
-        required: false
-      - {label: "Video Description", name: "video_description", widget: "string"}
-      - label: "Sumber Gambar"
-        name: "name_img_source"
-        widget: "string"
-        required: false
-      - label: "Link Gambar"
-        name: "link_img"
-        widget: "string"
-        required: false
+        required: True
+      - {label: "Video Description", name: "video_description", widget: "markdown"}
+      - {label: "Tags", name: "tags", widget: "list"}
   - name: "panduan"
     label: "Panduan"
     folder: "_pages/doc"
