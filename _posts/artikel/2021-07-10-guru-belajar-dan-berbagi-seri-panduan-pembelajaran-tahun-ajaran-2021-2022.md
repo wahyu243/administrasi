@@ -5,6 +5,10 @@ description: Kemendikbudristek Merilis Guru Belajar dan Berbagi Seri Panduan
   Pembelajaran Tahun Ajaran 2021/2022
 image: /img/guru-belajar.jpg
 date: 2021-07-09T23:52:21.723Z
+tags:
+  - guru
+  - panduan
+  - gtk
 nama_sumber_1: Direktorat GTK
 link_sumber_1: https://gtk.kemdikbud.go.id/read-news/kemendikbudristek-merilis-guru-belajar-dan-berbagi-seri-panduan-pembelajaran-tahun-ajaran-20212022
 ---
