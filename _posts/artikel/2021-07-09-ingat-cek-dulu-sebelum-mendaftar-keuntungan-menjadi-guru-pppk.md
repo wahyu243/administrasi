@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Ingat Cek Dulu Sebelum Mendaftar (Keuntungan Menjadi Guru PPPK)
-description: "Mendikbudristek menyampaikan beberapa perubahan positif yang ingin
+description: Mendikbudristek menyampaikan beberapa perubahan positif yang ingin
   dicapai dengan rekrutmen guru PPPK. Pertama, perubahan status dari honorer ke
   ASN PPPK akan membawa jaminan kesejahteraan ekonomi bagi guru, yang meliputi
   gaji dan tunjangan profesi. Kedua, perubahan status akan memungkinkan lebih
   banyak guru mengikuti program-program peningkatan kompetensi dan sertifikasi.
-  "
 image: /img/keuntungan-ppk.jpg
 date: 2021-07-09T23:47:59.529Z
 author: wahyu
@@ -30,17 +29,13 @@ Untuk mengatasi kekurangan guru, pemerintah membuka perekrutan guru Aparatur Sip
 
 Seleksi Guru PPPK ini diselenggarakan bersama dengan Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi (PANRB), Kementerian Keuangan (Kemenkeu), Kementerian Dalam Negeri (Kemendagri), dan Badan Kepegawaian Negara (BKN), serta pemerintah daerah.
 
-
 Seleksi guru PPPK diatur dalam Peraturan Menteri PANRB Nomor 28 Tahun 2021. Dukungan alokasi gaji guru PPPK telah dipastikan Kementerian Keuangan melalui dana alokasi umum (DAU). Kemudian, Kemendagri memastikan anggaran gaji bagi guru PPPK yang terpilih dialokasikan oleh pemerintah daerah dalam Anggaran Pendapatan dan Belanja Daerah (APBD). Selanjutnya, proses pengusulan formasi disampaikan oleh masing-masing pemerintah daerah. Adapun seleksi ASN dilaksanakan oleh BKN.
-
 
 “Dengan adanya program ini, pemerintah membantu bapak/ibu guru honorer yang telah mengabdi di sekolahnya selama bertahun-tahun dan sudah melewati batas usia persyaratan ujian seleksi CPNS,” tutur Menteri Nadiem.
 
-
-### Berbagai Keuntungan Menjadi Guru PPPK
+## Berbagai Keuntungan Menjadi Guru PPPK
 Mendikbudristek menyampaikan beberapa perubahan positif yang ingin dicapai dengan rekrutmen guru PPPK. Pertama, perubahan status dari honorer ke ASN PPPK akan membawa jaminan kesejahteraan ekonomi bagi guru, yang meliputi gaji dan tunjangan profesi. Kedua, perubahan status akan memungkinkan lebih banyak guru mengikuti program-program peningkatan kompetensi dan sertifikasi. Peningkatan kompetensi ini sangat penting untuk jaminan ekonomi dan karier jangka panjang guru, serta kualitas pengajaran yang diterima oleh pelajar Indonesia.
 Ketiga, program guru ASN PPPK juga menjadi alternatif rekrutmen. “Berdasarkan Dapodik (data pokok pendidikan) tahun 2020, sebanyak 59 persen guru honorer di sekolah negeri telah berusia lebih dari 35 tahun, sehingga tidak bisa lagi mengikuti ujian seleksi CPNS (calon pegawai negeri sipil),” ungkap Menteri Nadiem.
-
 
 Sebagai upaya untuk menyukseskan target seleksi satu juta guru profesional menjadi PPPK, ujian seleksi akan dilakukan sebanyak tiga kali, yakni di bulan Agustus, Oktober, dan Desember. “Sehingga pendaftar memiliki tiga kali kesempatan untuk mencoba,” kata Nadiem.
 
