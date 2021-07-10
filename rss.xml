@@ -12,12 +12,12 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     </description>
     <language>id-ID</language>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    {% for post in site.posts limit:30 %}
+    {% for post in site.posts limit:10 %}
     <item>
       <title>{{ post.title | xml_escape }}</title>
       <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-      <guid>{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-      <pubDate>2014-12-11T04:44:16Z</pubDate>
+      <guid>{{ post.date | date_to_rfc822 | remove: ":" | remove: "-"}}</guid>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
       <author><![CDATA[{{post.author}}]]></author>
       <description>{% if post.descriptiont %}{{ post.description}}{% else %}{{ post.expert  | strip_html }}{% endif %}</description>
       <content:encoded>
