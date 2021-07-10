@@ -20,7 +20,45 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <pubDate>2014-12-11T04:44:16Z</pubDate>
       <author><![CDATA[{{post.author}}]]></author>
       <description>{% if post.descriptiont %}{{ post.description}}{% else %}{{ post.expert  | strip_html }}{% endif %}</description>
-      <content:encoded><![CDATA[ <img align="left" hspace="8" src="{%if post.image %}{{ site.url }}/img/{{ post.image | replace: '/img/','' }}{% else %}{{ site.url }}{{ site.logo }}{% endif %}"/> {% if post.content %}{{ post.content}}{% else %}{{ post.content  | strip_html }}{% endif %} ]]> </content:encoded>
+      <content:encoded>
+       <![CDATA[
+                <!doctype html>
+                <html lang="en" prefix="op: http://media.facebook.com/op#">
+              <head>
+                <meta charset="utf-8">
+                <link rel="canonical" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
+                <meta property="op:markup_version" content="v1.0">
+              </head>
+              <body>
+                <article>
+                  <header>
+                      <h1>{{ post.title | xml_escape }}</h1>
+                      {% if post.imagefeature %}
+                      <figure>
+                          <img src="{{ site.url }}/img/{{ post.image | replace: '/img/','' }}" alt=" {{ post.title }} ">
+                          <figcaption>{{ post.title }}</figcaption>
+                      </figure>
+                      {% else %}
+                      <figure>
+                          <img src="{{ site.baseurl | prepend: site.url }}/img/twitter-card.png" alt=" {{ post.title }} ">
+                          <figcaption>{{ post.title }}</figcaption>
+                      </figure>
+                      {% endif %}
+                      <time class="op-published" dateTime="{{ post.date | date: "%Y-%m-%d %H:%M:%S %Z" }}">{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</time>
+                      <time class="op-modified" dateTime="{{ post.modified | date: "%Y-%m-%d %H:%M:%S %Z" }}">{{ post.modified }}</time>
+                  </header>
+                 
+                    {{ post.content | replace: '<figure>', '<figure data-feedback="fb:likes">' }}
+                  
+                    <footer>
+                        <aside>Ditulis oleh Administrasi.net menyajikan berbagai informasi informatif tentang pendidikan, dokumen, rpp, buku, tutorial, berita, dll.</aside>
+                        <small>Copyright - Administrasi.Net</small>
+                  </footer>
+                </article>
+              </body>
+            </html>
+        ]]>
+      </content:encoded>
     </item>
     {% endfor %}
     
