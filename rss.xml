@@ -16,7 +16,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>{{ post.title | xml_escape }}</title>
       <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-      <guid>2fd4e1c67a2d28fced849ee1bb76e7391b93eb12</guid>
+      <guid>{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
       <pubDate>2014-12-11T04:44:16Z</pubDate>
       <author><![CDATA[{{post.author}}]]></author>
       <description>{% if post.descriptiont %}{{ post.description}}{% else %}{{ post.expert  | strip_html }}{% endif %}</description>
